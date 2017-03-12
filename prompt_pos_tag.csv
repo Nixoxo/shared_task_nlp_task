@@ -1,0 +1,565 @@
+Frag: billigeres Ticket 	 ADJA NN  	 ADJ NOUN  	 Ask for: a cheaper ticket 	 DT JJR NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: billiges Ticket 	 ADJA NN  	 ADJ NOUN  	 Ask for: a cheap ticket 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 1 	 1 
+Frag: Wie viel kostet es? 	 PWAV PIS VVFIN PPER $.  	 ADV PRON VERB PRON PUNCT  	 Ask for: how much does it cost? 	 WRB JJ VBZ PRP VB .  	 ADV ADJ VERB PRON VERB PUNCT  	 4 	 5 	 3 
+Sag: Ich möchte am Montag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on monday 	 PRP VBP TO VB IN NN  	 PRON VERB PART VERB ADP NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Montagmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on monday morning 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 0 	 0 
+Sag: Ich möchte am Montagnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on monday afternoon 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Montagabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on monday evening 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 2 	 0 
+Sag: Ich möchte am Dienstag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on tuesday 	 PRP VBP TO VB IN NN  	 PRON VERB PART VERB ADP NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Dienstagmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on tuesday morning 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 2 	 2 
+Sag: Ich möchte am Dienstagnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on tuesday afternoon 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 3 	 2 
+Sag: Ich möchte am Dienstagabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on tuesday evening 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 4 	 1 
+Sag: Ich möchte am Mittwoch abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on wednesday 	 PRP VBP TO VB IN NN  	 PRON VERB PART VERB ADP NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Mittwochmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on wednesday morning 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Mittwochnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on wednesday afternoon 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 0 	 0 
+Sag: Ich möchte am Mittwochabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on wednesday evening 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Donnerstag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on thursday 	 PRP VBP TO VB RP NN  	 PRON VERB PART VERB PART NOUN  	 10 	 1 	 1 
+Sag: Ich möchte am Donnerstagmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on thursday morning 	 PRP VBP TO VB RP NN NN  	 PRON VERB PART VERB PART NOUN NOUN  	 10 	 2 	 0 
+Sag: Ich möchte am Donnerstagnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on thursday afternoon 	 PRP VBP TO VB RP NN NN  	 PRON VERB PART VERB PART NOUN NOUN  	 10 	 2 	 1 
+Sag: Ich möchte am Donnerstagabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on thursday evening 	 PRP VBP TO VB RB NN NN  	 PRON VERB PART VERB ADV NOUN NOUN  	 10 	 5 	 2 
+Sag: Ich möchte am Freitag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on friday 	 PRP VBP TO VB IN NN  	 PRON VERB PART VERB ADP NOUN  	 10 	 2 	 1 
+Sag: Ich möchte am Freitagmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on friday morning 	 PRP VBP TO VB IN NN NN  	 PRON VERB PART VERB ADP NOUN NOUN  	 10 	 1 	 0 
+Sag: Ich möchte am Freitagnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on friday afternoon 	 PRP VBP TO VB IN JJ NN  	 PRON VERB PART VERB ADP ADJ NOUN  	 10 	 3 	 3 
+Sag: Ich möchte am Freitagabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on friday evening 	 PRP VBP TO VB IN JJ NN  	 PRON VERB PART VERB ADP ADJ NOUN  	 10 	 4 	 0 
+Sag: Ich möchte am Samstag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on saturday 	 PRP VBP TO VB IN NNP  	 PRON VERB PART VERB ADP PROPN  	 10 	 1 	 0 
+Sag: Ich möchte am Samstagmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on saturday morning 	 PRP VBP TO VB IN NNP NN  	 PRON VERB PART VERB ADP PROPN NOUN  	 10 	 0 	 0 
+Sag: Ich möchte am Samstagnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on saturday afternoon 	 PRP VBP TO VB IN NNP NN  	 PRON VERB PART VERB ADP PROPN NOUN  	 10 	 6 	 3 
+Sag: Ich möchte am Samstagabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on saturday evening 	 PRP VBP TO VB IN JJ NN  	 PRON VERB PART VERB ADP ADJ NOUN  	 10 	 4 	 1 
+Sag: Ich möchte am Sonntag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on sunday 	 PRP VBP TO VB IN NN  	 PRON VERB PART VERB ADP NOUN  	 10 	 0 	 0 
+Sag: Ich möchte am Sonntagmorgen abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on sunday morning 	 PRP VBP TO VB IN NNP NN  	 PRON VERB PART VERB ADP PROPN NOUN  	 10 	 0 	 0 
+Sag: Ich möchte am Sonntagnachmittag abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on sunday afternoon 	 PRP VBP TO VB IN JJ NN  	 PRON VERB PART VERB ADP ADJ NOUN  	 10 	 2 	 0 
+Sag: Ich möchte am Sonntagabend abreisen 	 PPER VMFIN APPRART NN VVINF  	 PRON VERB ADP NOUN VERB  	 Ask for: I want to leave on sunday evening 	 PRP VBP TO VB IN JJ NN  	 PRON VERB PART VERB ADP ADJ NOUN  	 10 	 2 	 0 
+Sag: Ich möchte morgen abreisen 	 PPER VMFIN ADV VVINF  	 PRON VERB ADV VERB  	 Ask for: I want to leave tomorrow 	 PRP VBP TO VB NN  	 PRON VERB PART VERB NOUN  	 10 	 0 	 0 
+Sag: Ich möchte nächste Woche abreisen 	 PPER VMFIN ADJA NN VVINF  	 PRON VERB ADJ NOUN VERB  	 Ask for: I want to leave next week 	 PRP VBP TO VB JJ NN  	 PRON VERB PART VERB ADJ NOUN  	 10 	 1 	 0 
+Sag: Ich möchte um 8 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (eight ( a m | am ) | eight o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- DT NN XX VBP -RRB- UH CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT DET NOUN X VERB PUNCT INTJ NUM NOUN PUNCT  	 30 	 1 	 0 
+Sag: Ich möchte um 9 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (nine ( a m | am ) | nine o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- DT NN XX VBP -RRB- IN CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT DET NOUN X VERB PUNCT ADP NUM NOUN PUNCT  	 30 	 0 	 0 
+Sag: Ich möchte um 10 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (ten ( a m | am ) | ten o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- DT NN XX VBP -RRB- ADD CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT DET NOUN X VERB PUNCT X NUM NOUN PUNCT  	 30 	 0 	 0 
+Sag: Ich möchte um 11 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (eleven ( a m | am ) | eleven o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- DT NN XX VBP -RRB- NFP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT DET NOUN X VERB PUNCT PUNCT NUM NOUN PUNCT  	 30 	 3 	 3 
+Sag: Ich möchte um 12 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (twelve ( a m | am ) | twelve o'clock | noon) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- DT NN XX VBP -RRB- UH CD NN CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT DET NOUN X VERB PUNCT INTJ NUM NOUN NUM NOUN PUNCT  	 40 	 0 	 0 
+Sag: Ich möchte um 13 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (one ( p m | pm ) | one o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- . CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT PUNCT NUM NOUN PUNCT  	 30 	 1 	 0 
+Sag: Ich möchte um 14 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (two ( p m | pm ) | two o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- CD CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT NUM NUM NOUN PUNCT  	 30 	 5 	 5 
+Sag: Ich möchte um 15 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (three ( p m | pm ) | three o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 4 	 1 
+Sag: Ich möchte um 16 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (four ( p m | pm ) | four o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 3 	 1 
+Sag: Ich möchte um 17 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (five ( p m | pm ) | five o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- NFP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT PUNCT NUM NOUN PUNCT  	 30 	 3 	 0 
+Sag: Ich möchte um 18 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (six ( p m | pm ) | six o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 4 	 2 
+Sag: Ich möchte um 19 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (seven ( p m | pm ) | seven o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 1 	 0 
+Sag: Ich möchte um 20 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (eight ( p m | pm ) | eight o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 0 	 0 
+Sag: Ich möchte um 21 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (nine ( p m | pm ) | nine o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 0 	 0 
+Sag: Ich möchte um 22 Uhr morgen abreisen 	 PPER VMFIN APPR CARD NN ADV VVINF  	 PRON VERB ADP NUM NOUN ADV VERB  	 Ask for: I want to leave tomorrow at (ten ( p m | pm ) | ten o'clock) 	 PRP VBP TO VB NN IN -LRB- CD -LRB- NN NN CD NN -RRB- VBP CD NN -RRB-  	 PRON VERB PART VERB NOUN ADP PUNCT NUM PUNCT NOUN NOUN NUM NOUN PUNCT VERB NUM NOUN PUNCT  	 30 	 1 	 1 
+Sag: Ich heisse Andrew 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is andrew 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 1 	 0 
+Sag: Ich heisse Andy 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is andy 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 2 	 0 	 0 
+Sag: Ich heisse Barbara 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is barbara 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Brian 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is brian 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 2 	 0 	 0 
+Sag: Ich heisse Erica 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is erica 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Jack 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is jack 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse James 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is james 	 PRP$ NN VBZ NNS  	 ADJ NOUN VERB NOUN  	 2 	 4 	 4 
+Sag: Ich heisse Janet 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is janet 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 1 	 1 
+Sag: Ich heisse John 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is john 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Maddalena 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is maddalena 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Michelle 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is michelle 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Mona 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is mona 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Nick 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is nick 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Paolo 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is paolo 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 3 	 3 
+Sag: Ich heisse Patrick 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is patrick 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Paul 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is paul 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Sarah 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is sarah 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Silvia 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is silvia 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 2 	 1 	 0 
+Sag: Ich heisse Stephanie 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is stephanie 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Thomas 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is thomas 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich bin aus Amerika 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am american 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Australien 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am australian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 4 	 1 
+Sag: Ich bin aus Deutschland 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am german 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 8 	 2 
+Sag: Ich bin aus England 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am english 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Frankreich 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am french 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 4 	 2 
+Sag: Ich bin aus Irland 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am irish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 3 	 1 
+Sag: Ich bin aus Italien 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am italian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 8 	 2 
+Sag: Ich bin aus Kanada 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am canadian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 2 	 0 
+Sag: Ich bin aus Portugal 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am portuguese 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Schottland 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am scottish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 1 	 0 
+Sag: Ich bin aus Spanien 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am spanish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 3 	 2 
+Sag: Ich bin aus der Schweiz 	 PPER VAFIN APPR ART NE  	 PRON AUX ADP DET PROPN  	 Say: i am swiss 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus der Türkei 	 PPER VAFIN APPR ART NE  	 PRON AUX ADP DET PROPN  	 Say: i am turkish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Österreich 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am austrian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Danke 	 PTKANT  	 PART  	 Thank you 	 VBP PRP  	 VERB PRON  	 5 	 0 	 0 
+Frag: 2 Tickets nach London 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: two tickets to london 	 CD NNS IN VB  	 NUM NOUN ADP VERB  	 162 	 0 	 0 
+Frag: 3 Tickets nach London 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: three tickets to london 	 CD NNS IN VB  	 NUM NOUN ADP VERB  	 162 	 2 	 1 
+Frag: 4 Tickets nach London 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: four tickets to london 	 CD NNS IN VB  	 NUM NOUN ADP VERB  	 162 	 1 	 1 
+Frag: 5 Tickets nach London 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: five tickets to london 	 CD NNS IN VB  	 NUM NOUN ADP VERB  	 162 	 2 	 1 
+Frag: 6 Tickets nach London 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: six tickets to london 	 CD NNS IN VB  	 NUM NOUN ADP VERB  	 162 	 0 	 0 
+Frag: ein Ticket nach London 	 ART NN APPR NE  	 DET NOUN ADP PROPN  	 Ask for: ( a | one ) ticket to london 	 -LRB- DT FW CD -RRB- NN IN VB  	 PUNCT DET X NUM PUNCT NOUN ADP VERB  	 324 	 4 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Sag: Dies ist okay 	 PDS VAFIN ADV  	 PRON AUX ADV  	 Say: that is okay 	 DT VBZ JJ  	 DET VERB ADJ  	 2 	 0 	 0 
+Sag: Die Hauptstadt von der Schweiz ist Bern 	 ART NN APPR ART NE VAFIN NE  	 DET NOUN ADP DET PROPN AUX PROPN  	 Say: the capital of switzerland ist bern 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 1 	 0 
+Sag: Die Hauptstadt von der Türkei ist Ankara 	 ART NN APPR ART NE VAFIN NE  	 DET NOUN ADP DET PROPN AUX PROPN  	 Say: the capital of turkey ist ankara 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 2 	 0 
+Sag: Die Hauptstadt von Deutschland ist Berlin 	 ART NN APPR NE VAFIN NE  	 DET NOUN ADP PROPN AUX PROPN  	 Say: the capital of germany ist berlin 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 3 	 0 
+Sag: Die Hauptstadt von Frankreich ist Paris 	 ART NN APPR NE VAFIN NE  	 DET NOUN ADP PROPN AUX PROPN  	 Say: the capital of france ist paris 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 3 	 0 
+Sag: Die Hauptstadt von Italien ist Rom 	 ART NN APPR NE VAFIN NE  	 DET NOUN ADP PROPN AUX PROPN  	 Say: the capital of italy ist rome 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 9 	 1 
+Sag: Die Hauptstadt von Portugal ist Lissabon 	 ART NN APPR NE VAFIN NE  	 DET NOUN ADP PROPN AUX PROPN  	 Say: the capital of portugal ist lisbon 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 6 	 1 
+Sag: Die Hauptstadt von Spanien ist Madrid 	 ART NN APPR NE VAFIN NE  	 DET NOUN ADP PROPN AUX PROPN  	 Say: the capital of spain ist madrid 	 DT NN IN NN NN VBP  	 DET NOUN ADP NOUN NOUN VERB  	 1 	 3 	 2 
+Sag: Die Hauptstadt von Österreich ist Wien 	 ART NN APPR NE VAFIN NE  	 DET NOUN ADP PROPN AUX PROPN  	 Say: the capital of austria ist vienna 	 DT NN IN NN NN NN  	 DET NOUN ADP NOUN NOUN NOUN  	 1 	 6 	 0 
+Sag: Deutschland ist in Europa 	 NE VAFIN APPR NE  	 PROPN AUX ADP PROPN  	 germany is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 0 	 0 
+Sag: Die Schweiz ist in Europa 	 ART NE VAFIN APPR NE  	 DET PROPN AUX ADP PROPN  	 switzerland is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 1 	 0 
+Sag: Die Türkei ist in Europa 	 ART NE VAFIN APPR NE  	 DET PROPN AUX ADP PROPN  	 turkey is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 0 	 0 
+Sag: Frankreich ist in Europa 	 NE VAFIN APPR NE  	 PROPN AUX ADP PROPN  	 france is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 0 	 0 
+Sag: Italien ist in Europa 	 NE VAFIN APPR NE  	 PROPN AUX ADP PROPN  	 italy is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 1 	 1 
+Sag: Portugal ist in Europa 	 NE VAFIN APPR NE  	 PROPN AUX ADP PROPN  	 portugal is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 0 	 0 
+Sag: Spanien ist in Europa 	 NE VAFIN APPR NE  	 PROPN AUX ADP PROPN  	 spain is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 0 	 0 
+Sag: Österreich ist in Europa 	 NE VAFIN APPR NE  	 PROPN AUX ADP PROPN  	 austria is in europe 	 NN VBZ IN NN  	 NOUN VERB ADP NOUN  	 1 	 0 	 0 
+Sag: Deutschland ist nicht in Afrika 	 NE VAFIN PTKNEG APPR NE  	 PROPN AUX PART ADP PROPN  	 Say: germany is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 0 	 0 
+Sag: Die Schweiz ist nicht in Afrika 	 ART NE VAFIN PTKNEG APPR NE  	 DET PROPN AUX PART ADP PROPN  	 Say: switzerland is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 2 	 2 
+Sag: Die Türkei ist nicht in Afrika 	 ART NE VAFIN PTKNEG APPR NE  	 DET PROPN AUX PART ADP PROPN  	 Say: turkey is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 0 	 0 
+Sag: Frankreich ist nicht in Afrika 	 NE VAFIN PTKNEG APPR NE  	 PROPN AUX PART ADP PROPN  	 Say: france is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 0 	 0 
+Sag: Italien ist nicht in Afrika 	 NE VAFIN PTKNEG APPR NE  	 PROPN AUX PART ADP PROPN  	 Say: italy is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 1 	 1 
+Sag: Portugal ist nicht in Afrika 	 NE VAFIN PTKNEG APPR NE  	 PROPN AUX PART ADP PROPN  	 Say: portugal is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 1 	 1 
+Sag: Spanien ist nicht in Afrika 	 NE VAFIN PTKNEG APPR NE  	 PROPN AUX PART ADP PROPN  	 Say: spain is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 0 	 0 
+Sag: Österreich ist nicht in Afrika 	 NE VAFIN PTKNEG APPR NE  	 PROPN AUX PART ADP PROPN  	 Say: austria is not in africa 	 NN VBZ RB IN NN  	 NOUN VERB ADV ADP NOUN  	 2 	 0 	 0 
+Auf Wiedersehen 	 APPR NN  	 ADP NOUN  	 Goodbye 	 UH  	 INTJ  	 3 	 0 	 0 
+Sag: Ich heisse Andrew 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is andrew 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 1 	 0 
+Sag: Ich heisse Andy 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is andy 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 2 	 0 	 0 
+Sag: Ich heisse Barbara 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is barbara 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Brian 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is brian 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 2 	 0 	 0 
+Sag: Ich heisse Erica 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is erica 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Jack 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is jack 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse James 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is james 	 PRP$ NN VBZ NNS  	 ADJ NOUN VERB NOUN  	 2 	 4 	 4 
+Sag: Ich heisse Janet 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is janet 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 1 	 1 
+Sag: Ich heisse John 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is john 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Maddalena 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is maddalena 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Michelle 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is michelle 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Mona 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is mona 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Nick 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is nick 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Paolo 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is paolo 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 3 	 3 
+Sag: Ich heisse Patrick 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is patrick 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Paul 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is paul 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Sarah 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is sarah 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Ich heisse Silvia 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is silvia 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 2 	 1 	 0 
+Sag: Ich heisse Stephanie 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is stephanie 	 PRP$ NN VBZ NN  	 ADJ NOUN VERB NOUN  	 2 	 0 	 0 
+Sag: Ich heisse Thomas 	 PPER VVFIN NE  	 PRON VERB PROPN  	 Say: my name is thomas 	 PRP$ NN VBZ NNP  	 ADJ NOUN VERB PROPN  	 2 	 0 	 0 
+Sag: Das ist okay 	 PDS VAFIN ADV  	 PRON AUX ADV  	 Say: that's okay 	 DT VBZ JJ  	 DET VERB ADJ  	 3 	 1 	 1 
+Sag: Dies ist okay 	 PDS VAFIN ADV  	 PRON AUX ADV  	 Say: that is okay 	 DT VBZ JJ  	 DET VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Amerika 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am american 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Australien 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am australian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 4 	 1 
+Sag: Ich bin aus Deutschland 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am german 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 8 	 2 
+Sag: Ich bin aus England 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am english 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Frankreich 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am french 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 4 	 2 
+Sag: Ich bin aus Irland 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am irish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 3 	 1 
+Sag: Ich bin aus Italien 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am italian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 8 	 2 
+Sag: Ich bin aus Kanada 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am canadian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 2 	 0 
+Sag: Ich bin aus Portugal 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am portuguese 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Schottland 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am scottish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 1 	 0 
+Sag: Ich bin aus Spanien 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am spanish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 3 	 2 
+Sag: Ich bin aus der Schweiz 	 PPER VAFIN APPR ART NE  	 PRON AUX ADP DET PROPN  	 Say: i am swiss 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus der Türkei 	 PPER VAFIN APPR ART NE  	 PRON AUX ADP DET PROPN  	 Say: i am turkish 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich bin aus Österreich 	 PPER VAFIN APPR NE  	 PRON AUX ADP PROPN  	 Say: i am austrian 	 PRP VBP JJ  	 PRON VERB ADJ  	 2 	 0 	 0 
+Sag: Ich gehe in die Ferien 	 PPER VVFIN APPR ART NN  	 PRON VERB ADP DET NOUN  	 Say: I am on holiday 	 PRP VBP IN NN  	 PRON VERB ADP NOUN  	 2 	 70 	 50 
+Sag: Ich habe 1 Bruder 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have one brother 	 PRP VBP CD NN  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 1 Schwester 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have one sister 	 PRP VBP CD NN  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe eine jüngere Schwester 	 PPER VAFIN ART ADJA NN  	 PRON AUX DET ADJ NOUN  	 Say: i have one younger sister 	 PRP VBP CD JJR NN  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe eine ältere Schwester 	 PPER VAFIN ART ADJA NN  	 PRON AUX DET ADJ NOUN  	 Say: i have one older sister 	 PRP VBP CD JJR NN  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe einen jüngeren Bruder 	 PPER VAFIN ART ADJA NN  	 PRON AUX DET ADJ NOUN  	 Say: i have one younger brother 	 PRP VBP CD JJR NN  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe einen älteren Bruder 	 PPER VAFIN ART ADJA NN  	 PRON AUX DET ADJ NOUN  	 Say: i have one older brother 	 PRP VBP CD JJR NN  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 2 Brüder 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have two brothers 	 PRP VBP CD NNS  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 2 Schwestern 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have two sisters 	 PRP VBP CD NNS  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 2 jüngere Brüder 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have two younger brothers 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 2 jüngere Schwestern 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have two younger sisters 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 2 ältere Brüder 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have two older brothers 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 2 ältere Schwestern 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have two older sisters 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 3 Brüder 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have three brothers 	 PRP VBP CD NNS  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 3 Schwestern 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have three sisters 	 PRP VBP CD NNS  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 3 jüngere Brüder 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have three younger brothers 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 2 	 0 
+Sag: Ich habe 3 jüngere Schwestern 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have three younger sisters 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 1 	 0 
+Sag: Ich habe 3 ältere Brüder 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have three older brothers 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 3 ältere Schwestern 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have three older sisters 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Sag: Ich habe 4 Brüder 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have four brothers 	 PRP VBP CD NNS  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 4 Schwestern 	 PPER VAFIN CARD NN  	 PRON AUX NUM NOUN  	 Say: i have four sisters 	 PRP VBP CD NNS  	 PRON VERB NUM NOUN  	 2 	 0 	 0 
+Sag: Ich habe 4 jüngere Brüder 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have four younger brothers 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 3 	 1 
+Sag: Ich habe 4 jüngere Schwestern 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have four younger sisters 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 1 	 0 
+Sag: Ich habe 4 ältere Brüder 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have four older brothers 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 1 	 0 
+Sag: Ich habe 4 ältere Schwestern 	 PPER VAFIN CARD ADJA NN  	 PRON AUX NUM ADJ NOUN  	 Say: i have four older sisters 	 PRP VBP CD JJR NNS  	 PRON VERB NUM ADJ NOUN  	 2 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Sag: Dies ist mein Pass 	 PDS VAFIN PPOSAT NN  	 PRON AUX DET NOUN  	 Say: that is my passport 	 DT VBZ PRP$ NN  	 DET VERB ADJ NOUN  	 4 	 8 	 7 
+Frag: Wo ist das British Museum? 	 PWAV VAFIN ART NE NE $.  	 ADV AUX DET PROPN PROPN PUNCT  	 Say: where is the british museum 	 WRB VBZ DT JJ NN  	 ADV VERB DET ADJ NOUN  	 6 	 2 	 2 
+Frag: Wo ist das Naturhistorische Museum? 	 PWAV VAFIN ART ADJA NN $.  	 ADV AUX DET ADJ NOUN PUNCT  	 Say: where is the natural history museum 	 WRB VBZ DT JJ NN NN  	 ADV VERB DET ADJ NOUN NOUN  	 6 	 4 	 3 
+Frag: Wo ist das Science Museum? 	 PWAV VAFIN ART NE NE $.  	 ADV AUX DET PROPN PROPN PUNCT  	 Say: where is the science museum 	 WRB VBZ DT NN NN  	 ADV VERB DET NOUN NOUN  	 6 	 0 	 0 
+Frag: Wo ist der Zoo? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Say: where is the zoo 	 WRB VBZ DT NN  	 ADV VERB DET NOUN  	 6 	 0 	 0 
+Frag: Wo ist die National Gallery? 	 PWAV VAFIN ART NE NE $.  	 ADV AUX DET PROPN PROPN PUNCT  	 Say: where is the national gallery 	 WRB VBZ DT JJ NN  	 ADV VERB DET ADJ NOUN  	 6 	 0 	 0 
+Frag: Wo ist die Tate Modern? 	 PWAV VAFIN ART NE NE $.  	 ADV AUX DET PROPN PROPN PUNCT  	 Say: where is the tate modern 	 WRB VBZ DT NN JJ  	 ADV VERB DET NOUN ADJ  	 6 	 0 	 0 
+Frag: Wo ist Big Ben? 	 PWAV VAFIN NE NE $.  	 ADV AUX PROPN PROPN PUNCT  	 Say: where is big ben 	 WRB VBZ JJ NN  	 ADV VERB ADJ NOUN  	 6 	 5 	 3 
+Frag: Wo ist Madame Tussauds? 	 PWAV VAFIN NE NE $.  	 ADV AUX PROPN PROPN PUNCT  	 Say: where is madame tussauds 	 WRB VBZ NN NNS  	 ADV VERB NOUN NOUN  	 6 	 0 	 0 
+Frag: Wo ist Piccadilly Circus? 	 PWAV VAFIN NE NE $.  	 ADV AUX PROPN PROPN PUNCT  	 Say: where is piccadilly circus 	 WRB VBZ JJ NN  	 ADV VERB ADJ NOUN  	 6 	 10 	 0 
+Frag: Wo ist das London Eye? 	 PWAV VAFIN ART NE NE $.  	 ADV AUX DET PROPN PROPN PUNCT  	 Say: where is the london eye 	 WRB VBZ DT JJ NN  	 ADV VERB DET ADJ NOUN  	 6 	 2 	 2 
+Frag: Wo ist der Tower? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Say: where is the tower of london 	 WRB VBZ DT NN IN NN  	 ADV VERB DET NOUN ADP NOUN  	 6 	 2 	 2 
+Frag: Wo ist die Oxford Street? 	 PWAV VAFIN ART NE NE $.  	 ADV AUX DET PROPN PROPN PUNCT  	 Say: where is oxford street 	 WRB VBZ JJ NN  	 ADV VERB ADJ NOUN  	 6 	 9 	 0 
+Frag: Welcher Bus fährt dorthin? 	 PWAT NN VVFIN ADV $.  	 DET NOUN VERB ADV PUNCT  	 Say: which bus goes there 	 WDT NN VBZ RB  	 ADJ NOUN VERB ADV  	 1 	 11 	 1 
+Sag: Ich weiss es nicht 	 PPER VVFIN PPER PTKNEG  	 PRON VERB PRON PART  	 Say: i don't know 	 PRP VBP RB VB  	 PRON VERB ADV VERB  	 2 	 0 	 0 
+Sag: Big Ben ist neben den Houses of Parliament 	 NE NE VAFIN APPR ART NE NE NE  	 PROPN PROPN AUX ADP DET PROPN PROPN PROPN  	 Say: big ben is next to the houses of parliament 	 JJ NN VBZ RB IN DT NNS IN NN  	 ADJ NOUN VERB ADV ADP DET NOUN ADP NOUN  	 2 	 6 	 0 
+Sag: Der Tower ist nahe der Tower Bridge 	 ART NN VAFIN APPR ART NE NE  	 DET NOUN AUX ADP DET PROPN PROPN  	 the tower is near tower bridge 	 DT NN VBZ JJ NN NN  	 DET NOUN VERB ADJ NOUN NOUN  	 2 	 6 	 5 
+Sag: Es ist nahe der Bank of England 	 PPER VAFIN APPR ART NE NE NE  	 PRON AUX ADP DET PROPN PROPN PROPN  	 it is near the bank of england 	 PRP VBZ IN DT NN IN NN  	 PRON VERB ADP DET NOUN ADP NOUN  	 2 	 4 	 1 
+Sag: Marble Arch ist gegenüber dem Hyde Park 	 NE NE VAFIN APPR ART NE NN  	 PROPN PROPN AUX ADP DET PROPN NOUN  	 marble arch is opposite hyde park 	 JJ NN VBZ JJ NN NN  	 ADJ NOUN VERB ADJ NOUN NOUN  	 2 	 10 	 9 
+Sag: Saint Pauls Cathedral ist nahe der Bank of England 	 NE NE NE VAFIN APPR ART NE NE NE  	 PROPN PROPN PROPN AUX ADP DET PROPN PROPN PROPN  	 saint pauls cathedral is near the bank of england 	 NN NNS NN VBZ IN DT NN IN NN  	 NOUN NOUN NOUN VERB ADP DET NOUN ADP NOUN  	 2 	 5 	 3 
+Auf Wiedersehen 	 APPR NN  	 ADP NOUN  	 Goodbye 	 UH  	 INTJ  	 3 	 0 	 0 
+Sag: Ich muss gehen 	 PPER VMFIN VVINF  	 PRON VERB VERB  	 i have to go 	 PRP VBP TO VB  	 PRON VERB PART VERB  	 4 	 4 	 0 
+Danke 	 PTKANT  	 PART  	 thank you 	 VBP PRP  	 VERB PRON  	 5 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Sag: Das Badezimmer ist dreckig 	 ART NN VAFIN ADJD  	 DET NOUN AUX ADJ  	 Say: the bathroom is dirty 	 DT NN VBZ JJ  	 DET NOUN VERB ADJ  	 1 	 1 	 1 
+Sag: Das WC ist dreckig 	 ART NE VAFIN ADJD  	 DET PROPN AUX ADJ  	 Say: the toilet is dirty 	 DT NN VBZ JJ  	 DET NOUN VERB ADJ  	 1 	 2 	 2 
+Sag: Das Zimmer ist dreckig 	 ART NN VAFIN ADJD  	 DET NOUN AUX ADJ  	 Say: the room is dirty 	 DT NN VBZ JJ  	 DET NOUN VERB ADJ  	 1 	 0 	 0 
+Sag: Mein Badezimmer ist dreckig 	 PPOSAT NN VAFIN ADJD  	 DET NOUN AUX ADJ  	 Say: my bathroom is dirty 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 1 	 1 	 0 
+Sag: Mein WC ist dreckig 	 PPOSAT NN VAFIN ADJD  	 DET NOUN AUX ADJ  	 Say: my toilet is dirty 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 1 	 1 	 1 
+Sag: Mein Zimmer ist dreckig 	 PPOSAT NN VAFIN ADJD  	 DET NOUN AUX ADJ  	 Say: my room is dirty 	 PRP$ NN VBZ JJ  	 ADJ NOUN VERB ADJ  	 1 	 1 	 1 
+Frag: Gibt es ein Fitnessstudio? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there (a fitness centre | a gym)? 	 VBZ EX -LRB- DT NN NN VBZ DT NN -RRB- .  	 VERB ADV PUNCT DET NOUN NOUN VERB DET NOUN PUNCT PUNCT  	 8 	 21 	 8 
+Frag: Gibt es ein Hotelrestaurant? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there a ?hotel restaurant? 	 VBZ EX DT . NN NN .  	 VERB ADV DET PUNCT NOUN NOUN PUNCT  	 8 	 6 	 2 
+Frag: Gibt es ein Schwimmbad? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there a ?swimming pool? 	 VBZ EX DT . VBG NN .  	 VERB ADV DET PUNCT VERB NOUN PUNCT  	 8 	 9 	 6 
+Frag: Gibt es eine Hotelbar? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there a ?hotel bar? 	 VBZ EX DT . NN NN .  	 VERB ADV DET PUNCT NOUN NOUN PUNCT  	 8 	 18 	 5 
+Frag: Gibt es einen Coiffeur? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there a hairdresser? 	 VBZ EX DT NN .  	 VERB ADV DET NOUN PUNCT  	 4 	 17 	 10 
+Frag: Gibt es einen Lebensmittelladen? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there (a grocery store | a supermarket)? 	 VBZ EX -LRB- DT NN NN VBD DT NN -RRB- .  	 VERB ADV PUNCT DET NOUN NOUN VERB DET NOUN PUNCT PUNCT  	 8 	 30 	 21 
+Frag: Gibt es einen Lift? 	 VVFIN PPER ART NN $.  	 VERB PRON DET NOUN PUNCT  	 Ask for: is there (a lift | an elevator)? 	 VBZ EX -LRB- DT NN NN DT NN -RRB- .  	 VERB ADV PUNCT DET NOUN NOUN DET NOUN PUNCT PUNCT  	 8 	 5 	 1 
+Sag: Ich möchte mit Dollars bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by dollars 	 PRP MD VB TO VB IN NNS  	 PRON VERB VERB PART VERB ADP NOUN  	 24 	 16 	 5 
+Sag: Ich möchte mit Euros bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by euros 	 PRP MD VB TO VB IN NNS  	 PRON VERB VERB PART VERB ADP NOUN  	 24 	 11 	 2 
+Sag: Ich möchte mit Schweizer Franken bezahlen 	 PPER VMFIN APPR ADJA NN VVINF  	 PRON VERB ADP ADJ NOUN VERB  	 Say: i would like to pay by swiss francs 	 PRP MD VB TO VB IN JJ NNS  	 PRON VERB VERB PART VERB ADP ADJ NOUN  	 24 	 10 	 2 
+Sag: Ich möchte mit Kreditkarte bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by ?credit ( card | cards ) 	 PRP MD VB TO VB RP . NN -LRB- NN JJ NNS -RRB-  	 PRON VERB VERB PART VERB PART PUNCT NOUN PUNCT NOUN ADJ NOUN PUNCT  	 96 	 78 	 17 
+Sag: Ich möchte mit Mastercard bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by ( mastercard | master card ) 	 PRP MD VB TO VB RP -LRB- NN NNP NN NN -RRB-  	 PRON VERB VERB PART VERB PART PUNCT NOUN PROPN NOUN NOUN PUNCT  	 48 	 45 	 11 
+Sag: Ich möchte mit Postkarte bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by post card 	 PRP MD VB TO VB IN NN NN  	 PRON VERB VERB PART VERB ADP NOUN NOUN  	 24 	 44 	 5 
+Sag: Ich möchte mit Visa bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by visa 	 PRP MD VB TO VB IN NN  	 PRON VERB VERB PART VERB ADP NOUN  	 24 	 29 	 4 
+Frag: Haarföhn 	 NN  	 NOUN  	 Ask for: a hairdryer 	 DT NN  	 DET NOUN  	 162 	 2 	 0 
+Frag: Wo ist der Haarföhn? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is a hairdryer? 	 WRB VBZ DT NN .  	 ADV VERB DET NOUN PUNCT  	 2 	 3 	 2 
+Sag: Im Zimmer hat es kein Duschgel 	 APPRART NN VAFIN PPER PIAT NN  	 ADP NOUN AUX PRON DET NOUN  	 Say: there is no shower gel in the room 	 EX VBZ DT NN NN IN DT NN  	 ADV VERB DET NOUN NOUN ADP DET NOUN  	 14 	 5 	 2 
+Sag: Im Zimmer hat es keinen Haarföhn 	 APPRART NN VAFIN PPER PIAT NN  	 ADP NOUN AUX PRON DET NOUN  	 Say: there is no hairdryer in the room 	 EX VBZ DT NN IN DT NN  	 ADV VERB DET NOUN ADP DET NOUN  	 14 	 8 	 0 
+Sag: Im Zimmer hat es kein Shampoo 	 APPRART NN VAFIN PPER PIAT NN  	 ADP NOUN AUX PRON DET NOUN  	 Say: there is no shampoo in the room 	 EX VBZ DT NN IN DT NN  	 ADV VERB DET NOUN ADP DET NOUN  	 14 	 3 	 0 
+Nein 	 PTKANT  	 PART  	 no 	 DT  	 DET  	 1 	 0 	 0 
+Sag: Ich habe keine Reservation 	 PPER VAFIN PIAT NN  	 PRON AUX DET NOUN  	 Say: i don't have a reservation 	 PRP VBP RB VB DT NN  	 PRON VERB ADV VERB DET NOUN  	 12 	 40 	 12 
+Frag: Zimmer für 1 Woche 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for one week 	 DT NN IN CD NN  	 DET NOUN ADP NUM NOUN  	 71 	 3 	 2 
+Frag: Zimmer für 2 Nächte 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for two nights 	 DT NN IN CD NNS  	 DET NOUN ADP NUM NOUN  	 71 	 7 	 3 
+Frag: Zimmer für 3 Nächte 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for three nights 	 DT NN IN CD NNS  	 DET NOUN ADP NUM NOUN  	 71 	 7 	 1 
+Frag: Zimmer für 4 Nächte 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for four nights 	 DT NN IN CD NNS  	 DET NOUN ADP NUM NOUN  	 71 	 11 	 6 
+Frag: Zimmer für 5 Nächte 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for five nights 	 DT NN IN CD NNS  	 DET NOUN ADP NUM NOUN  	 71 	 7 	 3 
+Frag: Zimmer für 6 Nächte 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for six nights 	 DT NN IN CD NNS  	 DET NOUN ADP NUM NOUN  	 71 	 10 	 7 
+Frag: Zimmer für 7 Nächte 	 NN APPR CARD NN  	 NOUN ADP NUM NOUN  	 Ask for: a room for seven nights 	 DT NN IN CD NNS  	 DET NOUN ADP NUM NOUN  	 71 	 2 	 0 
+Danke 	 PTKANT  	 PART  	 thank you 	 VBP PRP  	 VERB PRON  	 5 	 0 	 0 
+Frag: Doppelzimmer 	 NN  	 NOUN  	 Ask for: a double room 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 7 	 5 
+Frag: Einzelzimmer 	 NN  	 NOUN  	 Ask for: a single room 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 17 	 9 
+Frag: Junior Suite 	 NE NE  	 PROPN PROPN  	 Ask for: a junior suite 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 4 	 3 
+Frag: Suite 	 NN  	 NOUN  	 Ask for: a suite 	 DT NN  	 DET NOUN  	 162 	 6 	 1 
+Frag: Twinzimmer 	 NN  	 NOUN  	 Ask for: a twin room 	 DT NN NN  	 DET NOUN NOUN  	 162 	 22 	 19 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Frag: Wo kann ich ein Duschgel kaufen? 	 PWAV VMFIN PPER ART NN VVINF $.  	 ADV VERB PRON DET NOUN VERB PUNCT  	 Ask for: where can i buy shower gel? 	 WRB MD PRP VB NN NN .  	 ADV VERB PRON VERB NOUN NOUN PUNCT  	 1 	 0 	 0 
+Frag: Wo kann ich ein Shampoo kaufen? 	 PWAV VMFIN PPER ART NN VVINF $.  	 ADV VERB PRON DET NOUN VERB PUNCT  	 Ask for: where can i buy shampoo? 	 WRB MD PRP VB NN .  	 ADV VERB PRON VERB NOUN PUNCT  	 1 	 1 	 1 
+Frag: Wo kann ich einen Haarföhn kaufen? 	 PWAV VMFIN PPER ART NN VVINF $.  	 ADV VERB PRON DET NOUN VERB PUNCT  	 Ask for: where can i buy a hairdryer? 	 WRB MD PRP VB DT NN .  	 ADV VERB PRON VERB DET NOUN PUNCT  	 1 	 1 	 1 
+Frag: Wo ist das Fitnessstudio? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is ( the fitness centre | the gym )? 	 WRB VBZ -LRB- DT NN NN VBZ DT NN -RRB- .  	 ADV VERB PUNCT DET NOUN NOUN VERB DET NOUN PUNCT PUNCT  	 8 	 6 	 0 
+Frag: Wo ist das Hotelrestaurant? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is the ?hotel restaurant? 	 WRB VBZ DT . NN NN .  	 ADV VERB DET PUNCT NOUN NOUN PUNCT  	 8 	 5 	 5 
+Frag: Wo ist das Schwimmbad? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is the ?swimming pool? 	 WRB VBZ DT . VBG NN .  	 ADV VERB DET PUNCT VERB NOUN PUNCT  	 8 	 1 	 1 
+Frag: Wo ist der Coiffeur? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is the hairdresser? 	 WRB VBZ DT NN .  	 ADV VERB DET NOUN PUNCT  	 4 	 6 	 6 
+Frag: Wo ist der Lebensmittelladen? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is (the grocery store | the supermarket) ? 	 WRB VBZ -LRB- DT NN NN VBD DT NN -RRB- .  	 ADV VERB PUNCT DET NOUN NOUN VERB DET NOUN PUNCT PUNCT  	 8 	 7 	 4 
+Frag: Wo ist der Lift? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is the ( lift | elevator )? 	 WRB VBZ DT -LRB- NN JJ NN -RRB- .  	 ADV VERB DET PUNCT NOUN ADJ NOUN PUNCT PUNCT  	 8 	 1 	 1 
+Frag: Wo ist die Hotelbar? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 Ask for: where is the ?hotel bar? 	 WRB VBZ DT . NN NN .  	 ADV VERB DET PUNCT NOUN NOUN PUNCT  	 8 	 4 	 3 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Frag: Ich möchte die Rechnung 	 PPER VMFIN ART NN  	 PRON VERB DET NOUN  	 Ask for: ( bill | check ) 	 -LRB- NN NNP VB -RRB-  	 PUNCT NOUN PROPN VERB PUNCT  	 70 	 5 	 1 
+Frag: Scones 	 NN  	 NOUN  	 Ask for: ( the | some ) scones 	 -LRB- DT NNP DT -RRB- NNS  	 PUNCT DET PROPN DET PUNCT NOUN  	 100 	 0 	 0 
+Frag: Himbeersorbet 	 NE  	 PROPN  	 Ask for: the raspberry sorbet 	 DT JJ NN  	 DET ADJ NOUN  	 50 	 0 	 0 
+Frag: Trifle 	 NN  	 NOUN  	 Ask for: the trifle 	 DT NN  	 DET NOUN  	 50 	 0 	 0 
+Frag: Apfelkuchen 	 NN  	 NOUN  	 Ask for: the apple pie 	 DT NN NN  	 DET NOUN NOUN  	 50 	 1 	 0 
+Frag: Custard Tart 	 NE NE  	 PROPN PROPN  	 Ask for: the custard tart 	 DT NN NN  	 DET NOUN NOUN  	 50 	 1 	 1 
+Frag: Karrotenkuchen 	 NN  	 NOUN  	 Ask for: the carrot cake 	 DT NN NN  	 DET NOUN NOUN  	 50 	 1 	 1 
+Frag: Rhabarberkuchen 	 NN  	 NOUN  	 Ask for: the rhubarb pie 	 DT NN NN  	 DET NOUN NOUN  	 50 	 2 	 1 
+Frag: Zitronenkuchen 	 NN  	 NOUN  	 Ask for: the lemon pie 	 DT NN NN  	 DET NOUN NOUN  	 50 	 4 	 4 
+Frag: Schokoladenglace 	 NE  	 PROPN  	 Ask for: the chocolate ice cream 	 DT NN NN NN  	 DET NOUN NOUN NOUN  	 50 	 2 	 1 
+Frag: Vanilleglace 	 NE  	 PROPN  	 Ask for: the vanilla ice cream 	 DT NN NN NN  	 DET NOUN NOUN NOUN  	 50 	 0 	 0 
+Frag: Ich möchte die Dessertkarte 	 PPER VMFIN ART NN  	 PRON VERB DET NOUN  	 Ask for: i would like to the dessert menu 	 PRP MD VB IN DT NN NN  	 PRON VERB VERB ADP DET NOUN NOUN  	 5 	 64 	 4 
+Frag: ein Wasser mit Kohlensäure 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: a ?(glass of) sparkling water 	 DT . -LRB- NN IN -RRB- JJ NN  	 DET PUNCT PUNCT NOUN ADP PUNCT ADJ NOUN  	 100 	 8 	 4 
+Frag: ein Wasser ohne Kohlensäure 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: a ?(glass of) still water 	 DT . -LRB- NN IN -RRB- RB NN  	 DET PUNCT PUNCT NOUN ADP PUNCT ADV NOUN  	 100 	 2 	 1 
+Frag: eine Cola 	 ART NN  	 DET NOUN  	 Ask for: a coke 	 DT NN  	 DET NOUN  	 50 	 0 	 0 
+Frag: eine Fanta 	 ART NN  	 DET NOUN  	 Ask for: a fanta 	 DT NN  	 DET NOUN  	 50 	 0 	 0 
+Frag: eine Limonade 	 ART NN  	 DET NOUN  	 Ask for: a lemonade 	 DT NN  	 DET NOUN  	 50 	 2 	 1 
+Frag: einen Kaffee 	 ART NN  	 DET NOUN  	 Ask for: a ?(cup of) coffee 	 DT . -LRB- NN IN -RRB- NN  	 DET PUNCT PUNCT NOUN ADP PUNCT NOUN  	 100 	 0 	 0 
+Frag: einen Orangensaft 	 ART NN  	 DET NOUN  	 Ask for: an orange juice 	 DT NN NN  	 DET NOUN NOUN  	 50 	 3 	 0 
+Frag: einen Tee 	 ART NN  	 DET NOUN  	 Ask for: a ?(cup of) tea 	 DT . -LRB- NN IN -RRB- NN  	 DET PUNCT PUNCT NOUN ADP PUNCT NOUN  	 100 	 2 	 2 
+Frag: ein Steak 	 ART NN  	 DET NOUN  	 Ask for: (the | a) steak 	 -LRB- DT NNP DT -RRB- NN  	 PUNCT DET PROPN DET PUNCT NOUN  	 100 	 4 	 1 
+Frag: den Sonntagsbraten 	 ART NN  	 DET NOUN  	 Ask for: the sunday roast 	 DT NNP NN  	 DET PROPN NOUN  	 50 	 4 	 3 
+Frag: einen Hamburger 	 ART ADJA  	 DET ADJ  	 Ask for: a hamburger 	 DT NN  	 DET NOUN  	 50 	 2 	 0 
+Frag: Ich möchte das bestellte Essen 	 PPER VMFIN PDS ADJA NN  	 PRON VERB PRON ADJ NOUN  	 Ask for: i would like the food i ordered 	 PRP MD VB DT NN PRP VBD  	 PRON VERB VERB DET NOUN PRON VERB  	 81 	 0 	 0 
+Sag: Ich warte auf das bestellte Essen 	 PPER VVFIN APPR ART ADJA NN  	 PRON VERB ADP DET ADJ NOUN  	 Say: i will wait for the food i ordered 	 PRP MD VB IN DT NN PRP VBD  	 PRON VERB VERB ADP DET NOUN PRON VERB  	 2 	 13 	 12 
+Sag: Eine Reduzierung ist akzeptabel 	 ART NN VAFIN ADJD  	 DET NOUN AUX ADJ  	 Say: a reduction is acceptable 	 DT NN VBZ JJ  	 DET NOUN VERB ADJ  	 4 	 2 	 0 
+Auf Wiedersehen 	 APPR NN  	 ADP NOUN  	 Goodbye 	 UH  	 INTJ  	 3 	 0 	 0 
+Sag: Ich möchte mit dem Manager sprechen 	 PPER VMFIN APPR ART NN VVINF  	 PRON VERB ADP DET NOUN VERB  	 Say: i would like to speak with the manager 	 PRP MD VB TO VB IN DT NN  	 PRON VERB VERB PART VERB ADP DET NOUN  	 16 	 3 	 0 
+Sag: Ich möchte mit Kreditkarte bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by ?credit ( card | cards ) 	 PRP MD VB TO VB RP . NN -LRB- NN JJ NNS -RRB-  	 PRON VERB VERB PART VERB PART PUNCT NOUN PUNCT NOUN ADJ NOUN PUNCT  	 28 	 78 	 17 
+Sag: Ich möchte mit Mastercard bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by ( mastercard | master card ) 	 PRP MD VB TO VB RP -LRB- NN NNP NN NN -RRB-  	 PRON VERB VERB PART VERB PART PUNCT NOUN PROPN NOUN NOUN PUNCT  	 14 	 45 	 11 
+Sag: Ich möchte mit Postkarte bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by post card 	 PRP MD VB TO VB IN NN NN  	 PRON VERB VERB PART VERB ADP NOUN NOUN  	 7 	 44 	 5 
+Sag: Ich möchte mit Visa bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay by visa 	 PRP MD VB TO VB IN NN  	 PRON VERB VERB PART VERB ADP NOUN  	 7 	 29 	 4 
+Frag: Auberginen 	 NN  	 NOUN  	 Ask for: some aubergines 	 DT NNS  	 DET NOUN  	 50 	 2 	 1 
+Frag: Bohnen 	 NN  	 NOUN  	 Ask for: some beans 	 DT NNS  	 DET NOUN  	 50 	 1 	 1 
+Frag: Erbsen 	 NN  	 NOUN  	 Ask for: some peas 	 DT NNS  	 DET NOUN  	 50 	 4 	 4 
+Frag: Karroten 	 NN  	 NOUN  	 Ask for: some carrots 	 DT NNS  	 DET NOUN  	 50 	 0 	 0 
+Frag: Pilze 	 NN  	 NOUN  	 Ask for: some mushrooms 	 DT NNS  	 DET NOUN  	 50 	 3 	 2 
+Frag: Pommes Frittes 	 NN NN  	 NOUN NOUN  	 Ask for: ?some chips 	 . DT NNS  	 PUNCT DET NOUN  	 100 	 2 	 0 
+Frag: die Tagessuppe 	 ART NN  	 DET NOUN  	 Ask for: the soup of the day 	 DT NN IN DT NN  	 DET NOUN ADP DET NOUN  	 50 	 6 	 4 
+Frag: eine Goulasch-Suppe 	 ART NN $( NN  	 DET NOUN PUNCT NOUN  	 Ask for: a goulash soup 	 DT NN NN  	 DET NOUN NOUN  	 50 	 0 	 0 
+Frag: eine Scotch Broth 	 ART NN NE  	 DET NOUN PROPN  	 Ask for: the scotch broth 	 DT NN NN  	 DET NOUN NOUN  	 50 	 1 	 0 
+Frag: einen Baked Potato 	 ART FM FM  	 DET X X  	 Ask for: a baked potato 	 DT JJ NN  	 DET ADJ NOUN  	 50 	 2 	 1 
+Frag: einen gemischten Salat 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a mixed salad 	 DT JJ NN  	 DET ADJ NOUN  	 50 	 0 	 0 
+Frag: etwas Kartoffelstock 	 PIAT NN  	 DET NOUN  	 Ask for: ?some mashed potato 	 . DT JJ NN  	 PUNCT DET ADJ NOUN  	 100 	 7 	 7 
+Frag: etwas Knoblauchbrot 	 PIAT NN  	 DET NOUN  	 Ask for: some garlic bread 	 DT NN NN  	 DET NOUN NOUN  	 50 	 1 	 1 
+Frag: mein Steak blau 	 PPOSAT NN ADJD  	 DET NOUN ADJ  	 Ask for: my steak blue 	 PRP$ NN JJ  	 ADJ NOUN ADJ  	 70 	 2 	 0 
+Frag: mein Steak durchgebraten 	 PPOSAT NN VMFIN  	 DET NOUN VERB  	 Ask for: my steak well done 	 PRP$ NN RB VBN  	 ADJ NOUN ADV VERB  	 70 	 3 	 2 
+Frag: mein Steak medium 	 PPOSAT NN FM  	 DET NOUN X  	 Ask for: my steak medium 	 PRP$ NN NN  	 ADJ NOUN NOUN  	 70 	 1 	 0 
+Frag: mein Steak rare 	 PPOSAT NN FM  	 DET NOUN X  	 Ask for: my steak rare 	 PRP$ NN JJ  	 ADJ NOUN ADJ  	 70 	 3 	 0 
+Frag: meinen Hamburger durchgebraten 	 PPOSAT ADJA NN  	 DET ADJ NOUN  	 Ask for: my hamburger well done 	 PRP$ NN RB VBN  	 ADJ NOUN ADV VERB  	 70 	 1 	 1 
+Frag: meinen Hamburger medium 	 VVFIN ADJA FM  	 VERB ADJ X  	 Ask for: my hamburger medium 	 PRP$ NN NN  	 ADJ NOUN NOUN  	 70 	 1 	 0 
+Frag: meinen Hamburger rare 	 VVFIN ADJA ADJA  	 VERB ADJ ADJ  	 Ask for: my hamburger rare 	 PRP$ NN JJ  	 ADJ NOUN ADJ  	 70 	 0 	 0 
+Frag: meinen Sonntagsbraten durchgebraten 	 PPOSAT NN ADV  	 DET NOUN ADV  	 Ask for: my sunday roast well done 	 PRP$ NNP NN RB VBN  	 ADJ PROPN NOUN ADV VERB  	 70 	 5 	 5 
+Frag: meinen Sonntagsbraten medium 	 PPOSAT NN ADV  	 DET NOUN ADV  	 Ask for: my sunday roast medium 	 PRP$ NN NN NN  	 ADJ NOUN NOUN NOUN  	 70 	 0 	 0 
+Frag: meinen Sonntagsbraten rare 	 PPOSAT NN ADV  	 DET NOUN ADV  	 Ask for: my sunday roast rare 	 PRP$ NNS RB JJ  	 ADJ NOUN ADV ADJ  	 70 	 1 	 1 
+Danke 	 PTKANT  	 PART  	 thank you 	 VBP PRP  	 VERB PRON  	 5 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Sag: Dies ist nicht was ich bestellt habe 	 PDS VAFIN PTKNEG PWS PPER VVPP VAFIN  	 PRON AUX PART PRON PRON VERB AUX  	 this is not what i ordered 	 DT VBZ RB WP PRP VBD  	 DET VERB ADV NOUN PRON VERB  	 6 	 6 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Frag: Sandalen 	 NN  	 NOUN  	 Ask for: ?some sandals 	 . DT NNS  	 PUNCT DET NOUN  	 324 	 0 	 0 
+Frag: Stiefel 	 NN  	 NOUN  	 Ask for: ?some boots 	 . DT NNS  	 PUNCT DET NOUN  	 324 	 10 	 5 
+Sag: Dies ist zu eng 	 PDS VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: this is too tight 	 DT VBZ RB JJ  	 DET VERB ADV ADJ  	 2 	 0 	 0 
+Sag: Dies ist zu gross 	 PDS VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: this is too ( big | large ) 	 DT VBZ RB -LRB- JJ NNS JJ -RRB-  	 DET VERB ADV PUNCT ADJ NOUN ADJ PUNCT  	 4 	 0 	 0 
+Sag: Dies ist zu klein 	 PDS VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: this is too small 	 DT VBZ RB JJ  	 DET VERB ADV ADJ  	 2 	 0 	 0 
+Sag: Dies ist zu weit 	 PDS VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: this is too loose 	 DT VBZ RB JJ  	 DET VERB ADV ADJ  	 2 	 9 	 9 
+Frag: blaue Sandalen 	 ADJA NN  	 ADJ NOUN  	 Ask for: blue sandals 	 JJ NNS  	 ADJ NOUN  	 162 	 2 	 1 
+Frag: blaue Stiefel 	 ADJA NN  	 ADJ NOUN  	 Ask for: blue boots 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: braune Sandalen 	 ADJA NN  	 ADJ NOUN  	 Ask for: brown sandals 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: braune Stiefel 	 ADJA NN  	 ADJ NOUN  	 Ask for: brown boots 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: rote Sandalen 	 ADJA NN  	 ADJ NOUN  	 Ask for: red sandals 	 JJ NNS  	 ADJ NOUN  	 162 	 2 	 2 
+Frag: rote Stiefel 	 ADJA NN  	 ADJ NOUN  	 Ask for: red boots 	 JJ NNS  	 ADJ NOUN  	 162 	 3 	 0 
+Frag: weisse Sandalen 	 ADJA NN  	 ADJ NOUN  	 Ask for: white sandals 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: weisse Stiefel 	 ADJA NN  	 ADJ NOUN  	 Ask for: white boots 	 JJ NNS  	 ADJ NOUN  	 162 	 3 	 1 
+Frag: braune Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: brown trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: braune Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: brown jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: ein braunes Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a brown sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein braunes T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a brown ( tee shirt | t-shirt ) 	 DT JJ -LRB- NN NN CD NN HYPH NN -RRB-  	 DET ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein gelbes Hemd 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a yellow shirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein gelbes Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a yellow sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein gelbes T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a yellow ( tee shirt | t-shirt ) 	 DT JJ -LRB- NN NN CD NN HYPH NN -RRB-  	 DET ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein grünes Hemd 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a green shirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein grünes Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a green sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 1 	 1 
+Frag: ein grünes T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a green ( tee shirt | t-shirt ) 	 DT JJ -LRB- NN NN CD NN HYPH NN -RRB-  	 DET ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein pinkiges Hemd 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a pink shirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein pinkiges Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a pink sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein pinkiges T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a pink ( tee shirt | t-shirt ) 	 DT NN -LRB- NN NN CD NN HYPH NN -RRB-  	 DET NOUN PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein rotes Hemd 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a red shirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 1 	 1 
+Frag: ein rotes Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a red sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein rotes T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a red ( tee shirt | t-shirt ) 	 DT JJ -LRB- NN NN CD NN HYPH NN -RRB-  	 DET ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 1 	 0 
+Frag: ein schwarzes Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a black sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 1 	 1 
+Frag: ein violettes Hemd 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a purple shirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein violettes Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a purple sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 1 	 0 
+Frag: ein violettes T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a purple ( tee shirt | t-shirt ) 	 DT JJ -LRB- NN NN CD NN HYPH NN -RRB-  	 DET ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein weisses Hemd 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a white shirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein weisses Sweatshirt 	 ART ADJA NN  	 DET ADJ NOUN  	 Ask for: a white sweatshirt 	 DT JJ NN  	 DET ADJ NOUN  	 162 	 0 	 0 
+Frag: ein weisses T-Shirt 	 ART ADJA NN $( NN  	 DET ADJ NOUN PUNCT NOUN  	 Ask for: a white ( tee shirt | t-shirt ) 	 DT JJ -LRB- NN NN CD NN HYPH NN -RRB-  	 DET ADJ PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 324 	 0 	 0 
+Frag: gelbe Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: yellow trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 1 	 1 
+Frag: gelbe Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: yellow jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: grüne Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: green trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: grüne Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: green jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: pinkige Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: pink trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: pinkige Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: pink jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: rote Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: red trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: rote Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: red jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: violette Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: purple trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: violette Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: purple jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: weisse Hosen 	 ADJA NN  	 ADJ NOUN  	 Ask for: white trousers 	 JJ NNS  	 ADJ NOUN  	 162 	 0 	 0 
+Frag: weisse Jeans 	 ADJA NN  	 ADJ NOUN  	 Ask for: white jeans 	 JJ NNS  	 ADJ NOUN  	 162 	 1 	 0 
+Sag: Mir geht es gut 	 ADV VVFIN PPER ADJD  	 ADV VERB PRON ADJ  	 Say: i am fine 	 PRP VBP JJ  	 PRON VERB ADJ  	 5 	 3 	 3 
+Frag: Wie viel kostet das Hemd? 	 PWAV ADV VVFIN ART NN $.  	 ADV ADV VERB DET NOUN PUNCT  	 Ask for: how much does (the | this) shirt cost? 	 WRB JJ VBZ -LRB- DT NNP DT -RRB- NN NN .  	 ADV ADJ VERB PUNCT DET PROPN DET PUNCT NOUN NOUN PUNCT  	 4 	 0 	 0 
+Frag: Wie viel kostet das Sweatshirt? 	 PWAV ADV VVFIN ART NN $.  	 ADV ADV VERB DET NOUN PUNCT  	 Ask for: how much does (the | this) sweatshirt cost? 	 WRB JJ VBZ -LRB- DT NNP DT -RRB- NN NN .  	 ADV ADJ VERB PUNCT DET PROPN DET PUNCT NOUN NOUN PUNCT  	 4 	 1 	 0 
+Frag: Wie viel kostet das T-Shirt? 	 PWAV ADV VVFIN ART NN $( NN $.  	 ADV ADV VERB DET NOUN PUNCT NOUN PUNCT  	 Ask for: how much does (the | this) ( tee shirt | t-shirt ) cost? 	 WRB JJ VBZ -LRB- DT NNP DT -RRB- -LRB- NN NN CD NN HYPH NN -RRB- NN .  	 ADV ADJ VERB PUNCT DET PROPN DET PUNCT PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT NOUN PUNCT  	 8 	 0 	 0 
+Frag: Wie viel kostet die Hose? 	 PWAV PIS VVFIN ART NN $.  	 ADV PRON VERB DET NOUN PUNCT  	 Ask for: how much does ENGLISH cost? 	 WRB JJ VBZ VB NN .  	 ADV ADJ VERB VERB NOUN PUNCT  	 6 	 1 	 0 
+Frag: Wie viel kostet die Jeans? 	 PWAV PIS VVFIN ART NN $.  	 ADV PRON VERB DET NOUN PUNCT  	 Ask for: how much does ENGLISH cost? 	 WRB JJ VBZ VB NN .  	 ADV ADJ VERB VERB NOUN PUNCT  	 6 	 2 	 0 
+Frag: Wie viel kostet es? 	 PWAV PIS VVFIN PPER $.  	 ADV PRON VERB PRON PUNCT  	 Ask for: how much does it cost? 	 WRB JJ VBZ PRP VB .  	 ADV ADJ VERB PRON VERB PUNCT  	 3 	 5 	 3 
+Sag: Die Sandalen sind zu gross 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the sandals are too big 	 DT NNS VBP RB JJ  	 DET NOUN VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Die Sandalen sind zu klein 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the sandals are too small 	 DT NNS VBP RB JJ  	 DET NOUN VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Die Schuhe sind zu gross 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the shoes are too big 	 DT NNS VBP RB JJ  	 DET NOUN VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Die Schuhe sind zu klein 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the shoes are too small 	 DT NNS VBP RB JJ  	 DET NOUN VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Die Stiefel sind zu gross 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the boots are too big 	 DT NNS VBP RB JJ  	 DET NOUN VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Die Stiefel sind zu klein 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the boots are too small 	 DT NNS VBP RB JJ  	 DET NOUN VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Sie sind zu gross 	 PPER VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: they are too big 	 PRP VBP RB JJ  	 PRON VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Sie sind zu klein 	 PPER VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: they are too small 	 PRP VBP RB JJ  	 PRON VERB ADV ADJ  	 1 	 0 	 0 
+Sag: Dies ist die falsche Farbe 	 PDS VAFIN ART ADJA NN  	 PRON AUX DET ADJ NOUN  	 Say: this is the wrong colour 	 DT VBZ DT JJ NN  	 DET VERB DET ADJ NOUN  	 1 	 0 	 0 
+Sag: Mir gefällt die Farbe nicht 	 PPER VVFIN ART NN PTKNEG  	 PRON VERB DET NOUN PART  	 Say: i don't like the colour 	 PRP VBP RB VB DT NN  	 PRON VERB ADV VERB DET NOUN  	 2 	 0 	 0 
+Sag: Sie haben die falsche Farbe gebracht 	 PPER VAFIN ART ADJA NN VVPP  	 PRON AUX DET ADJ NOUN VERB  	 Say: you brought me the wrong colour 	 PRP VBD PRP DT JJ NN  	 PRON VERB PRON DET ADJ NOUN  	 1 	 0 	 0 
+Sag du möchtest nicht: dieses Hemd 	 VAFIN PPER PIS PTKNEG $. PDAT NN  	 AUX PRON PRON PART PUNCT DET NOUN  	 Say you don't want: this shirt 	 VB PRP VBP RB VB : DT NN  	 VERB PRON VERB ADV VERB PUNCT DET NOUN  	 8 	 1 	 0 
+Sag du möchtest nicht: dieses Sweatshirt 	 VAFIN PPER PIS PTKNEG $. PDAT NN  	 AUX PRON PRON PART PUNCT DET NOUN  	 Say you don't want: this sweatshirt 	 VB PRP VBP RB VB : DT NN  	 VERB PRON VERB ADV VERB PUNCT DET NOUN  	 8 	 1 	 0 
+Sag du möchtest nicht: dieses T-Shirt 	 VAFIN PPER PIS PTKNEG $. PDAT NN $( NN  	 AUX PRON PRON PART PUNCT DET NOUN PUNCT NOUN  	 Say you don't want: this ( tee shirt | t-shirt ) 	 VB PRP VBP RB VB : DT -LRB- NN NN CD NN HYPH NN -RRB-  	 VERB PRON VERB ADV VERB PUNCT DET PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT  	 16 	 1 	 0 
+Sag du möchtest nicht: diese Hosen 	 VAFIN PPER PIS PTKNEG $. PDAT NN  	 AUX PRON PRON PART PUNCT DET NOUN  	 Say you don't want: ( these trousers | this pair of trousers ) 	 VB PRP VBP RB VB : -LRB- DT NNS VBP DT NN IN NNS -RRB-  	 VERB PRON VERB ADV VERB PUNCT PUNCT DET NOUN VERB DET NOUN ADP NOUN PUNCT  	 16 	 0 	 0 
+Sag du möchtest nicht: diese Jeans 	 VAFIN PPER PIS PTKNEG $. PDAT NN  	 AUX PRON PRON PART PUNCT DET NOUN  	 Say you don't want: ( these jeans | this pair of jeans ) 	 VB PRP VBP RB VB : -LRB- DT NNS NFP DT NN IN NNS -RRB-  	 VERB PRON VERB ADV VERB PUNCT PUNCT DET NOUN PUNCT DET NOUN ADP NOUN PUNCT  	 16 	 1 	 1 
+Sag, dass du es nicht möchtest 	 ADJD $, KOUS PPER PPER PTKNEG VVFIN  	 ADJ PUNCT SCONJ PRON PRON PART VERB  	 Say that you don't want it 	 VB IN PRP VBP RB VB PRP  	 VERB ADP PRON VERB ADV VERB PRON  	 8 	 9 	 9 
+Frag: Hosen 	 NN  	 NOUN  	 Ask for: trousers 	 NNS  	 NOUN  	 296 	 5 	 5 
+Frag: Jeans 	 NE  	 PROPN  	 Ask for: jeans 	 NNS  	 NOUN  	 296 	 1 	 1 
+Frag: ein Hemd 	 ART NN  	 DET NOUN  	 Ask for: (a shirt | shirts) 	 -LRB- DT NN JJ NNS -RRB-  	 PUNCT DET NOUN ADJ NOUN PUNCT  	 592 	 1 	 1 
+Frag: ein Sweatshirt 	 ART NN  	 DET NOUN  	 Ask for: (a sweatshirt | sweatshirts) 	 -LRB- DT NN NNP NNS -RRB-  	 PUNCT DET NOUN PROPN NOUN PUNCT  	 592 	 7 	 6 
+Frag: ein T-Shirt 	 ART NN $( NN  	 DET NOUN PUNCT NOUN  	 Ask for: (a ( tee shirt | t-shirt ) | tee shirts) 	 -LRB- DT -LRB- NN NN CD NN HYPH NN -RRB- JJ NN NNS -RRB-  	 PUNCT DET PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT ADJ NOUN NOUN PUNCT  	 888 	 3 	 2 
+Frag: Grösse 36 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size thirty-six 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 1 	 1 
+Frag: Grösse 37 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size thirty-seven 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 2 	 0 
+Frag: Grösse 38 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size thirty-eight 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 0 	 0 
+Frag: Grösse 39 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size thirty-nine 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 0 	 0 
+Frag: Grösse 40 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size forty 	 DT . NN CD  	 DET PUNCT NOUN NUM  	 70 	 2 	 1 
+Frag: Grösse 41 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size forty-one 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 1 	 1 
+Frag: Grösse 42 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size forty-two 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 4 	 2 
+Frag: Grösse 43 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size forty-three 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 1 	 1 
+Frag: Grösse 44 	 NN CARD  	 NOUN NUM  	 Ask for: a ?size forty-four 	 DT . NN CD HYPH CD  	 DET PUNCT NOUN NUM PUNCT NUM  	 70 	 1 	 1 
+Frag: eine L 	 ART NE  	 DET PROPN  	 Ask for: ( a large | ?an l | ?a size l ) 	 -LRB- DT JJ NN . DT NN NN . DT NN NN -RRB-  	 PUNCT DET ADJ NOUN PUNCT DET NOUN NOUN PUNCT DET NOUN NOUN PUNCT  	 175 	 4 	 3 
+Frag: eine S 	 ART XY  	 DET X  	 Ask for: ( a small | ?an s | ?a size s ) 	 -LRB- DT JJ NN . DT NN NN . DT NN NN -RRB-  	 PUNCT DET ADJ NOUN PUNCT DET NOUN NOUN PUNCT DET NOUN NOUN PUNCT  	 175 	 4 	 4 
+Danke 	 PTKANT  	 PART  	 thank you 	 VBP PRP  	 VERB PRON  	 5 	 0 	 0 
+Sag: Das Hemd ist zu teuer 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the shirt is too expensive 	 DT NN VBZ RB JJ  	 DET NOUN VERB ADV ADJ  	 4 	 0 	 0 
+Sag: Das Sweatshirt ist zu teuer 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the sweatshirt is too expensive 	 DT NN VBZ RB JJ  	 DET NOUN VERB ADV ADJ  	 4 	 1 	 0 
+Sag: Das T-Shirt ist zu teuer 	 ART NN $( NN VAFIN PTKA ADJD  	 DET NOUN PUNCT NOUN AUX PART ADJ  	 Say: the ( tee shirt | t-shirt ) is too expensive 	 DT -LRB- NN NN CD NN HYPH NN -RRB- VBZ RB JJ  	 DET PUNCT NOUN NOUN NUM NOUN PUNCT NOUN PUNCT VERB ADV ADJ  	 8 	 2 	 0 
+Sag: Die Hose ist zu teuer 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the trousers is too expensive 	 DT NNS VBZ RB JJ  	 DET NOUN VERB ADV ADJ  	 4 	 8 	 4 
+Sag: Die Jeans ist zu teuer 	 ART NN VAFIN PTKA ADJD  	 DET NOUN AUX PART ADJ  	 Say: the jeans is too expensive 	 DT NNS VBZ RB JJ  	 DET NOUN VERB ADV ADJ  	 4 	 3 	 1 
+Sag: Dies ist zu teuer 	 PDS VAFIN PTKA ADJD  	 PRON AUX PART ADJ  	 Say: this is too expensive 	 DT VBZ RB JJ  	 DET VERB ADV ADJ  	 9 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Auf Wiedersehen 	 APPR NN  	 ADP NOUN  	 Goodbye 	 UH  	 INTJ  	 3 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Frag: ein Ticket für Billy Elliot 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: a ticket for billy elliot 	 DT NN IN RB NN  	 DET NOUN ADP ADV NOUN  	 70 	 1 	 1 
+Frag: ein Ticket für König der Löwen 	 ART NN APPR NN ART NN  	 DET NOUN ADP NOUN DET NOUN  	 Ask for: a ticket for the lion king 	 DT NN IN DT NN NN  	 DET NOUN ADP DET NOUN NOUN  	 70 	 4 	 1 
+Frag: ein Ticket für Mamma Mia 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: a ticket for mamma mia 	 DT NN IN NN NN  	 DET NOUN ADP NOUN NOUN  	 70 	 1 	 0 
+Frag: ein Ticket für Oliver Twist 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: a ticket for oliver twist 	 DT NN IN NN NN  	 DET NOUN ADP NOUN NOUN  	 70 	 0 	 0 
+Frag: ein Ticket für Starlight Express 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: a ticket for starlight express 	 DT NN IN NN NN  	 DET NOUN ADP NOUN NOUN  	 70 	 0 	 0 
+Frag: ein Ticket für Wicked 	 ART NN APPR NE  	 DET NOUN ADP PROPN  	 Ask for: a ticket for wicked 	 DT NN IN JJ  	 DET NOUN ADP ADJ  	 70 	 1 	 1 
+Frag: ein Ticket für das Phantom der Oper 	 ART NN APPR ART NN ART NN  	 DET NOUN ADP DET NOUN DET NOUN  	 Ask for: a ticket for the phantom of the opera 	 DT NN IN DT NN IN DT NN  	 DET NOUN ADP DET NOUN ADP DET NOUN  	 70 	 0 	 0 
+Frag trotzdem: ein Ticket für Billy Elliot 	 NN PROAV $. ART NN APPR NE NE  	 NOUN ADV PUNCT DET NOUN ADP PROPN PROPN  	 Say you still want: a ticket for billy elliot 	 VB PRP RB VBP : DT NN IN RB NN  	 VERB PRON ADV VERB PUNCT DET NOUN ADP ADV NOUN  	 38 	 0 	 0 
+Frag trotzdem: ein Ticket für König der Löwen 	 NN PROAV $. ART NN APPR NN ART NN  	 NOUN ADV PUNCT DET NOUN ADP NOUN DET NOUN  	 Say you still want: a ticket for the lion king 	 VB PRP RB VBP : DT NN IN DT NN NN  	 VERB PRON ADV VERB PUNCT DET NOUN ADP DET NOUN NOUN  	 38 	 0 	 0 
+Frag trotzdem: ein Ticket für Mamma Mia 	 NN PROAV $. ART NN APPR NE NE  	 NOUN ADV PUNCT DET NOUN ADP PROPN PROPN  	 Say you still want: a ticket for mamma mia 	 VB PRP RB VBP : DT NN IN NN NN  	 VERB PRON ADV VERB PUNCT DET NOUN ADP NOUN NOUN  	 38 	 0 	 0 
+Frag trotzdem: ein Ticket für Oliver Twist 	 NN PROAV $. ART NN APPR NE NE  	 NOUN ADV PUNCT DET NOUN ADP PROPN PROPN  	 Say you still want: a ticket for oliver twist 	 VB PRP RB VBP : DT NN IN NN NN  	 VERB PRON ADV VERB PUNCT DET NOUN ADP NOUN NOUN  	 38 	 0 	 0 
+Frag trotzdem: ein Ticket für Starlight Express 	 NN PROAV $. ART NN APPR NE NE  	 NOUN ADV PUNCT DET NOUN ADP PROPN PROPN  	 Say you still want: a ticket for starlight express 	 VB PRP RB VBP : DT NN IN NN NN  	 VERB PRON ADV VERB PUNCT DET NOUN ADP NOUN NOUN  	 38 	 0 	 0 
+Frag trotzdem: ein Ticket für Wicked 	 NN PROAV $. ART NN APPR NE  	 NOUN ADV PUNCT DET NOUN ADP PROPN  	 Say you still want: a ticket for wicked 	 VB PRP RB VBP : DT NN IN JJ  	 VERB PRON ADV VERB PUNCT DET NOUN ADP ADJ  	 38 	 0 	 0 
+Frag trotzdem: ein Ticket für das Phantom der Oper 	 NN PROAV $. ART NN APPR ART NN ART NN  	 NOUN ADV PUNCT DET NOUN ADP DET NOUN DET NOUN  	 Say you still want: a ticket for the phantom of the opera 	 VB PRP RB VBP : DT NN IN DT NN IN DT NN  	 VERB PRON ADV VERB PUNCT DET NOUN ADP DET NOUN ADP DET NOUN  	 38 	 0 	 0 
+Sag: ich kaufe diese Tickets 	 PPER VVFIN PDAT NN  	 PRON VERB DET NOUN  	 Say: i will take these tickets 	 PRP MD VB DT NNS  	 PRON VERB VERB DET NOUN  	 6 	 3 	 2 
+Frag: Tickets für Madame Tussauds 	 NN APPR NE NE  	 NOUN ADP PROPN PROPN  	 Ask for: tickets for madame tussauds 	 NNS IN NN NNS  	 NOUN ADP NOUN NOUN  	 296 	 4 	 0 
+Frag: Tickets für das British Museum 	 NN APPR ART NE NE  	 NOUN ADP DET PROPN PROPN  	 Ask for: tickets for the british museum 	 NNS IN DT JJ NN  	 NOUN ADP DET ADJ NOUN  	 296 	 1 	 1 
+Frag: Tickets für das London Eye 	 NN APPR ART NE ART  	 NOUN ADP DET PROPN DET  	 Ask for: tickets for the london eye 	 NNS IN DT JJ NN  	 NOUN ADP DET ADJ NOUN  	 296 	 0 	 0 
+Frag: Tickets für das Naturhistorische Museum 	 NN APPR ART ADJA NN  	 NOUN ADP DET ADJ NOUN  	 Ask for: tickets for the natural history museum 	 NNS IN DT JJ NN NN  	 NOUN ADP DET ADJ NOUN NOUN  	 296 	 6 	 1 
+Frag: Tickets für das Science Museum 	 NN APPR ART NE NE  	 NOUN ADP DET PROPN PROPN  	 Ask for: tickets for the science museum 	 NNS IN DT NN NN  	 NOUN ADP DET NOUN NOUN  	 296 	 1 	 0 
+Frag: Tickets für die National Gallery 	 NN APPR ART NE NE  	 NOUN ADP DET PROPN PROPN  	 Ask for: tickets for the national gallery 	 NNS IN DT JJ NN  	 NOUN ADP DET ADJ NOUN  	 296 	 5 	 1 
+Frag: ein Ticket für Billy Elliot 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: one ticket for billy elliot 	 CD NN IN RB NN  	 NUM NOUN ADP ADV NOUN  	 162 	 1 	 1 
+Frag: ein Ticket für König der Löwen 	 ART NN APPR NN ART NN  	 DET NOUN ADP NOUN DET NOUN  	 Ask for: one ticket for the lion king 	 CD NN IN DT NN NN  	 NUM NOUN ADP DET NOUN NOUN  	 162 	 4 	 1 
+Frag: ein Ticket für Mamma Mia 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: one ticket for mamma mia 	 CD NN IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 1 	 0 
+Frag: ein Ticket für Starlight Express 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: one ticket for starlight express 	 CD NN IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 0 	 0 
+Frag: ein Ticket für Wicked 	 ART NN APPR NE  	 DET NOUN ADP PROPN  	 Ask for: one ticket for wicked 	 CD NN IN JJ  	 NUM NOUN ADP ADJ  	 162 	 1 	 1 
+Frag: 1 Ticket für das Phantom der Oper 	 CARD NN APPR ART NN ART NN  	 NUM NOUN ADP DET NOUN DET NOUN  	 Ask for: one ticket for the phantom of the opera 	 CD NN IN DT NN IN DT NN  	 NUM NOUN ADP DET NOUN ADP DET NOUN  	 162 	 5 	 0 
+Frag: 2 Tickets für Billy Elliot 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: two tickets for billy elliot 	 CD NNS IN RB NN  	 NUM NOUN ADP ADV NOUN  	 162 	 0 	 0 
+Frag: 2 Tickets für König der Löwen 	 CARD NN APPR NN ART NN  	 NUM NOUN ADP NOUN DET NOUN  	 Ask for: two tickets for the lion king 	 CD NNS IN DT NN NN  	 NUM NOUN ADP DET NOUN NOUN  	 162 	 3 	 0 
+Frag: 2 Tickets für Mamma Mia 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: two tickets for mamma mia 	 CD NNS IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 0 	 0 
+Frag: 2 Tickets für Starlight Express 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: two tickets for starlight express 	 CD NNS IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 0 	 0 
+Frag: 2 Tickets für Wicked 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: two tickets for wicked 	 CD NNS IN JJ  	 NUM NOUN ADP ADJ  	 162 	 0 	 0 
+Frag: 2 Tickets für das Phantom der Oper 	 CARD NN APPR ART NN ART NN  	 NUM NOUN ADP DET NOUN DET NOUN  	 Ask for: two tickets for the phantom of the opera 	 CD NNS IN DT NN IN DT NN  	 NUM NOUN ADP DET NOUN ADP DET NOUN  	 162 	 3 	 0 
+Frag: 3 Tickets für Billy Elliot 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: three tickets for billy elliot 	 CD NNS IN RB NN  	 NUM NOUN ADP ADV NOUN  	 162 	 0 	 0 
+Frag: 3 Tickets für König der Löwen 	 CARD NN APPR NN ART NN  	 NUM NOUN ADP NOUN DET NOUN  	 Ask for: three tickets for the lion king 	 CD NNS IN DT NN NN  	 NUM NOUN ADP DET NOUN NOUN  	 162 	 3 	 2 
+Frag: 3 Tickets für Mamma Mia 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: three tickets for mamma mia 	 CD NNS IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 0 	 0 
+Frag: 3 Tickets für Starlight Express 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: three tickets for starlight express 	 CD NNS IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 1 	 0 
+Frag: 3 Tickets für Wicked 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: three tickets for wicked 	 CD NNS IN JJ  	 NUM NOUN ADP ADJ  	 162 	 1 	 1 
+Frag: 3 Tickets für das Phantom der Oper 	 CARD NN APPR ART NN ART NN  	 NUM NOUN ADP DET NOUN DET NOUN  	 Ask for: three tickets for the phantom of the opera 	 CD NNS IN DT NN IN DT NN  	 NUM NOUN ADP DET NOUN ADP DET NOUN  	 162 	 1 	 0 
+Frag: 4 Tickets für Billy Elliot 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: four tickets for billy elliot 	 CD NNS IN RB NN  	 NUM NOUN ADP ADV NOUN  	 162 	 0 	 0 
+Frag: 4 Tickets für König der Löwen 	 CARD NN APPR NN ART NN  	 NUM NOUN ADP NOUN DET NOUN  	 Ask for: four tickets for the lion king 	 CD NNS IN DT NN NN  	 NUM NOUN ADP DET NOUN NOUN  	 162 	 7 	 1 
+Frag: 4 Tickets für Mamma Mia 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: four tickets for mamma mia 	 CD NNS IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 0 	 0 
+Frag: 4 Tickets für Starlight Express 	 CARD NN APPR NE NE  	 NUM NOUN ADP PROPN PROPN  	 Ask for: four tickets for starlight express 	 CD NNS IN NN NN  	 NUM NOUN ADP NOUN NOUN  	 162 	 0 	 0 
+Frag: 4 Tickets für Wicked 	 CARD NN APPR NE  	 NUM NOUN ADP PROPN  	 Ask for: four tickets for wicked 	 CD NNS IN JJ  	 NUM NOUN ADP ADJ  	 162 	 1 	 1 
+Frag: 4 Tickets für das Phantom der Oper 	 CARD NN APPR ART NN ART NN  	 NUM NOUN ADP DET NOUN DET NOUN  	 Ask for: four tickets for the phantom of the opera 	 CD NNS IN DT NN IN DT NN  	 NUM NOUN ADP DET NOUN ADP DET NOUN  	 162 	 0 	 0 
+Frag: 1 Musical-Ticket 	 CARD NN $( NN  	 NUM NOUN PUNCT NOUN  	 Ask for: one musical ticket 	 CD JJ NN  	 NUM ADJ NOUN  	 162 	 5 	 3 
+Frag: 2 Musical-Tickets 	 CARD NN $( NN  	 NUM NOUN PUNCT NOUN  	 Ask for: two musical tickets 	 CD JJ NNS  	 NUM ADJ NOUN  	 162 	 0 	 0 
+Frag: 3 Musical-Tickets 	 CARD NN $( NN  	 NUM NOUN PUNCT NOUN  	 Ask for: three musical tickets 	 CD JJ NNS  	 NUM ADJ NOUN  	 162 	 3 	 0 
+Frag: 4 Musical-Tickets 	 CARD NN $( NN  	 NUM NOUN PUNCT NOUN  	 Ask for: four musical tickets 	 CD JJ NNS  	 NUM ADJ NOUN  	 162 	 1 	 0 
+Frag: 1 Ticket 	 CARD NN  	 NUM NOUN  	 Ask for: one ticket 	 CD NN  	 NUM NOUN  	 162 	 0 	 0 
+Frag: 2 Tickets 	 CARD NN  	 NUM NOUN  	 Ask for: two tickets 	 CD NNS  	 NUM NOUN  	 162 	 0 	 0 
+Frag: 3 Tickets 	 CARD NN  	 NUM NOUN  	 Ask for: three tickets 	 CD NNS  	 NUM NOUN  	 162 	 1 	 1 
+Frag: 4 Tickets 	 CARD NN  	 NUM NOUN  	 Ask for: four tickets 	 CD NNS  	 NUM NOUN  	 162 	 0 	 0 
+Frag: 5 Tickets 	 CARD NN  	 NUM NOUN  	 Ask for: five tickets 	 CD NNS  	 NUM NOUN  	 162 	 0 	 0 
+Sag: Ich möchte hinten sitzen 	 PPER VMFIN ADV VVINF  	 PRON VERB ADV VERB  	 Say: i wôuld like to sit in the back 	 PRP MD VB TO VB IN DT NN  	 PRON VERB VERB PART VERB ADP DET NOUN  	 2 	 4 	 4 
+Sag: Ich möchte in der Mitte sitzen 	 PPER VMFIN APPR ART NN VVINF  	 PRON VERB ADP DET NOUN VERB  	 Say: i wôuld like to sit in the middle 	 PRP MD VB TO VB IN DT NN  	 PRON VERB VERB PART VERB ADP DET NOUN  	 2 	 0 	 0 
+Sag: Ich möchte vorne sitzen 	 PPER VMFIN ADV VVINF  	 PRON VERB ADV VERB  	 Say: i wôuld like to sit in the front 	 PRP MD VB TO VB IN DT JJ  	 PRON VERB VERB PART VERB ADP DET ADJ  	 2 	 0 	 0 
+Sag: Ich möchte in der ersten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVFIN  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the first row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 1 	 1 
+Sag: Ich möchte in der zweiten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the second row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 2 	 0 
+Sag: Ich möchte in der dritten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the third row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 2 	 1 
+Sag: Ich möchte in der vierten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the fourth row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 3 	 2 
+Sag: Ich möchte in der fünften Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the fifth row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 4 	 4 
+Sag: Ich möchte in der sechsten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the sixth row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 5 	 2 
+Sag: Ich möchte in der siebten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the seventh row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 6 	 1 
+Sag: Ich möchte in der achten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the eighth row 	 PRP MD VB TO VB IN DT NN NN  	 PRON VERB VERB PART VERB ADP DET NOUN NOUN  	 2 	 2 	 2 
+Sag: Ich möchte in der neunten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the ninth row 	 PRP MD VB TO VB IN DT JJ NN  	 PRON VERB VERB PART VERB ADP DET ADJ NOUN  	 2 	 1 	 0 
+Sag: Ich möchte in der zehnten Reihe sitzen 	 PPER VMFIN APPR ART ADJA NN VVINF  	 PRON VERB ADP DET ADJ NOUN VERB  	 Say: i wôuld like to sit in the tenth row 	 PRP MD VB TO VB IN DT NN NN  	 PRON VERB VERB PART VERB ADP DET NOUN NOUN  	 2 	 2 	 0 
+Frag: Ticket für dieses Musical 	 NN APPR PDAT NN  	 NOUN ADP DET NOUN  	 Ask for: ticket for this musical 	 NN IN DT JJ  	 NOUN ADP DET ADJ  	 8 	 2 	 1 
+Danke 	 PTKANT  	 PART  	 thank you 	 VBP PRP  	 VERB PRON  	 5 	 0 	 0 
+Frag: ein Ticket für Montagabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for monday (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 4 	 0 
+Frag: ein Ticket für Dienstagabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for tuesday (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein Ticket für Mittwochabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for wednesday (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein Ticket für Donnerstagabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for thursday (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 1 	 0 
+Frag: ein Ticket für Freitagabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for friday (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein Ticket für Samstagabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for saturday (evening | night) 	 CD NN IN NNP -LRB- NN CD NN -RRB-  	 NUM NOUN ADP PROPN PUNCT NOUN NUM NOUN PUNCT  	 324 	 2 	 1 
+Frag: ein Ticket für Sonntagabend 	 ART NN APPR NN  	 DET NOUN ADP NOUN  	 Ask for: one ticket for sunday (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: ein Ticket für heute Abend 	 ART NN APPR ADV NN  	 DET NOUN ADP ADV NOUN  	 Ask for: one ticket for (this evening | tonight) 	 CD NN IN -LRB- DT NN NN NN -RRB-  	 NUM NOUN ADP PUNCT DET NOUN NOUN NOUN PUNCT  	 324 	 2 	 0 
+Frag: ein Ticket für morgen Abend 	 ART NN APPR ADV NN  	 DET NOUN ADP ADV NOUN  	 Ask for: one ticket for tomorrow (evening | night) 	 CD NN IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 1 	 1 
+Frag: 2 Tickets für Montagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for monday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für Dienstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for tuesday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für Mittwochabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for wednesday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für Donnerstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for thursday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für Freitagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for friday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für Samstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for saturday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für Sonntagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: two tickets for sunday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 2 Tickets für heute Abend 	 CARD NN APPR ADV NN  	 NUM NOUN ADP ADV NOUN  	 Ask for: two tickets for (this evening | tonight) 	 CD NNS IN -LRB- DT NN NN NN -RRB-  	 NUM NOUN ADP PUNCT DET NOUN NOUN NOUN PUNCT  	 324 	 2 	 0 
+Frag: 2 Tickets für morgen Abend 	 CARD NN APPR ADV NN  	 NUM NOUN ADP ADV NOUN  	 Ask for: two tickets for tomorrow (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für Montagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for monday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für Dienstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for tuesday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 1 	 1 
+Frag: 3 Tickets für Mittwochabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for wednesday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für Donnerstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for thursday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für Freitagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for friday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für Samstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for saturday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für Sonntagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: three tickets for sunday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für heute Abend 	 CARD NN APPR ADV NN  	 NUM NOUN ADP ADV NOUN  	 Ask for: three tickets for (this evening | tonight) 	 CD NNS IN -LRB- DT NN NN NN -RRB-  	 NUM NOUN ADP PUNCT DET NOUN NOUN NOUN PUNCT  	 324 	 0 	 0 
+Frag: 3 Tickets für morgen Abend 	 CARD NN APPR ADV NN  	 NUM NOUN ADP ADV NOUN  	 Ask for: three tickets for tomorrow (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 1 	 1 
+Frag: 4 Tickets für Montagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for monday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für Dienstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for tuesday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für Mittwochabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for wednesday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für Donnerstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for thursday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für Freitagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for friday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für Samstagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for saturday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für Sonntagabend 	 CARD NN APPR NN  	 NUM NOUN ADP NOUN  	 Ask for: four tickets for sunday (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für heute Abend 	 CARD NN APPR ADV NN  	 NUM NOUN ADP ADV NOUN  	 Ask for: four tickets for (this evening | tonight) 	 CD NNS IN -LRB- DT NN NN NN -RRB-  	 NUM NOUN ADP PUNCT DET NOUN NOUN NOUN PUNCT  	 324 	 0 	 0 
+Frag: 4 Tickets für morgen Abend 	 CARD NN APPR ADV NN  	 NUM NOUN ADP ADV NOUN  	 Ask for: four tickets for tomorrow (evening | night) 	 CD NNS IN NN -LRB- NN CD NN -RRB-  	 NUM NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Montagabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for monday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Dienstagabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for tuesday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Mittwochabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for wednesday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Donnerstagabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for thursday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Freitagabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for friday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Samstagabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for saturday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für Sonntagabend 	 NN APPR NN  	 NOUN ADP NOUN  	 Ask for: tickets for sunday (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für heute Abend 	 NN APPR ADV NN  	 NOUN ADP ADV NOUN  	 Ask for: tickets for (this evening | tonight) 	 NNS IN -LRB- DT NN NN NN -RRB-  	 NOUN ADP PUNCT DET NOUN NOUN NOUN PUNCT  	 324 	 0 	 0 
+Frag: Tickets für morgen Abend 	 NN APPR ADV NN  	 NOUN ADP ADV NOUN  	 Ask for: tickets for tomorrow (evening | night) 	 NNS IN NN -LRB- NN CD NN -RRB-  	 NOUN ADP NOUN PUNCT NOUN NUM NOUN PUNCT  	 324 	 0 	 0 
+Sag: Ich möchte am Montagabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go monday night 	 PRP MD VB TO VB NN NN  	 PRON VERB VERB PART VERB NOUN NOUN  	 40 	 1 	 0 
+Sag: Ich möchte am Dienstagabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go tuesday night 	 PRP MD VB TO VB NN NN  	 PRON VERB VERB PART VERB NOUN NOUN  	 40 	 1 	 0 
+Sag: Ich möchte am Mittwochabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go wednesday night 	 PRP MD VB TO VB NN NN  	 PRON VERB VERB PART VERB NOUN NOUN  	 40 	 0 	 0 
+Sag: Ich möchte am Donnerstagabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go thursday night 	 PRP MD VB TO VB NN NN  	 PRON VERB VERB PART VERB NOUN NOUN  	 40 	 0 	 0 
+Sag: Ich möchte am Freitagabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go friday night 	 PRP MD VB TO VB JJ NN  	 PRON VERB VERB PART VERB ADJ NOUN  	 40 	 1 	 0 
+Sag: Ich möchte am Samstagabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go saturday night 	 PRP MD VB TO VB JJ NN  	 PRON VERB VERB PART VERB ADJ NOUN  	 40 	 2 	 0 
+Sag: Ich möchte am Sonntagabend gehen 	 PPER VMFIN APPRART NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: I would like to go sunday night 	 PRP MD VB TO VB JJ NN  	 PRON VERB VERB PART VERB ADJ NOUN  	 40 	 0 	 0 
+Sag: Ich möchte heute Abend gehen 	 PPER VMFIN ADV NN VVINF  	 PRON VERB ADV NOUN VERB  	 Say: I would like to go tonight 	 PRP MD VB TO VB NN  	 PRON VERB VERB PART VERB NOUN  	 20 	 0 	 0 
+Sag: Ich möchte morgen Abend gehen 	 PPER VMFIN ADV NN VVINF  	 PRON VERB ADV NOUN VERB  	 Say: I would like to go tomorrow night 	 PRP MD VB TO VB NN NN  	 PRON VERB VERB PART VERB NOUN NOUN  	 20 	 1 	 0 
+Sag: Ich möchte morgen gehen 	 PPER VMFIN ADV VVINF  	 PRON VERB ADV VERB  	 Say: I would like to go tomorrow 	 PRP MD VB TO VB NN  	 PRON VERB VERB PART VERB NOUN  	 10 	 0 	 0 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 
+Sag: Ich möchte mit Dollars bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with dollars 	 PRP MD VB TO VB IN NNS  	 PRON VERB VERB PART VERB ADP NOUN  	 6 	 16 	 5 
+Sag: Ich möchte mit Euros bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with euros 	 PRP MD VB TO VB IN NNS  	 PRON VERB VERB PART VERB ADP NOUN  	 6 	 11 	 2 
+Sag: Ich möchte mit Pfund bezahlen 	 PPER VMFIN APPR NN VVFIN  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with pounds 	 PRP MD VB TO VB IN NNS  	 PRON VERB VERB PART VERB ADP NOUN  	 6 	 2 	 0 
+Sag: Ich möchte mit Schweizer Franken bezahlen 	 PPER VMFIN APPR ADJA NN VVINF  	 PRON VERB ADP ADJ NOUN VERB  	 Say: i would like to pay with swiss francs 	 PRP MD VB TO VB IN JJ NNS  	 PRON VERB VERB PART VERB ADP ADJ NOUN  	 6 	 10 	 2 
+Auf Wiedersehen 	 APPR NN  	 ADP NOUN  	 Goodbye 	 UH  	 INTJ  	 3 	 0 	 0 
+Sag: Ich habe kleinere Note 	 PPER VAFIN ADJA NN  	 PRON AUX ADJ NOUN  	 Say: i have smaller notes 	 PRP VBP JJR NNS  	 PRON VERB ADJ NOUN  	 4 	 4 	 1 
+Sag: Ich habe nur grosse Noten 	 PPER VAFIN ADV ADJA NN  	 PRON AUX ADV ADJ NOUN  	 Say: i only have large notes 	 PRP RB VBP JJ NNS  	 PRON ADV VERB ADJ NOUN  	 2 	 7 	 2 
+Sag: Ich möchte mit Kreditkarte bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with ?credit ( card | cards ) 	 PRP MD VB TO VB RP . NN -LRB- NN JJ NNS -RRB-  	 PRON VERB VERB PART VERB PART PUNCT NOUN PUNCT NOUN ADJ NOUN PUNCT  	 28 	 78 	 17 
+Sag: Ich möchte mit Mastercard bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with ( mastercard | master card ) 	 PRP MD VB TO VB IN -LRB- NN NNP NN NN -RRB-  	 PRON VERB VERB PART VERB ADP PUNCT NOUN PROPN NOUN NOUN PUNCT  	 14 	 45 	 11 
+Sag: Ich möchte mit Postkarte bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with post card 	 PRP MD VB TO VB IN NN NN  	 PRON VERB VERB PART VERB ADP NOUN NOUN  	 7 	 44 	 5 
+Sag: Ich möchte mit Visa bezahlen 	 PPER VMFIN APPR NN VVINF  	 PRON VERB ADP NOUN VERB  	 Say: i would like to pay with visa 	 PRP MD VB TO VB IN NN  	 PRON VERB VERB PART VERB ADP NOUN  	 7 	 29 	 4 
+Danke 	 PTKANT  	 PART  	 thank you 	 VBP PRP  	 VERB PRON  	 4 	 0 	 0 
+Frag: ein Ticket nach Notting Hill 	 ART NN APPR NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: a ticket to notting hill 	 DT NN IN VBG NN  	 DET NOUN ADP VERB NOUN  	 162 	 3 	 0 
+Frag: ein Ticket nach Westminster 	 ART NN APPR NE  	 DET NOUN ADP PROPN  	 Ask for: a ticket to westminster 	 DT NN IN NN  	 DET NOUN ADP NOUN  	 162 	 4 	 1 
+Frag: ein Ticket zum Green Park 	 ART NN APPRART NN NN  	 DET NOUN ADP NOUN NOUN  	 Ask for: a ticket to green park 	 DT NN IN JJ NN  	 DET NOUN ADP ADJ NOUN  	 162 	 6 	 0 
+Frag: ein Ticket zum Piccadilly Circus 	 ART NN APPRART NN NE  	 DET NOUN ADP NOUN PROPN  	 Ask for: a ticket to piccadilly circus 	 DT NN IN RB NN  	 DET NOUN ADP ADV NOUN  	 162 	 18 	 3 
+Frag: ein Ticket zum Trafalgar Square 	 ART NN APPRART NE NE  	 DET NOUN ADP PROPN PROPN  	 Ask for: a ticket to trafalgar square 	 DT NN IN VB JJ  	 DET NOUN ADP VERB ADJ  	 162 	 8 	 3 
+Hallo 	 NE  	 PROPN  	 hello 	 UH  	 INTJ  	 3 	 0 	 0 
+Frag: Wo ist der Geldautomat? 	 PWAV VAFIN ART NN $.  	 ADV AUX DET NOUN PUNCT  	 where is the ATM 	 WRB VBZ DT NNP  	 ADV VERB DET PROPN  	 1 	 0 	 0 
+Sag: Ich bezahle mit Kreditkarte 	 PPER VVFIN APPR NN  	 PRON VERB ADP NOUN  	 i will pay by credit card 	 PRP MD VB IN NN NN  	 PRON VERB VERB ADP NOUN NOUN  	 2 	 4 	 0 
+Sag: Kann ich mit Kreditkarte bezahlen 	 VMFIN PPER APPR NN VVINF  	 VERB PRON ADP NOUN VERB  	 can i pay by credit card 	 MD PRP VB RP NN NN  	 VERB PRON VERB PART NOUN NOUN  	 2 	 2 	 0 
+Ja 	 PTKANT  	 PART  	 yes 	 UH  	 INTJ  	 2 	 0 	 0 

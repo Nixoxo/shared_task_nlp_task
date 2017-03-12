@@ -1,0 +1,1854 @@
+<grammar>
+	<prompt_unit>
+		<prompt>Frag: Tickets für Madame Tussauds</prompt>
+		<response>tickets for madame tussauds</response>
+		<response>i'd like tickets for madame tussauds</response>
+		<response>can i have tickets for madame tussauds</response>
+		<response>i would like tickets for madame tussauds</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 1 Ticket für das Phantom der Oper</prompt>
+		<response>a ticket for the phantom of the opera</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist die Hotelbar?</prompt>
+		<response>where is the hotel bar</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 8 Uhr morgen abreisen</prompt>
+		<response>i want to leave at eight o'clock tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Türkei ist nicht in Afrika</prompt>
+		<response>turkey isn't in africa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das Hemd ist zu teuer</prompt>
+		<response>the shirt is too expensive</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 38</prompt>
+		<response>thirty-eight</response>
+		<response>thirty eight</response>
+		<response>i want a thirty eight</response>
+		<response>i am a thirty-eight</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: weisse Sandalen</prompt>
+		<response>i would like white sandals</response>
+		<response>do you have white sandals</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der siebten Reihe sitzen</prompt>
+		<response>i wouuld like to sit in the seventh row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bezahle mit Kreditkarte</prompt>
+		<response>i will pay by credit card</response>
+		<response>i would like to pay by credit card</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Karroten</prompt>
+		<response>yes i'd like the carrots</response>
+		<response>i would like carrots</response>
+		<response>i'd like carrots</response>
+		<response>can i have carrots</response>
+		<response>i would like the carrots</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Welcher Bus fährt dorthin?</prompt>
+		<response>which bus should i take</response>
+		<response>which bus goes there</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: meinen Sonntagsbraten durchgebraten</prompt>
+		<response>i would like my sunday row roast well done</response>
+		<response>i'd like my sunday roast well cooked</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der neunten Reihe sitzen</prompt>
+		<response>i would like to sit in the ninth row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Deutschland</prompt>
+		<response>i am from germany</response>
+		<response>i come from germany</response>
+		<response>i'm from germany</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine L</prompt>
+		<response>i need a large</response>
+		<response>large</response>
+		<response>i'm a large</response>
+		<response>i want a big one</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 2 Nächte</prompt>
+		<response>i want a room for two nights</response>
+		<response>one room for two nights</response>
+		<response>a room for two nights</response>
+		<response>i want to stay for two nights</response>
+		<response>have you a room for two nights</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 4 Tickets für Wicked</prompt>
+		<response>can i have four tickets for wicked</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Donnerstagnachmittag abreisen</prompt>
+		<response>i want to leave on thursday afternoon</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Sweatshirt</prompt>
+		<response>i would like i would like a sweatshirt</response>
+		<response>i would like a sweatshirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von der Schweiz ist Bern</prompt>
+		<response>the capital city of switzerland is bern</response>
+		<response>the capital of switzerland is bern</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 44</prompt>
+		<response>i am a forty-four</response>
+		<response>a forty four</response>
+		<response>forty-four</response>
+		<response>forty four</response>
+		<response>i am a forty four</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Samstagmorgen abreisen</prompt>
+		<response>i would like to leave on saturday morning</response>
+		<response>i want to leave on saturday morning</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von Italien ist Rom</prompt>
+		<response>the capital of italy is rome</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 3 Nächte</prompt>
+		<response>i want a room for three nights</response>
+		<response>i want to have a room for three nights</response>
+		<response>a room for three nights</response>
+		<response>i want a room for three three nights</response>
+		<response>a room for three nights please</response>
+		<response>i would like a room for three nights</response>
+		<response>I want a um room for three nights</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse James</prompt>
+		<response>my name is james</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Mona</prompt>
+		<response>my name is mona</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 4 jüngere Schwestern</prompt>
+		<response>i have four younger sisters</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 2 Tickets für heute Abend</prompt>
+		<response>i want two tickets for tonight</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: meinen Hamburger rare</prompt>
+		<response>i would like a hamburger rare</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Samstagnachmittag abreisen</prompt>
+		<response>i would like to leave on saturday afternoon</response>
+		<response>i want to leave saturday afternoon</response>
+		<response>i would like to leave on saturday in the afternoon</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Montagabend</prompt>
+		<response>i would like tickets for monday evening</response>
+		<response>do you have a ticket for monday evening</response>
+		<response>can i have a ticket for monday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: blaue Sandalen</prompt>
+		<response>blue sandals please blue sandals please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Irland</prompt>
+		<response>i'm from irland</response>
+		<response>i'm from ireland</response>
+		<response>i am from ireland</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Auberginen</prompt>
+		<response>i would like aubergine</response>
+		<response>i will have aubergines</response>
+		<response>could i have some aubergines</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Barbara</prompt>
+		<response>my name is barbara</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Wasser mit Kohlensäure</prompt>
+		<response>i want a carbonated water</response>
+		<response>yes i'd like water with bubbles</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus der Schweiz</prompt>
+		<response>i'm from switzerland</response>
+		<response>i come from switzerland</response>
+		<response>i'm swiss</response>
+		<response>i am from switzerland</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es ein Schwimmbad?</prompt>
+		<response>um does it have a swimming pool</response>
+		<response>does it have a swimming pool</response>
+		<response>is there a swimming pool</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein T-Shirt</prompt>
+		<response>i want a tee shirt</response>
+		<response>i would like a tee shirt</response>
+		<response>i'm looking for a t-shirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Sarah</prompt>
+		<response>my name is sarah</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: meinen Sonntagsbraten medium</prompt>
+		<response>i would like the sunday roast medium</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Österreich</prompt>
+		<response>i'm from austria</response>
+		<response>i come from austria</response>
+		<response>i am from austria</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es einen Coiffeur?</prompt>
+		<response>have you got a hairdresser</response>
+		<response>is there a hairdresser</response>
+		<response>is there any hair stylist</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Visa bezahlen</prompt>
+		<response>i'd like to pay with visa</response>
+		<response>i would like to pay with visa</response>
+		<response>i want to pay by visa card</response>
+		<response>i i i want to pay with visa</response>
+		<response>i will i would like to pay with visa</response>
+		<response>can i pay with chisa visa</response>
+		<response>can i pay by with visa</response>
+		<response>i would like to pay by visa</response>
+		<response>um i want to pay with visa</response>
+		<response>i want to pay with visa</response>
+		<response>i'd like to pay with with visa</response>
+		<response>i wish to pay by visa card</response>
+		<response>can i pay with visa</response>
+		<response>i want to pay by visa</response>
+		<response>can i pay pay with visa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist die Oxford Street?</prompt>
+		<response>where is oxfo oxford street</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 43</prompt>
+		<response>forty-three</response>
+		<response>i am a forty-three</response>
+		<response>i'm a forty-three</response>
+		<response>i am a forty three</response>
+		<response>forty three</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Mir geht es gut</prompt>
+		<response>i'm fine</response>
+		<response>i am well</response>
+		<response>i'm good</response>
+		<response>i'm fine thank you</response>
+		<response>i'm okay</response>
+		<response>i'm fine thanks</response>
+		<response>i am good thanks</response>
+		<response>i am fine</response>
+		<response>fine</response>
+		<response>i am good</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: meinen Hamburger durchgebraten</prompt>
+		<response>i want a hamburger well done</response>
+		<response>i want my hamburger cooked through</response>
+		<response>i would like a hamburger well well done</response>
+		<response>i'd like my hamburger well cooked</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es einen Lift?</prompt>
+		<response>is there an elevator</response>
+		<response>is there a lift</response>
+		<response>do you have a lift</response>
+		<response>do you uh do you have a lift</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Silvia</prompt>
+		<response>my name is sylvia</response>
+		<response>my name is silvia</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: rote Stiefel</prompt>
+		<response>ah i want red boots</response>
+		<response>can i have red boots</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 6 Tickets nach London</prompt>
+		<response>i want six tickets to london</response>
+		<response>i'd like six tickets to london</response>
+		<response>can i buy six tickets to london</response>
+		<response>could i have six tickets to london</response>
+		<response>i would like six tickets to london</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Freitagmorgen abreisen</prompt>
+		<response>i want to leave friday morning</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: gelbe Hosen</prompt>
+		<response>yellow pants</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Mein Badezimmer ist dreckig</prompt>
+		<response>my bathroom is dirty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Tickets für das Science Museum</prompt>
+		<response>i would like tickets for the science museum</response>
+		<response>and um can i have tickets for the science museum</response>
+		<response>have you got tickets for the science museum</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 1 Musical-Ticket</prompt>
+		<response>i want one musical ticket</response>
+		<response>i would like one musical ticket</response>
+		<response>i'd like one ticket for the musical</response>
+		<response>i need one musical ticket</response>
+		<response>one musical ticket</response>
+		<response>can i have one musical ticket</response>
+		<response>do you have one musical ticket</response>
+		<response>could i have one musical ticket</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für Mamma Mia</prompt>
+		<response>i want three tickets for mamma mia</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: einen Baked Potato</prompt>
+		<response>i would like a baked potato</response>
+		<response>a baked potato please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 19 Uhr morgen abreisen</prompt>
+		<response>i want to leave tomorrow at seven o'clock</response>
+		<response>i want to leave at seven o'clock tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine Goulasch-Suppe</prompt>
+		<response>i want a goulash soup</response>
+		<response>can i have a goulash soup</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Portugal ist nicht in Afrika</prompt>
+		<response>portugal is not in africa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein braunes Sweatshirt</prompt>
+		<response>i would like a brown sweatshirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: weisse Stiefel</prompt>
+		<response>white boots</response>
+		<response>i want to buy white boots</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe kleinere Note</prompt>
+		<response>i have got smaller notes</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Paul</prompt>
+		<response>my name is paul</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Stephanie</prompt>
+		<response>my name is stephanie</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Mittwochabend</prompt>
+		<response>could i have a ticket for wednesday evening</response>
+		<response>i would like tickets for wednesday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es ein Hotelrestaurant?</prompt>
+		<response>is there a hotel restaurant</response>
+		<response>is there any hotel restaurant</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Einzelzimmer</prompt>
+		<response>i'd like a single room</response>
+		<response>i want a room for one person</response>
+		<response>um i'd like a single room</response>
+		<response>i want a single room</response>
+		<response>single room</response>
+		<response>i would like a single room please</response>
+		<response>a single room</response>
+		<response>can i have a room for one person</response>
+		<response>a single room please</response>
+		<response>single room please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe eine ältere Schwester</prompt>
+		<response>i have one older sister</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Dies ist mein Pass</prompt>
+		<response>that is my passport</response>
+		<response>yes it's my passport</response>
+		<response>oh this is my passport</response>
+		<response>that'y my passport</response>
+		<response>yes this is my passport</response>
+		<response>this my passport</response>
+		<response>it is my passport</response>
+		<response>that's my passport</response>
+		<response>yes this that's my passport</response>
+		<response>this is my passport</response>
+		<response>it's my passport</response>
+		<response>yes it is my passport</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Der Tower ist nahe der Tower Bridge</prompt>
+		<response>the tower is near tower bridge</response>
+		<response>the tower is near the tower bridge</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 41</prompt>
+		<response>forty-one</response>
+		<response>i am a forty one</response>
+		<response>i am a forty-one</response>
+		<response>forty one</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe einen älteren Bruder</prompt>
+		<response>i have a big brother</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 36</prompt>
+		<response>thirty-six</response>
+		<response>thirty six</response>
+		<response>i am a thirty six</response>
+		<response>i am a thirty-six</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo kann ich einen Haarföhn kaufen?</prompt>
+		<response>where i can buy a hairdryer</response>
+		<response>where can i buy a hairdryer</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Freitagabend</prompt>
+		<response>i want tickets for friday night</response>
+		<response>a ticket for friday evening</response>
+		<response>do you have a ticket for friday evening</response>
+		<response>i want tickets to for friday night</response>
+		<response>i would like to go on friday evening</response>
+		<response>i want a ticket for friday night</response>
+		<response>tickets for friday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Schweizer Franken bezahlen</prompt>
+		<response>can i pay with swiss francs</response>
+		<response>i want to pay with swiss francs</response>
+		<response>i would like to pay with swiss swiss francs</response>
+		<response>ok i would like to pay with swiss francs</response>
+		<response>i'd like to pay with swiss francs</response>
+		<response>i wish to pay with swiss francs</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Tickets für die National Gallery</prompt>
+		<response>could i have tickets for the national gallery</response>
+		<response>can i have a ticket for the national gallery</response>
+		<response>tickets for the national gallery please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Lebensmittelladen?</prompt>
+		<response>where is the supermarket</response>
+		<response>where is the grocery store</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Doppelzimmer</prompt>
+		<response>a double room</response>
+		<response>i want a double room</response>
+		<response>i want a twin room please</response>
+		<response>a twin room</response>
+		<response>i would like a double room</response>
+		<response>double room</response>
+		<response>i want a double</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Kanada</prompt>
+		<response>i'm from canada</response>
+		<response>i am from canada</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: grüne Jeans</prompt>
+		<response>green jeans please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 5 Tickets nach London</prompt>
+		<response>i would like five tickets euhm to london</response>
+		<response>i want fa five tickets to london</response>
+		<response>i'd like five tickets to london</response>
+		<response>i need five tickets for to london</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 1 Woche</prompt>
+		<response>can i have a room for one week</response>
+		<response>a room for one week please</response>
+		<response>a room for one week</response>
+		<response>i want a room for one one week</response>
+		<response>i want a room for one week</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Starlight Express</prompt>
+		<response>can i have a ticket for starlight express</response>
+		<response>a ticket for starlight express</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wie viel kostet es?</prompt>
+		<response>how much is this</response>
+		<response>how much is it</response>
+		<response>how much does this cost</response>
+		<response>how much does it cost</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 2 Tickets für Mittwochabend</prompt>
+		<response>two tickets for wednesday night</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist das Hotelrestaurant?</prompt>
+		<response>where is the hotel restaurant</response>
+		<response>and where is the hotel restaurant</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket zum Piccadilly Circus</prompt>
+		<response>i want a ticket to piccadilly circus</response>
+		<response>i want one ticket to piccadilly circus</response>
+		<response>i would like a ticket to piccadilly circus</response>
+		<response>i would like one ticket to piccadilly circus</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket zum Trafalgar Square</prompt>
+		<response>ticket to trafalgar square</response>
+		<response>i need a ticket to trafalgar square</response>
+		<response>can i have a ticket to trafalgar square</response>
+		<response>i have i want one ticket to trafalgar square</response>
+		<response>i'd like a ticket to trafalgar square</response>
+		<response>i would like one ticket to trafalgar square</response>
+		<response>do you have a ticket to tal trafalgar square</response>
+		<response>i want a ticket to trafalgar square</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von der Türkei ist Ankara</prompt>
+		<response>the capital of turkey is ankara</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Dies ist zu klein</prompt>
+		<response>it's too too small</response>
+		<response>that's too small</response>
+		<response>it is too small</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: braune Sandalen</prompt>
+		<response>brown sandals please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für heute Abend</prompt>
+		<response>i want three tickets for tonight</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Jeans</prompt>
+		<response>i am looking for looking for jeans</response>
+		<response>i'd like some jeans</response>
+		<response>i am looking for jeans</response>
+		<response>i want some jeans</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: mein Steak blau</prompt>
+		<response>i want my steak blue</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus England</prompt>
+		<response>i'm from england</response>
+		<response>i come from england</response>
+		<response>i am from england</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets nach London</prompt>
+		<response>i would like two three tickets to london</response>
+		<response>i want three three tickets to london</response>
+		<response>i would like three tickets for london</response>
+		<response>i would like three tickets to london please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 7 Nächte</prompt>
+		<response>a room for seven nights</response>
+		<response>i need a hotel room for seven nights</response>
+		<response>i would like to stay for seven nights</response>
+		<response>i'd like to stay for seven nights</response>
+		<response>for seven nights please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Rhabarberkuchen</prompt>
+		<response>i would like the rhubarb pie</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Wasser ohne Kohlensäure</prompt>
+		<response>i want a still water</response>
+		<response>i'd like a water without gas</response>
+		<response>i want a water without gas</response>
+		<response>i would like a still water</response>
+		<response>can i have water without gas</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Österreich ist in Europa</prompt>
+		<response>austria is in europe</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 20 Uhr morgen abreisen</prompt>
+		<response>i want to leave at eight o'clock tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 3 Brüder</prompt>
+		<response>i have three brothers</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Portugal</prompt>
+		<response>i'm from from from portugal</response>
+		<response>i'm from portugal</response>
+		<response>i am from portugal</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das T-Shirt ist zu teuer</prompt>
+		<response>the tee shirt is too expensive</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Mittwoch abreisen</prompt>
+		<response>i want to leave on wednesday</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 2 Musical-Tickets</prompt>
+		<response>i would like two tickets for the musical</response>
+		<response>i want two musical tickets</response>
+		<response>i would like two musical tickets</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist Madame Tussauds?</prompt>
+		<response>where is madame tussauds</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Zoo?</prompt>
+		<response>where is the zoo</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der Mitte sitzen</prompt>
+		<response>i would like to sit in the middle</response>
+		<response>i want to sit in the middle</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket nach London</prompt>
+		<response>i would like a ticket to london</response>
+		<response>um i need a ticket to london</response>
+		<response>can i have a ticket to london</response>
+		<response>i need a ticket to london</response>
+		<response>one ticket to london</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Sonntagabend gehen</prompt>
+		<response>i want to go to the musical on sunday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Dienstagnachmittag abreisen</prompt>
+		<response>i would like to leave on tuesday in the afternoon</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Wicked</prompt>
+		<response>can i have a ticket for wicked</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Frankreich ist in Europa</prompt>
+		<response>france is in europe</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Pilze</prompt>
+		<response>i would like mushrooms</response>
+		<response>yes i would like mushrooms</response>
+		<response>i'd like some mushrooms please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 9 Uhr morgen abreisen</prompt>
+		<response>i would like to leave at nine o'clock in the morning</response>
+		<response>i would like to leave at nine o'clock tomorrow</response>
+		<response>i want to leave at nine a m tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: braune Hosen</prompt>
+		<response>i would like brown pants</response>
+		<response>i am looking for brown trou trousers</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Deutschland ist nicht in Afrika</prompt>
+		<response>germany is not in africa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein rotes Sweatshirt</prompt>
+		<response>i would like a red sweatshirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Kreditkarte bezahlen</prompt>
+		<response>can i pay by credit card</response>
+		<response>can i pay with by credit card</response>
+		<response>i'd like to pay by credit card</response>
+		<response>i would like to pay with a credit card</response>
+		<response>i would like to pay with my credit card</response>
+		<response>i want to pay with my card</response>
+		<response>i wish to pay by credit card</response>
+		<response>i want to pay by credit card</response>
+		<response>i would like pay with credit card</response>
+		<response>can i pay with master card please</response>
+		<response>i want to pay with credit card</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Sonntagabend abreisen</prompt>
+		<response>i want to leave on sunday evening</response>
+		<response>i want to leave sunday night</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket nach Notting Hill</prompt>
+		<response>could i have a ticket to notting hill</response>
+		<response>a ticket to notting hill</response>
+		<response>i would like to have a ticket to notting hill</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 15 Uhr morgen abreisen</prompt>
+		<response>i would like to leave at three p m tomorrow</response>
+		<response>i would like to leave at three o'clock p m tomorrow</response>
+		<response>i want to leave at three pm tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 4 Schwestern</prompt>
+		<response>i've got four sisters</response>
+		<response>i have four sisters</response>
+		<response>i have got four sisters</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine Limonade</prompt>
+		<response>i'd like a lemonade</response>
+		<response>i want a lemonade</response>
+		<response>i would like a lemonade</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Dies ist nicht was ich bestellt habe</prompt>
+		<response>this isn't my ordered food</response>
+		<response>this is not what i ordered</response>
+		<response>this is not my ordered food</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist das Naturhistorische Museum?</prompt>
+		<response>i am looking for the natural history museum</response>
+		<response>i am looking for the natural histo history museum</response>
+		<response>i'm looking for the natural history museum</response>
+		<response>where is the natural history museum</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 4 ältere Brüder</prompt>
+		<response>i have four photo i have four older brothers</response>
+		<response>i have four older brothers</response>
+		<response>i've got four elder brothers</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der zweiten Reihe sitzen</prompt>
+		<response>i want to sit in the second row</response>
+		<response>i would like to sit in the second row</response>
+		<response>i would like to sit in the second row o</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Im Zimmer hat es keinen Haarföhn</prompt>
+		<response>i could not find a hairdryer</response>
+		<response>in the room there isn't a hairdryer</response>
+		<response>i could not find any hairdryer</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 2 jüngere Schwestern</prompt>
+		<response>i have two younger sisters</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: mein Steak durchgebraten</prompt>
+		<response>i will have the steak well done</response>
+		<response>i would like the steak well done</response>
+		<response>i want my steak well done</response>
+		<response>i would like my steak well done</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag du möchtest nicht: diese Jeans</prompt>
+		<response>i don't want these jeans</response>
+		<response>i do not want these jeans</response>
+		<response>i don't want those jeans</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Junior Suite</prompt>
+		<response>a junior suite</response>
+		<response>junior suite</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 4 Tickets</prompt>
+		<response>could i have four tickets</response>
+		<response>can i have four tickets</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Michelle</prompt>
+		<response>my name is michelle</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: mein Steak rare</prompt>
+		<response>i want my steak rare</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein violettes Hemd</prompt>
+		<response>i want a purple shirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 2 Tickets nach London</prompt>
+		<response>can i have two tickets to london</response>
+		<response>two tickets to euh beh two tickets to london please</response>
+		<response>i would like two tickets to london</response>
+		<response>i'd like two tickets to london</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für morgen Abend</prompt>
+		<response>a ticket for tomorrow night</response>
+		<response>can i have a ticket for tomorrow evening</response>
+		<response>can i have a ticket for tomorrow night</response>
+		<response>i want tickets for tomorrow night please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Amerika</prompt>
+		<response>i am from america</response>
+		<response>i'm from the united states</response>
+		<response>i am from the u s a</response>
+		<response>i come from america</response>
+		<response>i'm from america</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Musical-Tickets</prompt>
+		<response>i would like three tickets for the musical</response>
+		<response>i'd like three tickets for the musical</response>
+		<response>i want three tickets to a musical</response>
+		<response>i want three tickets for this musical</response>
+		<response>i would like to buy three musical tickets</response>
+		<response>three musical tickets</response>
+		<response>i would like three musical tickets</response>
+		<response>i need three musical tickets</response>
+		<response>do you have three tickets for the musical</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das Zimmer ist dreckig</prompt>
+		<response>my room is dirty</response>
+		<response>no the room is very dirty</response>
+		<response>the room isn't clean</response>
+		<response>the room is dirty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Andrew</prompt>
+		<response>my name is andrew</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Ich möchte die Rechnung</prompt>
+		<response>i would like the bill please</response>
+		<response>i want the bill</response>
+		<response>can i have the bill please</response>
+		<response>can i have the bill</response>
+		<response>i would like the check</response>
+		<response>i would like the bill</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 40</prompt>
+		<response>i am a forty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine Fanta</prompt>
+		<response>i'd like a fanta</response>
+		<response>i want a fanta</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Saint Pauls Cathedral ist nahe der Bank of England</prompt>
+		<response>saint pauls cathedral is near the bank of england</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Maddalena</prompt>
+		<response>my name is maddalena</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: einen Orangensaft</prompt>
+		<response>i would like one orange juice</response>
+		<response>i want an orange juice</response>
+		<response>i'd like an orange juice</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Bohnen</prompt>
+		<response>i would like some beans</response>
+		<response>i'd like beans</response>
+		<response>i would like beans</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Sandalen</prompt>
+		<response>i would like sandals</response>
+		<response>i am looking for sandals</response>
+		<response>i want sandals</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich gehe in die Ferien</prompt>
+		<response>i'm on holidays</response>
+		<response>i am on holiday</response>
+		<response>i am on holidays</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 3 jüngere Schwestern</prompt>
+		<response>i've got three ruh younger sis sisters</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Donnerstagabend gehen</prompt>
+		<response>i would like to go on thursday evening</response>
+		<response>i'd like to go on thursday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das WC ist dreckig</prompt>
+		<response>the toilet isn't clean</response>
+		<response>the toilet's dirty</response>
+		<response>the toilet is dirty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag du möchtest nicht: dieses T-Shirt</prompt>
+		<response>i do not want that tee shirt</response>
+		<response>i don't want that tee shirt</response>
+		<response>i do not want this t-shirt</response>
+		<response>i don't want this tee shirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 2 Tickets für Wicked</prompt>
+		<response>i want two tickets for wicked</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Dies ist zu eng</prompt>
+		<response>this is too tight</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich muss gehen</prompt>
+		<response>i want to go</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: braune Jeans</prompt>
+		<response>brown jeans please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Himbeersorbet</prompt>
+		<response>i would like the raspberry sorbet</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für Billy Elliot</prompt>
+		<response>i want three tickets for billy elliot</response>
+		<response>three tickets for billy elliot</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zitronenkuchen</prompt>
+		<response>i want the lemon lemon cake</response>
+		<response>i'd like a lemon cake</response>
+		<response>i'd like the lemon cake</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Euros bezahlen</prompt>
+		<response>i would like to pay with euros</response>
+		<response>can i pay with euros please</response>
+		<response>can i pay with euros</response>
+		<response>i want to pay with euros</response>
+		<response>i'd like to pay with euros</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 12 Uhr morgen abreisen</prompt>
+		<response>i would like leave at twelve o'clock tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Frankreich</prompt>
+		<response>i am from france</response>
+		<response>i'm from i'm from france</response>
+		<response>i come from france</response>
+		<response>i'm from france</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Pommes Frittes</prompt>
+		<response>i would like some chips</response>
+		<response>i would like french fries</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 13 Uhr morgen abreisen</prompt>
+		<response>i want to leave tomorrow at one p m</response>
+		<response>i would like to leave tomorrow one p m</response>
+		<response>i would like to leave tomorrow at one p m</response>
+		<response>i would like to leave at one p m tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Postkarte bezahlen</prompt>
+		<response>i would like to pay by post card</response>
+		<response>can i pay with post card please</response>
+		<response>i'd like to pay with by post card</response>
+		<response>i would like to pay with post card</response>
+		<response>i would like to pay by post c i would like to pay by post card</response>
+		<response>i would i would like to pay by post card</response>
+		<response>i would like to pay by postcard</response>
+		<response>i wish to pay by post card</response>
+		<response>can i pay by post card</response>
+		<response>i want to pay with post card</response>
+		<response>i want to pay by post card</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Andy</prompt>
+		<response>my name is andy</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 1 Schwester</prompt>
+		<response>i have one sister</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Schweiz ist nicht in Afrika</prompt>
+		<response>switzerland is not in africa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Karrotenkuchen</prompt>
+		<response>i'd like a carrot cake</response>
+		<response>i would like the carrot cake</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für heute Abend</prompt>
+		<response>i want a ticket for tonight</response>
+		<response>a ticket for tonight</response>
+		<response>i want tickets for this evening</response>
+		<response>can i have one ticket for tonight</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Stiefel</prompt>
+		<response>i would like some boots</response>
+		<response>i am looking for boots</response>
+		<response>i want some boots</response>
+		<response>i would like to buy some boots</response>
+		<response>i need boots</response>
+		<response>um i want boots</response>
+		<response>i'd like boots</response>
+		<response>i want boots</response>
+		<response>could i have some boots</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 14 Uhr morgen abreisen</prompt>
+		<response>i want to leave tomorrow at two p m</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Tickets für das British Museum</prompt>
+		<response>i would like tickets for the british museum</response>
+		<response>i'd like tickets for the british museum</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo kann ich ein Shampoo kaufen?</prompt>
+		<response>where i can buy some shampoo</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der achten Reihe sitzen</prompt>
+		<response>i want to sit in the eighth row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte nächste Woche abreisen</prompt>
+		<response>i want to leave to leave next week</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Paolo</prompt>
+		<response>my name is paula paolo</response>
+		<response>my name is paolo</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 5 Nächte</prompt>
+		<response>a room for four for five nights</response>
+		<response>i want a room for five nights</response>
+		<response>i would like a room for for five five nights</response>
+		<response>i want to stay for five nights</response>
+		<response>hello i want a room for five nights</response>
+		<response>a room for five nights</response>
+		<response>a room for four nights five nights</response>
+		<response>a room for for five nights</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Freitagnachmittag abreisen</prompt>
+		<response>i would like to leave on friday afternoon</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: den Sonntagsbraten</prompt>
+		<response>i would like the sunday roast</response>
+		<response>i would like a sunday roast</response>
+		<response>i will have a sunday roast</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 18 Uhr morgen abreisen</prompt>
+		<response>i want to leave at six o'clock tomorrow</response>
+		<response>i would like to leave tomorrow at six pm</response>
+		<response>i would like to leave at six o'clock tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Dies ist zu teuer</prompt>
+		<response>this is too expensive</response>
+		<response>that's too much</response>
+		<response>it costs too much</response>
+		<response>it is too expensive</response>
+		<response>it's too expensive</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist das London Eye?</prompt>
+		<response>where is the london eye</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Brian</prompt>
+		<response>my name is brian</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 2 jüngere Brüder</prompt>
+		<response>i have got two smaller brothers</response>
+		<response>i have two younger brothers</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Schottland</prompt>
+		<response>i come from scotland</response>
+		<response>i'm from scotland</response>
+		<response>i am from scotland</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Dies ist zu gross</prompt>
+		<response>this is too big</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse John</prompt>
+		<response>my name is john</response>
+		<response>i'm john</response>
+		<response>i am john</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist Piccadilly Circus?</prompt>
+		<response>where is piccadilly circus</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Freitagabend abreisen</prompt>
+		<response>i want to leave friday night</response>
+		<response>i want to leave on friday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Janet</prompt>
+		<response>my name is janet</response>
+		<response>i am called janet</response>
+		<response>i am janet</response>
+		<response>i'm called janet</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Montag abreisen</prompt>
+		<response>i would like to leave monday</response>
+		<response>i want to leave on monday</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für das Phantom der Oper</prompt>
+		<response>i want three tickets for the phantom of the opera</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das Sweatshirt ist zu teuer</prompt>
+		<response>this t-shirt is too expensive</response>
+		<response>the sweatshirt is too expensive</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist die National Gallery?</prompt>
+		<response>i am looking for the national gallery</response>
+		<response>where is the national nash national gallery</response>
+		<response>where is the national gal gallery</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: einen Kaffee</prompt>
+		<response>i'd like a coffee</response>
+		<response>i would like to have a coffee</response>
+		<response>i would like a coffee</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte morgen Abend gehen</prompt>
+		<response>i would like to go to the musical tomorrow evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es ein Fitnessstudio?</prompt>
+		<response>is there a fitness room</response>
+		<response>do you have a fitness room</response>
+		<response>is there a fitness studio</response>
+		<response>is there a gym room</response>
+		<response>is there a gym</response>
+		<response>is there any fitness room</response>
+		<response>is there a fitness centre</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Samstagabend abreisen</prompt>
+		<response>i want to leave on saturday night</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Mamma Mia</prompt>
+		<response>a ticket for mamma mia</response>
+		<response>i want one ticket for mamma mia</response>
+		<response>do you have a ticket for mamma mia</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine S</prompt>
+		<response>small</response>
+		<response>ah can i  have small</response>
+		<response>i am a small</response>
+		<response>can i have small</response>
+		<response>i need a small</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Hosen</prompt>
+		<response>i want some pants</response>
+		<response>can i have trousers</response>
+		<response>i need some trousers</response>
+		<response>i would like pants</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Italien</prompt>
+		<response>i'm italian</response>
+		<response>i come from italy</response>
+		<response>i'm from italy</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Mein Zimmer ist dreckig</prompt>
+		<response>no the room is dirty</response>
+		<response>my room is dirty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe keine Reservation</prompt>
+		<response>i don't have a reservation</response>
+		<response>no i do have not a reservation</response>
+		<response>i haven't got a reservation</response>
+		<response>i do i do not have a reservation</response>
+		<response>i don't have any reservation i don't have any reservation</response>
+		<response>i haven't got any reservation</response>
+		<response>no i haven't got any reservation</response>
+		<response>i do not have a reservation</response>
+		<response>no i do not have a reservation</response>
+		<response>no i haven't got a reservation</response>
+		<response>no i don't have no i do not have a reservation</response>
+		<response>no i have no reservation</response>
+		<response>i have no uh reservation</response>
+		<response>no i don't have a reservation</response>
+		<response>i have no reservation</response>
+		<response>i don't have any reservation</response>
+		<response>i have no room reservation</response>
+		<response>i have not got a reservation</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist die Tate Modern?</prompt>
+		<response>where is the tate modern</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Lift?</prompt>
+		<response>where is the  lift</response>
+		<response>where is the elevator</response>
+		<response>where is the lift</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: etwas Kartoffelstock</prompt>
+		<response>could i have some mashed mashed potato</response>
+		<response>can i have mashed potato</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Jack</prompt>
+		<response>my name is jack</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket nach Westminster</prompt>
+		<response>could you give me a ticket to westminster</response>
+		<response>i would like to have a ticket to westminster</response>
+		<response>can i have a ticket to westminster</response>
+		<response>can we have please a ticket to westminster</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Mastercard bezahlen</prompt>
+		<response>i would like to pay with mastercard</response>
+		<response>i wish to pay with by mastercard</response>
+		<response>i wish to pay by mastercard</response>
+		<response>i would like to pay with master card</response>
+		<response>i want to p i want to pay by mastercard</response>
+		<response>i wish to pay by master card</response>
+		<response>can i pay with master master card</response>
+		<response>i would like to ha pay with mastercard</response>
+		<response>i will pay with mastercard please</response>
+		<response>i would like to pay by master card</response>
+		<response>i want to pay with mastercard please</response>
+		<response>can i pay by mastercard</response>
+		<response>i would like to pay by mastercard</response>
+		<response>i want to pay by master card</response>
+		<response>i want to pay with mastercard</response>
+		<response>can i pay with ma master card</response>
+		<response>i want to pay with master card</response>
+		<response>i want to pay by mastercard</response>
+		<response>can i pay with master card</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Custard Tart</prompt>
+		<response>i want the custard tart</response>
+		<response>i would like the custard tart</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe nur grosse Noten</prompt>
+		<response>i only have large bills</response>
+		<response>i have only large notes</response>
+		<response>i only have large notes</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der ersten Reihe sitzen</prompt>
+		<response>i would like to sit in the fourth  first row</response>
+		<response>ii want to sit in the first row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Scones</prompt>
+		<response>i would like the scones</response>
+		<response>i would like scones</response>
+		<response>i'd like the scones</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Haarföhn?</prompt>
+		<response>where i can can i find the hairdryer</response>
+		<response>do you have a hairdryer</response>
+		<response>where is the hairdryer</response>
+		<response>where is a hairdryer</response>
+		<response>where can i find a hairdryer (noises) where can i find a hairdryer</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 2 ältere Schwestern</prompt>
+		<response>i have two older sisters</response>
+		<response>i have got two big sisters</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein pinkiges Hemd</prompt>
+		<response>a pink shirt please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Donnerstagabend</prompt>
+		<response>i would like tickets for thursday night</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: etwas Knoblauchbrot</prompt>
+		<response>i want some garlic bread</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hose ist zu teuer</prompt>
+		<response>the trousers are too much</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Steak</prompt>
+		<response>i'd like a steak</response>
+		<response>i want the steak</response>
+		<response>i want a steak</response>
+		<response>i would like a steak</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 37</prompt>
+		<response>i am a thirty-seven</response>
+		<response>thirty-seven</response>
+		<response>i am a thirty seven</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es einen Lebensmittelladen?</prompt>
+		<response>have you got a supermarket</response>
+		<response>is there a grocery store</response>
+		<response>is there any supermarket</response>
+		<response>is there any grocery store</response>
+		<response>is there a supermarket</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine Cola</prompt>
+		<response>i would like a coke</response>
+		<response>i want a coke</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus der Türkei</prompt>
+		<response>i'm from tuh turkey</response>
+		<response>i'm from turkey</response>
+		<response>i am from turkey</response>
+		<response>i come from turkey</response>
+		<response>i am from tur turkey</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Schokoladenglace</prompt>
+		<response>i want the chocolate ice cream</response>
+		<response>i would like the chocolate muh ice cream</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: eine Scotch Broth</prompt>
+		<response>i will have scotch broth</response>
+		<response>i'd like scotch broth</response>
+		<response>can i have scotch broth</response>
+		<response>i would like one scotch broth</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 4 Musical-Tickets</prompt>
+		<response>can i have four musical tickets</response>
+		<response>i would like to buy four musical tickets</response>
+		<response>do you have four tickets for the musical</response>
+		<response>can i have four tickets</response>
+		<response>i want to buy four musical tickets</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: rote Sandalen</prompt>
+		<response>i want red sandals</response>
+		<response>i would i would like red sandals</response>
+		<response>i want some red sandals</response>
+		<response>i would like red sandals</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Dienstagmorgen abreisen</prompt>
+		<response>i want to leave on tuesday morning</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Montagabend gehen</prompt>
+		<response>i'd like to go monday evening</response>
+		<response>i would like to go on monday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Dienstagabend</prompt>
+		<response>i want tickets for tuesday night</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Geldautomat?</prompt>
+		<response>where is the a t m</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket zum Green Park</prompt>
+		<response>can i have a ticket to green park</response>
+		<response>i want a tick i want one ticket to green park</response>
+		<response>i want a ticket i want a i want a ticket to green park</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für Wicked</prompt>
+		<response>i want three tickets for wicked</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein gelbes T-Shirt</prompt>
+		<response>a yellow tee shirt</response>
+		<response>i would like a yellow tee shirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: einen Tee</prompt>
+		<response>i'd like a tea</response>
+		<response>i would like to have a tea</response>
+		<response>i want a tea please</response>
+		<response>i would like a tea</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Im Zimmer hat es kein Shampoo</prompt>
+		<response>there is no shampoo in the room</response>
+		<response>in the room there's no shampoo</response>
+		<response>my room has no shampoo</response>
+		<response>in the room there is no shampoo</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von Portugal ist Lissabon</prompt>
+		<response>the capital of portugal is lisbon</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 10 Uhr morgen abreisen</prompt>
+		<response>i want to leave at ten o'clock tomorrow</response>
+		<response>i would like to leave tomorrow at ten a m</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte heute Abend gehen</prompt>
+		<response>i want to go this evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für König der Löwen</prompt>
+		<response>a ticket for the lion king please</response>
+		<response>i want tickets for the lion king</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das ist okay</prompt>
+		<response>that's okay</response>
+		<response>that is okay</response>
+		<response>this is okay</response>
+		<response>that is ok</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Trifle</prompt>
+		<response>i'd like the trifle</response>
+		<response>i would like the trifle</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Twinzimmer</prompt>
+		<response>i would like a twin twin room</response>
+		<response>a twin room please</response>
+		<response>a twin room</response>
+		<response>twin room</response>
+		<response>twin room please</response>
+		<response>can i have a twin room</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Ticket für dieses Musical</prompt>
+		<response>yes i want the ticket for that musical</response>
+		<response>yes i want a ticket for the musical</response>
+		<response>can i have a ticket for this musical</response>
+		<response>i'd like tickets for this musical</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 2 Tickets</prompt>
+		<response>can i have two tickets</response>
+		<response>two tickets</response>
+		<response>i need two tickets</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Montagnachmittag abreisen</prompt>
+		<response>i would like to leave on monday afternoon</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein violettes T-Shirt</prompt>
+		<response>i would like a violet t-shirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: blaue Stiefel</prompt>
+		<response>blue boots</response>
+		<response>blue boots please</response>
+		<response>i want blue boots</response>
+		<response>could i have blue boots</response>
+		<response>i would like blue boots</response>
+		<response>i would like blue sn boots</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Marble Arch ist gegenüber dem Hyde Park</prompt>
+		<response>marble arch is opposite hyde park</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 42</prompt>
+		<response>i am a forty-two</response>
+		<response>forty two please</response>
+		<response>forty-two</response>
+		<response>forty two</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Tickets für das London Eye</prompt>
+		<response>can i have a ticket for the london eye</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist das Fitnessstudio?</prompt>
+		<response>where is the fit fit fitness room please</response>
+		<response>and where is the gym room</response>
+		<response>where is the fitness studio</response>
+		<response>where is the fitness room</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Grösse 39</prompt>
+		<response>thirty nine</response>
+		<response>thirty-nine</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Thomas</prompt>
+		<response>my name is thomas</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Suite</prompt>
+		<response>can i have a suite</response>
+		<response>a suite</response>
+		<response>i want a suite</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Es ist nahe der Bank of England</prompt>
+		<response>it's near the bank of england</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein weisses Hemd</prompt>
+		<response>a white shirt please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für Starlight Express</prompt>
+		<response>three tickets for starlight express</response>
+		<response>three tickets to starlight express</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit dem Manager sprechen</prompt>
+		<response>i want to talk to the manager</response>
+		<response>i would like to speak with the manager</response>
+		<response>i'd like to speak with the manager</response>
+		<response>i'd like to talk to the manager</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Italien ist nicht in Afrika</prompt>
+		<response>italy is not in africa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Erica</prompt>
+		<response>my name is erica</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 3 ältere Brüder</prompt>
+		<response>i have three older brothers</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Italien ist in Europa</prompt>
+		<response>italy is in europe</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von Frankreich ist Paris</prompt>
+		<response>the kip the capital of france is paris</response>
+		<response>the capital of france is paris</response>
+		<response>the capital city of france is paris</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 6 Nächte</prompt>
+		<response>i want a room for six nights</response>
+		<response>i would like a room for six nights</response>
+		<response>room for six nights</response>
+		<response>can i have a a room for the next six nights</response>
+		<response>a room for six nights please</response>
+		<response>i want a room for three uh for six nights</response>
+		<response>i'd like a room for six nights</response>
+		<response>a room for six nights</response>
+		<response>i want a room for uh next three uh six nights</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Gibt es eine Hotelbar?</prompt>
+		<response>is there a hotel bar</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 11 Uhr morgen abreisen</prompt>
+		<response>i want to leave at eleven o'clock tomorrow</response>
+		<response>i would like to leave tomorrow at eleven a m</response>
+		<response>i want to leave at eleven o'clock in the morning morning</response>
+		<response>i would like to leave tomorrow at eleven uh a m</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist das Schwimmbad?</prompt>
+		<response>where is the swimming pool</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 16 Uhr morgen abreisen</prompt>
+		<response>i want to leave tomorrow at four o'clock</response>
+		<response>i would like to leave tomorrow uh at four</response>
+		<response>i would like to leave tomorrow at four o'clock p m</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von Österreich ist Wien</prompt>
+		<response>the capital of austria is vienna</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Spanien</prompt>
+		<response>mm i'm from spain</response>
+		<response>i am from spain</response>
+		<response>i'm from spain</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte am Mittwochabend abreisen</prompt>
+		<response>i want to leave wednesday evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: die Tagessuppe</prompt>
+		<response>i would like the soup of the day</response>
+		<response>can i have the soup of the day</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der vierten Reihe sitzen</prompt>
+		<response>i would like to sit in the fourth row</response>
+		<response>i want to sit in the fourth row</response>
+		<response>i'd like to sit in the fourth row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von Deutschland ist Berlin</prompt>
+		<response>the capital of germany is berlin</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist das British Museum?</prompt>
+		<response>where is the british museum</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 3 Tickets für morgen Abend</prompt>
+		<response>three tickets for tomorrow in the evening</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich bin aus Australien</prompt>
+		<response>i'm from australia</response>
+		<response>i am from australia</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich heisse Nick</prompt>
+		<response>my name is nick</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 1 Ticket</prompt>
+		<response>i need one ticket</response>
+		<response>i would like one ticket ticket</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der zehnten Reihe sitzen</prompt>
+		<response>i would like to sit in the tenth row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Billy Elliot</prompt>
+		<response>i want one ticket for billy elliot</response>
+		<response>i would like a ticket for billy elliot</response>
+		<response>could i have a ticket for billy elliot</response>
+		<response>a ticket for billy elliot</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte mit Dollars bezahlen</prompt>
+		<response>i want to pay with dollars</response>
+		<response>i wish to pay with dollars</response>
+		<response>can i pay with dollars</response>
+		<response>ok i want to pay with dollars</response>
+		<response>i would like to pay with dollars</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Haarföhn</prompt>
+		<response>where is the hairdryer</response>
+		<response>where is a hairdryer</response>
+		<response>can you give me a hairdryer</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Zimmer für 4 Nächte</prompt>
+		<response>i want a room for for four nights</response>
+		<response>a room for four nights please</response>
+		<response>i want a room for the next four nights</response>
+		<response>can i have a room for um four nights</response>
+		<response>i would like a room for four nights</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte um 21 Uhr morgen abreisen</prompt>
+		<response>i want to leave at nine o'clock tomorrow</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: braune Stiefel</prompt>
+		<response>i'd like brown boots</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: billigeres Ticket</prompt>
+		<response>i want a cheaper ticket</response>
+		<response>is there a cheaper dis ticket</response>
+		<response>i want a less expensive ticket</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte hinten sitzen</prompt>
+		<response>i want to sit in the back</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Deutschland ist in Europa</prompt>
+		<response>germany is in europee</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag, dass du es nicht möchtest</prompt>
+		<response>i do not want that</response>
+		<response>no i do not want this</response>
+		<response>i don't want this</response>
+		<response>no i do not want it</response>
+		<response>i do not want this</response>
+		<response>sorry i don't want this shirt</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: meinen Sonntagsbraten rare</prompt>
+		<response>i would like my sunday roast rare</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich möchte in der fünften Reihe sitzen</prompt>
+		<response>i want to sit in the fith row</response>
+		<response>i want to sit in the fifth row</response>
+		<response>i would like to sit in the fifth row</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: mein Steak medium</prompt>
+		<response>i want my steak cooked medium</response>
+		<response>i will have the steak medium please</response>
+		<response>i want it medium</response>
+		<response>i would like the steak medium</response>
+		<response>i would like the steak cooked medium</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Tickets für das Naturhistorische Museum</prompt>
+		<response>can i have also tickets for the natural history museum</response>
+		<response>i'd like two tickets for the natural history museum please</response>
+		<response>do you have a ticket for the natural history museum</response>
+		<response>i would like tickets for the natural natural history museum</response>
+		<response>two tickets for the natural history museum please</response>
+		<response>i would like a ticket for the natural history museum</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Erbsen</prompt>
+		<response>i would like some peas</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Big Ben ist neben den Houses of Parliament</prompt>
+		<response>big ben is next to the houses of parliament</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Das Badezimmer ist dreckig</prompt>
+		<response>the bathroom is dirty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Schweiz ist in Europa</prompt>
+		<response>switzerland is in europe</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Türkei ist in Europa</prompt>
+		<response>turkey is in europe</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Mein WC ist dreckig</prompt>
+		<response>my toilet is dirty</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Coiffeur?</prompt>
+		<response>where where is the hairdresser</response>
+		<response>where is the hairdresser</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Ich habe 4 jüngere Brüder</prompt>
+		<response>i have four younger brothers</response>
+		<response>yes i've got four younger brothers</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Ich möchte die Dessertkarte</prompt>
+		<response>i would like the dessert menu</response>
+		<response>i want the dessert menu</response>
+		<response>i would like to have the dessert menu</response>
+		<response>the dessert menu please</response>
+		<response>can i have the dessert menu</response>
+		<response>could i see the dessert menu</response>
+		<response>can i see the dessert menu</response>
+		<response>the dessert menu</response>
+		<response>could i see the dessert  menu</response>
+		<response>i'd like the dessert menu</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Österreich ist nicht in Afrika</prompt>
+		<response>austria isn't in africa</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: Wo ist der Tower?</prompt>
+		<response>where is the tower</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: 4 Tickets nach London</prompt>
+		<response>i'd like four tickets to london</response>
+		<response>i would like four tickets for london please</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Sag: Die Hauptstadt von Spanien ist Madrid</prompt>
+		<response>the capital of spain is madrid</response>
+		<response>the caption of spain is madrid</response>
+	</prompt_unit>
+	<prompt_unit>
+		<prompt>Frag: ein Ticket für Sonntagabend</prompt>
+		<response>i want a ticket on sunday evening</response>
+	</prompt_unit>
+</grammar>

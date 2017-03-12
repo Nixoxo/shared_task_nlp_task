@@ -1,0 +1,8 @@
+<grammar>	
+	<prompt_unit>
+		<prompt>Sag: Ich gehe in die Ferien</prompt>
+		<response>i'm going on vacation</response>
+		<response>i am going on vacation</response>
+		<response>i go on vacation</response>
+	</prompt_unit>
+</grammar>
