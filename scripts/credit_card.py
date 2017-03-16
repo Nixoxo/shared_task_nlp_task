@@ -15,7 +15,8 @@ nouns = ['card', 'credit card', 'pounds', 'mastercard', 'visa', 'francs', 'dolla
 question_verbs = ['is it possible to pay', 'do you accept', 'can i pay with', 'can i pay', 'can i pay by']
 verbs = ['would like to pay with', 'would like to pay by']
 
-aux_verbs = ['i should like to', 'i have to', 'i want to', "i 'd like to", 'i would like to', 'i need to', 'i would need to']
+#aux_verbs = ['i should like to', 'i have to', 'i want to', "i 'd like to", 'i would like to', 'i need to', 'i would need to']
+aux_verbs = ['i will buy these', 'i would like an', 'i will have these', 'i want to', "i 'd need a", 'i would like a', 'i will have the', "i 'd like to", 'i would like some', 'i will have an', 'i should like a', 'i will have a', "i 'd like a", 'i should like some', 'i need to', 'i have to', "i 'd want a", "i 'd like some", 'i will take some', 'i should like an', "i 'd like an", 'i should like to', 'i would need a', 'i would want a', 'i would like the', "i 'd like the", 'i will have some', 'i will take the', 'i will take an', 'i will take a', 'i would like to', 'i would need to']
 verb_prep = ['am from', 'talk with', 'pay with', 'go on', 'speak with', 'wait for', "'m on", 'sit in', 'talk to', 'speak to', 'am on', 'pay by', 'leave on']
 verb_det = ['like the', 'want some', 'are the', 'want an', 'need a', 'take an', 'have a', 'go thursday', 'find any', 'have these', 'do these', 'want this', 'am an', 'do the', 'like some', 'want a', 'take some', 'go this', 'take a', 'find the', 'am a', 'have some', 'get a', 'find a', 'want these', 'take the', 'need an', 'are these', 'like an', 'need some', 'buy these', 'see the', 'have the', 'buy some', 'like a', 'buy a', 'want the', 'have an']
 
