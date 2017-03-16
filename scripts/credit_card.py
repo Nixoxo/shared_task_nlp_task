@@ -26,6 +26,10 @@ def aux_key(sentence):
         if auxkey in sentence:
             return auxkey
 
+def aux_key_question(sentence):
+    for auxkey in sorted(set(question_verbs), key=len, reverse=True):
+        if auxkey in sentence:
+            return auxkey
 
 def verb_prep_key(sentence):
     for verbprepkey in sorted(set(verb_prep), key=len, reverse=True):
@@ -40,11 +44,17 @@ def inside_nouns(sentence):
 
 
 def accept_credit_card(sentence):
-    sentence = " ".join(sentence.split(None))
-    if "'" in sentence:
-        sentence = sentence.replace("'", " '")
-
     aux = aux_key(sentence)
+    if aux == None:
+        aux = aux_key_question(sentence)
+        if aux:
+            sentence = sentence.replace(aux, "")
+            nounk = inside_nouns(sentence)
+            if nounk:
+                sentence = sentence.replace(nounk, "")
+                if len(sentence) == 1 or len(sentence) == 0:
+                    return True
+
     if aux:
         sentence = sentence.replace(aux, "")
         verb_prep = verb_prep_key(sentence)
@@ -82,6 +92,9 @@ def test_data_prompts():
     return test_data
 
 if __name__ == '__main__':
+
+    print(accept_credit_card("can i pay by card"))
+    """
     credit_test_prompts = test_data_prompts()
     true = 0
     false = 0
@@ -99,3 +112,5 @@ if __name__ == '__main__':
 
     print("Richtig %s", str(true))
     print("Falsch %s", str(false))
+
+    """

@@ -7,11 +7,11 @@ nouns = ['dessert menu', 'bill', 'check']
 aux_question_verbs = ['can you tell me', 'can i have a', 'could i have s', 'can you give me', 'can i have the', 'can i buy a', 'can i pay', 'could i have some', 'could you offer me', 'can you bring me', 'could i have an', 'can i have s', 'can i find a', 'could i have a', 'can i buy', 'can i buy some', 'can i have an', 'could you give me', 'can you offer me', 'could i have', 'would you bring me', 'would you give me', 'can you show me', 'could i buy some', 'can i have', 'can i have some', 'could i buy', 'could you tell me', 'can i find the', 'could i buy a', 'could you bring me', 'could i have the', 'can i see the']
 
 def aux_key(sentence):
-    for auxkey in set(aux_verbs):
+    for auxkey in sorted(set(aux_verbs), key=len, reverse=True):
         if auxkey in sentence:
             return auxkey
 def aux_key_question(sentence):
-    for auxkey in set(aux_question_verbs):
+    for auxkey in sorted(set(aux_question_verbs), key=len, reverse=True):
         if auxkey in sentence:
             return auxkey
 
@@ -20,10 +20,20 @@ def inside_nouns(sentence):
         if nounkey in sentence:
             return nounkey
 
-def accept_credit_card(sentence):
+reject_words = ['dessert card', 'card']
+
+def accept_restarant(sentence):
     aux = aux_key(sentence)
+
     if aux == None:
         aux = aux_key_question(sentence)
+        if aux:
+            sentence = sentence.replace(aux, "")
+            nounk = inside_nouns(sentence)
+            if nounk:
+                sentence = sentence.replace(nounk, "")
+                if len(sentence) == 1 or len(sentence) == 0:
+                    return True
     if aux:
         sentence = sentence.replace(aux, "")
         nounk = inside_nouns(sentence)
@@ -36,21 +46,23 @@ def accept_credit_card(sentence):
 
 if __name__ == '__main__':
 
+    print(accept_restarant("can i have the dessert menu"))
+    print(accept_restarant("can i have the dessert card"))
 
+    if False:
+        true = 0
+        false = 0
+        for pro in test_data:
+            sentence = " ".join(pro.split(None))
+            if "'" in sentence:
+                sentence = sentence.replace("'", " '")
 
-    true = 0
-    false = 0
-    for pro in test_data:
-        sentence = " ".join(pro.split(None))
-        if "'" in sentence:
-            sentence = sentence.replace("'", " '")
+            is_true = accept_restarant(sentence)
+            if is_true:
+                true +=1
+            else:
+                false +=1
+                print(str(is_true) + "\t" + sentence)
 
-        is_true = accept_credit_card(sentence)
-        if is_true:
-            true +=1
-        else:
-            false +=1
-            print(str(is_true) + "\t" + sentence)
-
-    print("Richtig %s", str(true))
-    print("Falsch %s", str(false))
+        print("Richtig %s", str(true))
+        print("Falsch %s", str(false))
