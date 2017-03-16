@@ -64,5 +64,6 @@ if __name__ == '__main__':
                 false +=1
                 print(str(is_true) + "\t" + sentence)
 
+
         print("Richtig %s", str(true))
         print("Falsch %s", str(false))
