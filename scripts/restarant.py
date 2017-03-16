@@ -36,8 +36,6 @@ def accept_credit_card(sentence):
 
 if __name__ == '__main__':
 
-
-
     true = 0
     false = 0
     for pro in test_data:
