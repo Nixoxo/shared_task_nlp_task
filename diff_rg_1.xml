@@ -40,7 +40,7 @@
 	</prompt_unit>
 	<prompt_unit>
 		<prompt>Sag: Ich möchte in der siebten Reihe sitzen</prompt>
-		<response>i wouuld like to sit in the seventh row</response>
+		<response>i would like to sit in the seventh row</response>
 	</prompt_unit>
 	<prompt_unit>
 		<prompt>Sag: Ich bezahle mit Kreditkarte</prompt>
@@ -238,7 +238,6 @@
 		<response>i want to pay by visa card</response>
 		<response>i i i want to pay with visa</response>
 		<response>i will i would like to pay with visa</response>
-		<response>can i pay with chisa visa</response>
 		<response>can i pay by with visa</response>
 		<response>i would like to pay by visa</response>
 		<response>um i want to pay with visa</response>
@@ -1006,7 +1005,6 @@
 		<response>can i pay with post card please</response>
 		<response>i'd like to pay with by post card</response>
 		<response>i would like to pay with post card</response>
-		<response>i would like to pay by post c i would like to pay by post card</response>
 		<response>i would i would like to pay by post card</response>
 		<response>i would like to pay by postcard</response>
 		<response>i wish to pay by post card</response>
@@ -1285,7 +1283,6 @@
 		<response>i wish to pay with by mastercard</response>
 		<response>i wish to pay by mastercard</response>
 		<response>i would like to pay with master card</response>
-		<response>i want to p i want to pay by mastercard</response>
 		<response>i wish to pay by master card</response>
 		<response>can i pay with master master card</response>
 		<response>i would like to ha pay with mastercard</response>
@@ -1296,7 +1293,7 @@
 		<response>i would like to pay by mastercard</response>
 		<response>i want to pay by master card</response>
 		<response>i want to pay with mastercard</response>
-		<response>can i pay with ma master card</response>
+		<response>can i pay with my master card</response>
 		<response>i want to pay with master card</response>
 		<response>i want to pay by mastercard</response>
 		<response>can i pay with master card</response>
@@ -1315,7 +1312,7 @@
 	<prompt_unit>
 		<prompt>Sag: Ich möchte in der ersten Reihe sitzen</prompt>
 		<response>i would like to sit in the fourth  first row</response>
-		<response>ii want to sit in the first row</response>
+		<response>i want to sit in the first row</response>
 	</prompt_unit>
 	<prompt_unit>
 		<prompt>Frag: Scones</prompt>
