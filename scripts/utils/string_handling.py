@@ -29,9 +29,12 @@ def remove_words_by_list(sentence, remove_words=remove_words_list):
     # Remove no at begin
     if words[0] == "no":
         words = words[1:]
-
+    elif words[0] == "and":
+        words = words[1:]
     # Remove no at end
     if words[-1] == "no":
+        words = words[:-1]
+    elif words[-1] == "is":
         words = words[:-1]
 
     for word in words:
@@ -63,3 +66,5 @@ if __name__ == '__main__':
     print(remove_words_by_list(remove_abbreviations("I do not no know no")))
 
     print(get_unique_sentence("I do not no no no know no"))
+    print(clear_sentence("and where is the lift"))
+    print(clear_sentence("i have not got a reservation is"))
