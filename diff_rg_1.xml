@@ -755,6 +755,15 @@
 		<response>this isn't my ordered food</response>
 		<response>this is not what i ordered</response>
 		<response>this is not my ordered food</response>
+		<response>excuse me that is not what i ordered</response>
+		<response>excuse me that isn't what i ordered</response>
+		<response>sorry that is not what i ordered</response>
+		<response>sorry that isn't what i ordered</response>
+		<response>that is not what i ordered</response>
+		<response>that isn't what i ordered</response>
+		<response>that isn't my ordered food</response>
+		<response>that is not what i ordered</response>
+		<response>that is not my ordered food</response>
 	</prompt_unit>
 	<prompt_unit>
 		<prompt>Frag: Wo ist das Naturhistorische Museum?</prompt>
