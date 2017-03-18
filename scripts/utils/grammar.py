@@ -14,6 +14,12 @@ def create_prompt_response_map(gram):
                     key = prompt.text
                 elif(prompt.tag == 'response'):
                     responses.append(prompt.text)
+                elif(prompt.tag == 'translated_prompt'):
+                    trans_text = prompt.text
+                    if "Say you still want:" in trans_text or "(" in trans_text:
+                        continue
+                    trans_text = trans_text.replace("Ask for: ", "").replace("Say you still want: ", "").replace("Say: ", "").replace("?size", "").replace("?", "")
+                    responses.append(trans_text)
         prompt_response_map[key] = responses
     return prompt_response_map
 
