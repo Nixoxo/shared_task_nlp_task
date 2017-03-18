@@ -31,10 +31,11 @@ def get_test_data_by_false_prompts(cluster_prompts, false_prompts, grammar):
     # Hole alle Daten mit den prompts
     transcripts_arr = {}
     for key in cluster_prompts:
-        transcripts_arr[key] =[]
-        for response in false_prompts[key]:
-            if response['transcript'] not in grammar[key]:
-                transcripts_arr[key].append(response)
+        if key in false_prompts:
+            transcripts_arr[key] =[]
+            for response in false_prompts[key]:
+                if response['transcript'] not in grammar[key]:
+                    transcripts_arr[key].append(response)
     #for key in arr:
     #    if arr[]
     #    transcripts_arr.append()
