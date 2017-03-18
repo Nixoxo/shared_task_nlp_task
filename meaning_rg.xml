@@ -1,6 +1,0 @@
-<grammar>	
-	<prompt_unit>
-		<prompt>Sag: Ich gehe in die Ferien</prompt>
-		<pos>i go [*EMP|*IN|*DT|*IN & *DT] (holiday|holidays|vacation)</pos>
-	</prompt_unit>
-</grammar>
