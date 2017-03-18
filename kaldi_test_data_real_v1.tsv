@@ -1,0 +1,997 @@
+asdf	asdf	asdf	sdf
+3570	Frag: Zimmer für 1 Woche	can i have a hotel room for one night	can i have a hotel room for one night
+3571	Frag: Zimmer für 1 Woche	i want a room for one week	i want a room for one week
+3572	Frag: Twinzimmer	a twin room please	a twin room please
+3573	Sag: Ich möchte mit Kreditkarte bezahlen	can i pay by credit card	can i pay by credit card
+3574	Frag: Gibt es ein Fitnessstudio?	have a fitness studio	have a fitness studio
+3575	Frag: 3 Musical-Tickets	i would like an for three musical tickets	i would like an for three musical tickets
+3576	Sag: Ich möchte am Montagabend gehen	i would like to go on monday night	i would like to go on monday night
+3577	Sag: Ich möchte am Montagabend gehen	i would like to go on monday night	i would like to go on monday night
+3579	Frag: 3 Tickets für König der Löwen	i have three tickets for mamma mia please	i have three tickets for mamma mia please
+3580	Sag: Ich möchte vorne sitzen	i would like jeans	i would like jeans
+3581	Sag: Ich möchte vorne sitzen	where is the gym	where is the gym
+3582	Sag: Ich möchte vorne sitzen	i will buy with the visa card	i will buy with the visa card
+3583	Frag: Tickets für die National Gallery	i would like tickets for the master card	i would like tickets for the master card
+3584	Frag: Tickets für die National Gallery	i would like i would like master nights card i am going on	i would like i would like master nights card i am going on
+3587	Frag: ein Ticket zum Piccadilly Circus	are i would like a ticket to piccadilly circus	are i would like a ticket to piccadilly circus
+3588	Sag: Ich möchte mit Visa bezahlen	i would like to pay with visa	i would like to pay with visa
+3589	Sag: Ich möchte mit Visa bezahlen	i would like to pay with visa	i would like to pay with visa
+3590	Frag: ein Ticket zum Green Park	i need a ticket to green park	i need a ticket to green park
+3592	Sag: Ich möchte mit Visa bezahlen	i would like to pay visa	i would like to pay visa
+3593	Sag: Ich möchte mit Pfund bezahlen	can i pay by done	can i pay by done
+3594	Sag: Ich möchte mit Pfund bezahlen	can i pay by card	can i pay by card
+3595	Sag: Ich möchte mit Pfund bezahlen	i pay a pay by cards	i pay a pay by cards
+3596	Frag: ein Ticket nach Notting Hill	i would like a ticket to nothing please	i would like a ticket to nothing please
+3597	Sag: Ich möchte mit Mastercard bezahlen	can i pay with by mastercard	can i pay with by mastercard
+3598	Sag: Ich möchte mit Mastercard bezahlen	can i pay by mastercard	can i pay by mastercard
+3599	Sag: Ich möchte mit Dollars bezahlen	can i buy by dollars	can i buy by dollars
+3602	Frag: eine Cola	i would like a coffee	i would like a coffee
+3604	Frag: ein Steak	i want the steak	i want the steak
+3605	Frag: mein Steak rare	my steak rare	my steak rare
+3606	Frag: mein Steak rare	i would like my steak rare	i would like my steak rare
+3608	Frag: Pilze	i would like please	i would like please
+3610	Frag: Ich möchte die Dessertkarte	no i need to go sunday night	no i need to go sunday night
+3611	Sag: Mir geht es gut	i am a small	i am a small
+3618	Frag: 2 Tickets nach London	two tickets to london	two tickets to london
+3619	Frag: 2 Tickets nach London	two tickets to london	two tickets to london
+3620	Sag: Ich möchte um 21 Uhr morgen abreisen	i want to leave at nine o'clock tomorrow	i want to leave at nine o'clock tomorrow
+3621	Sag: Ich heisse James	i will pay	i will pay
+3622	Sag: Ich bin aus der Türkei	i am from turkey	i am from turkey
+3623	Frag: 2 Musical-Tickets	two tickets please	two tickets please
+3625	Frag: ein Ticket für Montagabend	tickets for tomorrow at eight a m please	tickets for tomorrow at eight a m please
+3626	Frag: ein Ticket für Montagabend	tickets for monday afternoon	tickets for monday afternoon
+3627	Frag: 2 Tickets für König der Löwen	two tickets for billy elliot please	two tickets for billy elliot please
+3628	Frag: 2 Tickets für König der Löwen	two tickets for the king	two tickets for the king
+3629	Frag: 2 Tickets für König der Löwen	two tickets for the king of like l	two tickets for the king of like l
+3630	Sag: Ich möchte in der zweiten Reihe sitzen	i would like a ticket	i would like a ticket
+3631	Sag: Ich möchte in der zweiten Reihe sitzen	i would sit in the fifth	i would sit in the fifth
+3632	Sag: Ich möchte in der zweiten Reihe sitzen	i would like to sit in the second row	i would like to sit in the second row
+3634	Frag: 5 Tickets	five tickets please	five tickets please
+3636	Frag: Einzelzimmer	a single room	a single room
+3637	Frag: Einzelzimmer	a single room	a single room
+3638	Frag: Einzelzimmer	a single room please	a single room please
+3639	Sag: Ich möchte mit Postkarte bezahlen	i want to pay with my post card	i want to pay with my post card
+3640	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay with by post card	i would like to pay with by post card
+3641	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by euros	i would like to pay by euros
+3642	Frag: Gibt es eine Hotelbar?	is there the hotel bar	is there the hotel bar
+3643	Sag: Ich heisse Nick	my name is nick	my name is nick
+3644	Sag: Ich bin aus Österreich	i am from austria	i am from austria
+3645	Sag: Die Hauptstadt von Österreich ist Wien	the capital of austria is please	the capital of austria is please
+3647	Sag: Ich habe 1 Bruder	i have one brother	i have one brother
+3648	Sag: Ich habe 1 Bruder	i have a brother	i have a brother
+3649	Sag: Ich habe 1 Bruder	i have one brother	i have one brother
+3650	Sag: Ich gehe in die Ferien	i go into the holidays	i go into the holidays
+3651	Sag: Dies ist mein Pass	this is my passport	this is my passport
+3652	Sag: Dies ist mein Pass	this is my pass	this is my pass
+3654	Frag: ein Ticket zum Piccadilly Circus	a ticket from piccadilly circus please	a ticket from piccadilly circus please
+3655	Frag: ein Ticket zum Piccadilly Circus	like a ticket to piccadilly circus	like a ticket to piccadilly circus
+3656	Frag: ein Ticket zum Piccadilly Circus	i would like a ticket to piccadilly circus	i would like a ticket to piccadilly circus
+3657	Sag: Ich möchte mit Mastercard bezahlen	i would like to pay with mastercard	i would like to pay with mastercard
+3658	Frag: 4 Musical-Tickets	four musical tickets please	four musical tickets please
+3659	Frag: 4 Musical-Tickets	four musical tickets	four musical tickets
+3660	Frag: 4 Musical-Tickets	i would like to buy four musical tickets	i would like to buy four musical tickets
+3661	Sag: Ich möchte am Freitagabend gehen	i want to go at eight a m	i want to go at eight a m
+3662	Sag: Ich möchte am Freitagabend gehen	i would like to go on friday	i would like to go on friday
+3663	Sag: Ich möchte am Freitagabend gehen	i would like to go on friday night	i would like to go on friday night
+3664	Frag: 4 Tickets für Wicked	i would like four tickets for wicked	i would like four tickets for wicked
+3665	Frag: 4 Tickets für Wicked	i want four tickets for wicked	i want four tickets for wicked
+3666	Sag: Ich möchte in der achten Reihe sitzen	in the day	in the day
+3667	Sag: Ich möchte in der achten Reihe sitzen	i want to sit in the eighth row	i want to sit in the eighth row
+3668	Sag: Ich möchte in der achten Reihe sitzen	i want sit in the eighth row	i want sit in the eighth row
+3669	Frag: Tickets für das Naturhistorische Museum	i want tickets for the natural history museum please	i want tickets for the natural history museum please
+3670	Frag: 2 Tickets	i want two tickets please	i want two tickets please
+3671	Sag: Ich habe keine Reservation	no i am a lift have a reservation	no i am a lift have a reservation
+3673	Sag: Ich habe keine Reservation	no i do not have a reservation	no i do not have a reservation
+3674	Frag: Zimmer für 6 Nächte	can i have six room for six nights	can i have six room for six nights
+3675	Frag: Zimmer für 6 Nächte	i want a room for six nights	i want a room for six nights
+3676	Frag: Doppelzimmer	i want a double room	i want a double room
+3679	Frag: Gibt es ein Schwimmbad?	have you got a twin room	have you got a twin room
+3680	Frag: Wo ist das Schwimmbad?	where is the pool	where is the pool
+3681	Frag: Zimmer für 4 Nächte	i want a room for four nights	i want a room for four nights
+3682	Frag: Doppelzimmer	i want a double room	i want a double room
+3683	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+3684	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+3685	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	where is the hotel restaurant
+3686	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+3688	Sag: Ich möchte mit Schweizer Franken bezahlen	can i pay with swiss francs	can i pay with swiss francs
+3689	Sag: Ich habe keine Reservation	no i do not have a reservation	no i do not have a reservation
+3690	Frag: Zimmer für 7 Nächte	i want a room for seven nights	i want a room for seven nights
+3691	Frag: Junior Suite	i'm a junior suite	i'm a junior suite
+3692	Sag: Ich möchte mit Mastercard bezahlen	can i pay by mastercard	can i pay by mastercard
+3693	Frag: Gibt es einen Coiffeur?	is there a hairdresser	is there a hairdresser
+3694	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+3695	Frag: 3 Tickets nach London	i would like three tickets to london	i would like three tickets to london
+3696	Sag: Ich möchte am Mittwochabend abreisen	i want to leave on wednesday evening	i want to leave on wednesday evening
+3697	Sag: Ich heisse Sarah	my name is sarah	my name is sarah
+3698	Sag: Ich heisse Sarah	my name is sarah	my name is sarah
+3700	Frag: ein Ticket nach London	i want a ticket to london	i want a ticket to london
+3701	Sag: Ich möchte am Sonntag abreisen	i would like to leave on sunday	i would like to leave on sunday
+3702	Sag: Ich heisse John	my name is john	my name is john
+3703	Sag: Ich bin aus Spanien	i'm from twin room	i'm from twin room
+3704	Sag: Ich heisse Brian	my name is brian	my name is brian
+3705	Sag: Ich bin aus Amerika	i'm from america	i'm from america
+3706	Sag: Ich heisse Silvia	my name is silvia	my name is silvia
+3707	Sag: Ich bin aus Portugal	i'm from portugal	i'm from portugal
+3708	Sag: Die Hauptstadt von Portugal ist Lissabon	capital of portugal is lisbon	capital of portugal is lisbon
+3709	Sag: Ich habe 2 jüngere Brüder	i have two younger brothers	i have two younger brothers
+3710	Sag: Ich gehe in die Ferien	i'm going to holidays	i'm going to holidays
+3712	Sag: Dies ist mein Pass	that is my passport	that is my passport
+3713	Sag: Dies ist mein Pass	that is my passport	that is my passport
+3714	Sag: Dies ist mein Pass	this is my passport	this is my passport
+3716	Sag: Ich möchte mit Postkarte bezahlen	i want pay	i want pay
+3717	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	i would like to pay by post card
+3718	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	i would like to pay by post card
+3719	Frag: 2 Musical-Tickets	i want two musical tickets	i want two musical tickets
+3720	Frag: 2 Tickets für Montagabend	i want two tickets for monday evening	i want two tickets for monday evening
+3723	Frag: Zimmer für 2 Nächte	a room for two nights	a room for two nights
+3724	Frag: Zimmer für 2 Nächte	can i have a room for two nights	can i have a room for two nights
+3725	Frag: Einzelzimmer	single room	single room
+3726	Frag: Einzelzimmer	single room	single room
+3727	Frag: Einzelzimmer	single room	single room
+3728	Sag: Ich möchte mit Kreditkarte bezahlen	a tea	a tea
+3729	Sag: Ich möchte mit Kreditkarte bezahlen	lift don't note	lift don't note
+3730	Frag: Gibt es einen Lift?	it is there a lift	it is there a lift
+3731	Frag: Wo ist der Lift?	where is the lift	where is the lift
+3735	Sag: Ich möchte mit Dollars bezahlen	can i pay with dollars	can i pay with dollars
+3736	Frag: Zimmer für 3 Nächte	i want a room for three nights	i want a room for three nights
+3737	Frag: Einzelzimmer	i want a single room	i want a single room
+3738	Sag: Ich möchte mit Postkarte bezahlen	i want to pay with credit card	i want to pay with credit card
+3740	Frag: Gibt es ein Fitnessstudio?	have you got a fitness studio	have you got a fitness studio
+3741	Frag: Gibt es ein Fitnessstudio?	is there a gym	is there a gym
+3742	Frag: Wo ist das Fitnessstudio?	where is the gym	where is the gym
+3743	Frag: ein Ticket nach London	i want a ticket to london	i want a ticket to london
+3744	Sag: Ich möchte um 12 Uhr morgen abreisen	i want to leave tomorrow at noon	i want to leave tomorrow at noon
+3745	Sag: Ich heisse Mona	my name is mona	my name is mona
+3746	Sag: Ich bin aus Deutschland	i'm from germany	i'm from germany
+3749	Frag: ein Steak	a single room please a gym	a single room please a gym
+3750	Frag: ein Steak	junior suite please	junior suite please
+3751	Frag: ein Steak	please	please
+3757	Frag: Wo ist der Tower?	where is the gym	where is the gym
+3759	Frag: Welcher Bus fährt dorthin?	twiss twin room	twiss twin room
+3761	Frag: Zimmer für 6 Nächte	a double room for six nights	a double room for six nights
+3762	Frag: Zimmer für 6 Nächte	a double room for six nights	a double room for six nights
+3763	Frag: Zimmer für 6 Nächte	i want a room for six nights	i want a room for six nights
+3764	Frag: Twinzimmer	a twin zimmer	a twin zimmer
+3767	Sag: Ich möchte mit Kreditkarte bezahlen	i would like to pay by credit card	i would like to pay by credit card
+3768	Frag: Gibt es einen Lift?	is there a room	is there a room
+3769	Sag: Ich habe keine Reservation	i have smaller a reservation evening	i have smaller a reservation evening
+3770	Sag: Ich habe keine Reservation	i have no reservation	i have no reservation
+3771	Sag: Ich habe keine Reservation	i have no reservation	i have no reservation
+3773	Sag: Ich habe keine Reservation	i haven't got a reservation	i haven't got a reservation
+3774	Sag: Ich habe keine Reservation	i have not a reservation	i have not a reservation
+3776	Sag: Ich habe keine Reservation	i do not have a reservation	i do not have a reservation
+3777	Sag: Ich habe keine Reservation	i don't have a reservation	i don't have a reservation
+3778	Sag: Ich habe keine Reservation	no i do not have a reservation	no i do not have a reservation
+3779	Sag: Ich habe keine Reservation	my name is not i have not have a eye	my name is not i have not have a eye
+3781	Sag: Ich habe keine Reservation	no i do not have a reservation	no i do not have a reservation
+3782	Frag: Zimmer für 7 Nächte	a room for seven nights	a room for seven nights
+3783	Frag: Doppelzimmer	a double room	a double room
+3784	Frag: Doppelzimmer	a double room the	a double room the
+3786	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	i would like to pay by post card
+3787	Frag: Gibt es ein Hotelrestaurant?	is there a hotel bar	is there a hotel bar
+3788	Frag: Wo ist das Hotelrestaurant?	i will have a fanta	i will have a fanta
+3789	Frag: Wo ist das Hotelrestaurant?	my name is there a hotel bar	my name is there a hotel bar
+3790	Frag: Wo ist das Hotelrestaurant?	room my name is the hotel have a large	room my name is the hotel have a large
+3791	Frag: Zimmer für 2 Nächte	a room for two nights	a room for two nights
+3792	Frag: Doppelzimmer	a double room	a double room
+3794	Frag: Doppelzimmer	a twin room	a twin room
+3795	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	i would like to pay by post card
+3796	Sag: Ich möchte mit Schweizer Franken bezahlen	i would like to pay with master with master card	i would like to pay with master with master card
+3797	Sag: Ich möchte mit Schweizer Franken bezahlen	i would like to pay by swiss francs	i would like to pay by swiss francs
+3798	Sag: Ich möchte mit Schweizer Franken bezahlen	can i pay with swiss francs	can i pay with swiss francs
+3799	Frag: Gibt es einen Coiffeur?	is there have a bar	is there have a bar
+3800	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to piccadilly circus	i want a ticket to piccadilly circus
+3801	Sag: Ich möchte mit Postkarte bezahlen	i'd like the check with post card	i'd like the check with post card
+3802	Sag: Ich möchte mit Pfund bezahlen	i'd like to pay with pounds	i'd like to pay with pounds
+3803	Sag: Mir geht es gut	i'm fine thanks	i'm fine thanks
+3804	Frag: Stiefel	i'd like to leave a tea	i'd like to leave a tea
+3805	Frag: Stiefel	i would like some boots	i would like some boots
+3806	Frag: blaue Stiefel	i i would like blue boots	i i would like blue boots
+3807	Sag: Ich habe keine Reservation	no i don't have a reservation	no i don't have a reservation
+3808	Frag: Zimmer für 3 Nächte	a room for three nights	a room for three nights
+3809	Frag: Junior Suite	a junior suite	a junior suite
+3810	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with credit card	i want to pay with credit card
+3811	Sag: Ich heisse Barbara	my name is barbara	my name is barbara
+3812	Sag: Ich bin aus Frankreich	i'm from france	i'm from france
+3813	Sag: Die Hauptstadt von Frankreich ist Paris	the capital of france is paris	the capital of france is paris
+3814	Sag: Ich habe 2 jüngere Schwestern	i have two younger sisters	i have two younger sisters
+3815	Sag: Ich gehe in die Ferien	i go in the holidays	i go in the holidays
+3816	Sag: Dies ist mein Pass	this is my passport	this is my passport
+3817	Sag: Dies ist mein Pass	is it is my passport	is it is my passport
+3818	Sag: Dies ist mein Pass	yes it is my passport	yes it is my passport
+3819	Frag: 3 Musical-Tickets	musical tickets	musical tickets
+3820	Frag: 3 Musical-Tickets	can i have three musical tickets	can i have three musical tickets
+3822	Frag: 3 Tickets für Starlight Express	i need three tickets for starlight express	i need three tickets for starlight express
+3823	Sag: Ich möchte in der vierten Reihe sitzen	i would like in the fourth is nick	i would like in the fourth is nick
+3824	Sag: Ich möchte in der vierten Reihe sitzen	i would like to sit in the fourth row	i would like to sit in the fourth row
+3825	Frag: Tickets für das London Eye	i want tickets for the london eye	i want tickets for the london eye
+3826	Frag: 4 Tickets	i need four tickets	i need four tickets
+3827	Frag: 3 Musical-Tickets	i need three musical tickets	i need three musical tickets
+3828	Frag: ein Ticket für Donnerstagabend	i need a ticket for thursday night	i need a ticket for thursday night
+3829	Frag: 3 Tickets für Wicked	i need three tickets for wicked	i need three tickets for wicked
+3830	Frag: Ticket für dieses Musical	i want a ticket for this musical	i want a ticket for this musical
+3831	Frag: Ticket für dieses Musical	i want tickets for this musical	i want tickets for this musical
+3832	Sag: Ich möchte in der zweiten Reihe sitzen	i want to sit in the second row	i want to sit in the second row
+3833	Frag: Tickets für Madame Tussauds	i want tickets for madame to go	i want tickets for madame to go
+3834	Frag: 1 Ticket	i need one ticket	i need one ticket
+3835	Frag: 1 Musical-Ticket	i need one musical ticket	i need one musical ticket
+3836	Frag: ein Ticket für heute Abend	a ticket for tonight	a ticket for tonight
+3837	Frag: ein Ticket für heute Abend	i want tickets for tuesday evening	i want tickets for tuesday evening
+3838	Frag: ein Ticket für Mamma Mia	i want a ticket for mamma mia	i want a ticket for mamma mia
+3839	Frag: Ticket für dieses Musical	i want a ticket for this musical	i want a ticket for this musical
+3840	Sag: Ich möchte vorne sitzen	i want sit i'm from	i want sit i'm from
+3841	Sag: Ich möchte vorne sitzen	i would like to sit in the front	i would like to sit in the front
+3842	Frag: Tickets für das British Museum	i need tickets for the british museum	i need tickets for the british museum
+3843	Frag: Tickets für das British Museum	can i also have tickets for the british museum	can i also have tickets for the british museum
+3844	Frag: 2 Tickets	i need two tickets	i need two tickets
+3845	Frag: 2 Musical-Tickets	i need two musical tickets	i need two musical tickets
+3846	Frag: ein Ticket für Samstagabend	i need a ticket for saturday night	i need a ticket for saturday night
+3847	Frag: 2 Tickets für König der Löwen	i need two tickets for the lion king	i need two tickets for the lion king
+3848	Sag: Ich möchte vorne sitzen	i want to sit in the front	i want to sit in the front
+3849	Frag: Tickets für das Science Museum	i want tickets for the science museum	i want tickets for the science museum
+3850	Frag: 1 Ticket	i need one ticket	i need one ticket
+3851	Frag: Wo ist das Naturhistorische Museum?	where is the natural history museum	where is the natural history museum
+3852	Frag: Wo ist die Oxford Street?	where is the oxford street	where is the oxford street
+3853	Frag: Welcher Bus fährt dorthin?	which bus goes there	which bus goes there
+3854	Sag: Der Tower ist nahe der Tower Bridge	the tower is near the tower bridge	the tower is near the tower bridge
+3855	Frag: Wo ist das Naturhistorische Museum?	where is the natural history museum	where is the natural history museum
+3856	Frag: Wo ist Piccadilly Circus?	where is piccadilly circus	where is piccadilly circus
+3857	Frag: Welcher Bus fährt dorthin?	which bus goes there	which bus goes there
+3858	Sag: Big Ben ist neben den Houses of Parliament	the big ben is too tight the houses of parliament	the big ben is too tight the houses of parliament
+3859	Frag: Wo ist das Naturhistorische Museum?	where is the natural history museum	where is the natural history museum
+3860	Frag: Wo ist der Tower?	you can't use help at the silver level	you can't use help at the silver level
+3861	Frag: Wo ist der Tower?	where is the tower	where is the tower
+3862	Sag: Marble Arch ist gegenüber dem Hyde Park	marble arch is the for five green park	marble arch is the for five green park
+3863	Frag: Wo ist die National Gallery?	where is the national gallery	where is the national gallery
+3864	Frag: Wo ist Big Ben?	where is the big ben	where is the big ben
+3865	Frag: Welcher Bus fährt dorthin?	which bus goes there	which bus goes there
+3866	Sag: Der Tower ist nahe der Tower Bridge	the tower is near tower bridge	the tower is near tower bridge
+3867	Frag: Wo ist der Zoo?	where is the zoo	where is the zoo
+3868	Frag: Wo ist Madame Tussauds?	where is madame to go	where is madame to go
+3869	Frag: Welcher Bus fährt dorthin?	which bus goes there	which bus goes there
+3870	Sag: Der Tower ist nahe der Tower Bridge	the tower is near tower bridge	the tower is near tower bridge
+3871	Frag: einen Orangensaft	i want the an orange juice	i want the an orange juice
+3872	Frag: einen Orangensaft	i want an orange juice	i want an orange juice
+3873	Frag: einen Hamburger	i want a hamburger	i want a hamburger
+3874	Frag: meinen Hamburger rare	i want my hamburger rare please	i want my hamburger rare please
+3875	Frag: Erbsen	i want please	i want please
+3876	Frag: Erbsen	i want jeans	i want jeans
+3877	Frag: Erbsen	i would like some please	i would like some please
+3878	Frag: Ich möchte die Dessertkarte	yes can i have the dessert card	yes can i have the dessert card
+3879	Frag: Ich möchte die Dessertkarte	can i have the dessert card	can i have the dessert card
+3880	Frag: Ich möchte die Dessertkarte	the dessert menu please	the dessert menu please
+3882	Frag: Karrotenkuchen	can i have the carrot cake	can i have the carrot cake
+3883	Frag: Ich möchte die Rechnung	i would like the bill	i would like the bill
+3888	Sag: Ich habe keine Reservation	no i would like l	no i would like l
+3889	Frag: Zimmer für 2 Nächte	a room for two nights	a room for two nights
+3890	Frag: Suite	have a suite	have a suite
+3891	Sag: Ich möchte mit Mastercard bezahlen	can i pay with post card	can i pay with post card
+3892	Sag: Ich möchte mit Mastercard bezahlen	um	um
+3893	Frag: Zimmer für 1 Woche	i would like a room for one week	i would like a room for one week
+3894	Frag: Suite	i'd like a suite	i'd like a suite
+3896	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	is there a grocery store
+3897	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	where is the grocery store
+3898	Frag: 1 Musical-Ticket	can i have one musical ticket	can i have one musical ticket
+3899	Frag: 1 Musical-Ticket	tickets for wednesday evening	tickets for wednesday evening
+3900	Frag: ein Ticket für morgen Abend	a ticket for	a ticket for
+3901	Frag: ein Ticket für morgen Abend	a ticket for morning night	a ticket for morning night
+3902	Frag: ein Ticket für morgen Abend	tickets for tomorrow night	tickets for tomorrow night
+3903	Frag: ein Ticket für Starlight Express	i would like a ticket for starlight express	i would like a ticket for starlight express
+3904	Frag: ein Ticket für Starlight Express	tickets for starlight express	tickets for starlight express
+3905	Frag: ein Ticket für Starlight Express	a ticket for starlight express	a ticket for starlight express
+3906	Sag: Ich möchte in der Mitte sitzen	i want to sit in the middle	i want to sit in the middle
+3907	Frag: Tickets für das London Eye	can i have tickets for the london eye	can i have tickets for the london eye
+3908	Frag: 4 Tickets	i need four tickets	i need four tickets
+3909	Sag: Mir geht es gut	i'm fine	i'm fine
+3910	Frag: Stiefel	i want boots	i want boots
+3911	Frag: weisse Stiefel	i want white boots	i want white boots
+3912	Frag: Grösse 36	thirty six	thirty six
+3913	Frag: ein T-Shirt	i want a tee shirt	i want a tee shirt
+3914	Frag: ein gelbes T-Shirt	i want a yellow tee shirt	i want a yellow tee shirt
+3915	Frag: eine L	big	big
+3916	Frag: eine L	great	great
+3917	Frag: eine L	i am a large	i am a large
+3918	Frag: Wie viel kostet es?	how much is it	how much is it
+3919	Sag: Dies ist zu teuer	that's too expensive	that's too expensive
+3920	Sag: Mir geht es gut	i'm fine	i'm fine
+3921	Frag: Sandalen	i want sandals	i want sandals
+3922	Frag: rote Sandalen	i want red sandals	i want red sandals
+3923	Frag: Grösse 38	thirty eight	thirty eight
+3924	Frag: ein T-Shirt	i want a tee shirt	i want a tee shirt
+3925	Frag: ein gelbes T-Shirt	i want a yellow tee shirt	i want a yellow tee shirt
+3926	Frag: eine L	great	great
+3927	Frag: eine L	where is the pool	where is the pool
+3928	Frag: eine L	i am a large	i am a large
+3929	Frag: Wie viel kostet es?	how much is it	how much is it
+3930	Sag: Das T-Shirt ist zu teuer	the tee shirt is too expensive	the tee shirt is too expensive
+3931	Sag: Mir geht es gut	i'm fine	i'm fine
+3932	Frag: Stiefel	i want boots	i want boots
+3933	Frag: braune Stiefel	i want brown boots	i want brown boots
+3934	Frag: Grösse 39	thirty nine	thirty nine
+3935	Frag: ein T-Shirt	i want a tee shirt	i want a tee shirt
+3936	Frag: ein braunes T-Shirt	no i want a brown tee shirt	no i want a brown tee shirt
+3938	Frag: Wie viel kostet das T-Shirt?	how much is the tee shirt	how much is the tee shirt
+3940	Sag: Mir geht es gut	i'm fine	i'm fine
+3941	Frag: Sandalen	i want sandals	i want sandals
+3942	Frag: weisse Sandalen	i want white sandals	i want white sandals
+3943	Frag: Grösse 44	forty four	forty four
+3944	Frag: Hosen	i will pants	i will pants
+3945	Frag: Hosen	i'm looking for trousers	i'm looking for trousers
+3946	Frag: rote Hosen	i want red trousers	i want red trousers
+3947	Frag: eine S	small	small
+3948	Frag: Wie viel kostet die Hose?	how much are the fifth row	how much are the fifth row
+3949	Frag: Wie viel kostet die Hose?	how much does the trousers is paolo	how much does the trousers is paolo
+3950	Sag: Die Hose ist zu teuer	where is is too expensive	where is is too expensive
+3952	Sag: Ich heisse Sarah	my name is sarah	my name is sarah
+3953	Sag: Ich bin aus Italien	i'm from italy	i'm from italy
+3954	Sag: Die Hauptstadt von Italien ist Rom	the capital of italy is rome	the capital of italy is rome
+3955	Sag: Ich habe 1 Bruder	i have two brothers	i have two brothers
+3956	Sag: Ich habe 1 Bruder	i have one brother	i have one brother
+3958	Sag: Dies ist mein Pass	this is my passport	this is my passport
+3959	Sag: Dies ist mein Pass	yes it is my passport	yes it is my passport
+3960	Sag: Ich heisse Michelle	my name is michelle	my name is michelle
+3961	Sag: Ich bin aus Deutschland	i'm from germany	i'm from germany
+3962	Sag: Die Hauptstadt von Deutschland ist Berlin	the capital of germany is berlin	the capital of germany is berlin
+3963	Sag: Ich habe 4 ältere Brüder	i have four older brothers	i have four older brothers
+3966	Sag: Dies ist mein Pass	is it is my passport	is it is my passport
+3967	Frag: ein Ticket zum Green Park	i need a ticket to green park	i need a ticket to green park
+3968	Sag: Ich möchte mit Kreditkarte bezahlen	i would like to pay by credit card	i would like to pay by credit card
+3969	Frag: 2 Tickets nach London	i need two tickets to london	i need two tickets to london
+3970	Sag: Ich möchte am Freitagmorgen abreisen	i want to leave on friday morning	i want to leave on friday morning
+3971	Sag: Ich heisse Silvia	my name is silvia	my name is silvia
+3972	Sag: Ich bin aus England	i'm from england	i'm from england
+3973	Frag: 6 Tickets nach London	i need six tickets to london	i need six tickets to london
+3974	Sag: Ich möchte am Freitagabend abreisen	i want to leave on friday night	i want to leave on friday night
+3975	Sag: Ich heisse Stephanie	my name is stephanie	my name is stephanie
+3976	Sag: Ich bin aus Deutschland	i'm from germany	i'm from germany
+3977	Frag: 2 Tickets nach London	i need two tickets to london	i need two tickets to london
+3978	Sag: Ich möchte um 8 Uhr morgen abreisen	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow
+3979	Frag: Wie viel kostet es?	how much is it	how much is it
+3980	Frag: billigeres Ticket	i want a cheaper ticket	i want a cheaper ticket
+3981	Sag: Das ist okay	this is okay	this is okay
+3982	Sag: Ich heisse Paul	my name is paul	my name is paul
+3983	Sag: Ich bin aus Australien	i'm from australia	i'm from australia
+3986	Sag: Ich habe keine Reservation	no i don't no i do not have a reservation	no i don't no i do not have a reservation
+3987	Frag: Zimmer für 6 Nächte	a room for six nights	a room for six nights
+3988	Frag: Doppelzimmer	a double room	a double room
+3989	Frag: Doppelzimmer	i would like a double room	i would like a double room
+3991	Frag: Gibt es einen Lift?	is there a lift	is there a lift
+3992	Frag: 2 Musical-Tickets	i need two musical tickets	i need two musical tickets
+3993	Frag: 2 Tickets für Sonntagabend	i need two tickets for sunday night	i need two tickets for sunday night
+3995	Sag: Ich möchte in der fünften Reihe sitzen	i would like to sit in the fifth row	i would like to sit in the fifth row
+3996	Frag: Tickets für das Science Museum	i need tickets for the science museum	i need tickets for the science museum
+3997	Frag: 1 Ticket	i need one ticket	i need one ticket
+3998	Frag: 2 Musical-Tickets	i need two musical tickets	i need two musical tickets
+3999	Frag: 2 Tickets für heute Abend	i need two tickets for two nights	i need two tickets for two nights
+4000	Frag: 2 Tickets für Mamma Mia	i need two tickets for mamma mia	i need two tickets for mamma mia
+4001	Frag: Ticket für dieses Musical	i need tickets tickets for this musical	i need tickets tickets for this musical
+4002	Frag: Ticket für dieses Musical	i need a ticket for this musical	i need a ticket for this musical
+4003	Sag: Ich möchte hinten sitzen	i want to sit in the back	i want to sit in the back
+4004	Frag: Tickets für das British Museum	i need tickets for the british museum	i need tickets for the british museum
+4005	Frag: 3 Tickets	i need three tickets	i need three tickets
+4006	Frag: Zimmer für 5 Nächte	i want a room for five nights	i want a room for five nights
+4007	Frag: Twinzimmer	i want a double room	i want a double room
+4008	Frag: Twinzimmer	a twin room please	a twin room please
+4009	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+4010	Sag: Ich möchte mit Euros bezahlen	i would pay with by euros	i would pay with by euros
+4011	Frag: Gibt es ein Hotelrestaurant?	i'd there a hotel restaurant	i'd there a hotel restaurant
+4012	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+4014	Sag: Ich habe keine Reservation	i have no reservation	i have no reservation
+4015	Sag: Ich habe keine Reservation	no i don't no i do not have a reservation	no i don't no i do not have a reservation
+4016	Sag: Ich habe keine Reservation	no i don't have a reservation	no i don't have a reservation
+4017	Frag: Zimmer für 2 Nächte	a room for two nights	a room for two nights
+4018	Frag: Suite	i'd like a suite	i'd like a suite
+4019	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+4020	Frag: Gibt es einen Lift?	is there a lift	is there a lift
+4021	Frag: Zimmer für 3 Nächte	a room for three nights	a room for three nights
+4022	Frag: Junior Suite	i'd like a junior suite	i'd like a junior suite
+4023	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+4024	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	is there a grocery store
+4025	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	where is the grocery store
+4026	Frag: Einzelzimmer	i would like a single room	i would like a single room
+4028	Frag: Gibt es einen Coiffeur?	is there a hairdresser	is there a hairdresser
+4029	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4030	Frag: Zimmer für 5 Nächte	i want a room for five nights	i want a room for five nights
+4031	Frag: Wo ist der Coiffeur?	where is the hairdresser night	where is the hairdresser night
+4032	Frag: Zimmer für 5 Nächte	a room for five nights	a room for five nights
+4033	Frag: Twinzimmer	a twin room	a twin room
+4034	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with a credit card	i want to pay with a credit card
+4035	Frag: Gibt es einen Coiffeur?	do you have a hairdresser	do you have a hairdresser
+4036	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4037	Sag: Mein Badezimmer ist dreckig	my bathroom is dirty	my bathroom is dirty
+4038	Frag: Wo ist der Haarföhn?	where is the hairdresser where with	where is the hairdresser where with
+4039	Frag: Wo ist der Haarföhn?	where is the hairdresser shirt	where is the hairdresser shirt
+4040	Frag: Wo ist der Haarföhn?	where is the hairdresser where	where is the hairdresser where
+4041	Frag: Zimmer für 3 Nächte	a room for three nights	a room for three nights
+4042	Frag: Twinzimmer	a twin room	a twin room
+4043	Sag: Ich möchte mit Mastercard bezahlen	i would like to pay with mastercard	i would like to pay with mastercard
+4044	Frag: Gibt es eine Hotelbar?	do you have a hotel bar	do you have a hotel bar
+4045	Frag: Wo ist die Hotelbar?	where is the hotel bar	where is the hotel bar
+4046	Sag: Mein WC ist dreckig	my toilet is dirty s	my toilet is dirty s
+4047	Sag: Im Zimmer hat es keinen Haarföhn	in the room is	in the room is
+4048	Sag: Im Zimmer hat es keinen Haarföhn	the room has not a hairdresser	the room has not a hairdresser
+4049	Sag: Im Zimmer hat es keinen Haarföhn	in the room isn't a hairdresser	in the room isn't a hairdresser
+4050	Frag: Zimmer für 6 Nächte	a room for six nights	a room for six nights
+4051	Frag: Twinzimmer	a twin room	a twin room
+4052	Frag: ein Ticket zum Trafalgar Square	a ticket to trafalgar square	a ticket to trafalgar square
+4053	Frag: ein Ticket zum Trafalgar Square	a ticket to trafalgar square	a ticket to trafalgar square
+4058	Sag: Ich möchte mit Mastercard bezahlen	can i pay by post want	can i pay by post want
+4061	Frag: ein Ticket zum Trafalgar Square	can i have a ticket to trafalgar square	can i have a ticket to trafalgar square
+4062	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+4063	Sag: Ich möchte mit Pfund bezahlen	can i pay with card	can i pay with card
+4064	Sag: Ich möchte mit Pfund bezahlen	can i pay with doh	can i pay with doh
+4065	Frag: 3 Musical-Tickets	can i buy three musical tickets	can i buy three musical tickets
+4066	Sag: Ich möchte heute Abend gehen	yes do with visa	yes do with visa
+4067	Sag: Ich möchte heute Abend gehen	i want boots	i want boots
+4068	Sag: Ich möchte heute Abend gehen	i would like to sit in	i would like to sit in
+4069	Frag: 3 Tickets für das Phantom der Oper	i want to stay for a double room	i want to stay for a double room
+4070	Sag: Ich möchte hinten sitzen	could i buy four nights	could i buy four nights
+4071	Sag: Ich möchte hinten sitzen	i want to pie	i want to pie
+4072	Sag: Ich möchte hinten sitzen	single room	single room
+4073	Frag: Tickets für das London Eye	can i have tickets for the london eye	can i have tickets for the london eye
+4075	Frag: 4 Tickets für morgen Abend	i would like four tickets for tomorrow evening	i would like four tickets for tomorrow evening
+4079	Frag: mein Steak rare	i want steak rare	i want steak rare
+4080	Frag: mein Steak rare	i want a red shirt steak please	i want a red shirt steak please
+4081	Frag: mein Steak rare	i would like to have a steak rare	i would like to have a steak rare
+4083	Frag: etwas Kartoffelstock	i would like to have a to have some of this night take shirts	i would like to have a to have some of this night take shirts
+4085	Frag: Ich möchte die Dessertkarte	i would like the dessert card	i would like the dessert card
+4087	Frag: weisse Stiefel	i would like white boots	i would like white boots
+4088	Frag: weisse Stiefel	i would like white boots	i would like white boots
+4089	Frag: Grösse 41	forty one	forty one
+4090	Frag: Grösse 41	forty one	forty one
+4091	Frag: Jeans	i want some jeans	i want some jeans
+4092	Frag: Jeans	i would like to have some jeans	i would like to have some jeans
+4093	Frag: weisse Jeans	i want white jeans please	i want white jeans please
+4094	Frag: eine L	big	big
+4095	Frag: eine L	big	big
+4097	Frag: Wie viel kostet die Jeans?	how much do the jeans cost	how much do the jeans cost
+4098	Sag: Dies ist zu teuer	no this is too expensive	no this is too expensive
+4099	Frag: Welcher Bus fährt dorthin?	which bus drives there	which bus drives there
+4100	Sag: Marble Arch ist gegenüber dem Hyde Park	marble arch is the phantom of the hyde park	marble arch is the phantom of the hyde park
+4102	Frag: Gibt es einen Lift?	is there a lift	is there a lift
+4103	Frag: Wo ist der Lift?	and where is the lift	and where is the lift
+4104	Frag: Wo ist der Lift?	where is the lift	where is the lift
+4105	Frag: Wo ist der Lift?	where is the lift	where is the lift
+4106	Sag: Ich bin aus Deutschland	i'm from germany	i'm from germany
+4107	Sag: Ich bin aus Spanien	i'm from spain	i'm from spain
+4108	Sag: Ich möchte um 16 Uhr morgen abreisen	i would like to leave tomorrow at four p m	i would like to leave tomorrow at four p m
+4109	Sag: Ich bin aus Australien	that's okay	that's okay
+4110	Sag: Ich heisse Janet	my name is janet	my name is janet
+4111	Sag: Ich bin aus Österreich	i'm from austria	i'm from austria
+4112	Sag: Ich heisse Erica	my name is erica	my name is erica
+4113	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4114	Sag: Ich möchte mit Mastercard bezahlen	i want to pay with mastercard	i want to pay with mastercard
+4115	Frag: Gibt es einen Lebensmittelladen?	no can i buy am got a supermarket	no can i buy am got a supermarket
+4116	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	is there a grocery store
+4117	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	is there a grocery store
+4118	Frag: Wo ist der Lebensmittelladen?	where is there a grocery store	where is there a grocery store
+4119	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	where is the grocery store
+4120	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	where is the grocery store
+4121	Sag: Ich möchte um 12 Uhr morgen abreisen	i want to leave to have the tower o'clock tomorrow	i want to leave to have the tower o'clock tomorrow
+4122	Sag: Ich möchte um 12 Uhr morgen abreisen	i would like to leave at five o'clock tomorrow	i would like to leave at five o'clock tomorrow
+4123	Sag: Ich bin aus Schottland	i am from scotland	i am from scotland
+4125	Frag: Einzelzimmer	single room	single room
+4126	Frag: Einzelzimmer	a single room please	a single room please
+4127	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with the credit card	i want to pay with the credit card
+4128	Sag: Ich möchte mit Kreditkarte bezahlen	would i pay with by credit card	would i pay with by credit card
+4129	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay by credit card	i want to pay by credit card
+4130	Frag: Gibt es eine Hotelbar?	is there a hotel bar	is there a hotel bar
+4131	Sag: Ich habe keine Reservation	i don't have a reservation	i don't have a reservation
+4132	Frag: Zimmer für 7 Nächte	room for seven nights	room for seven nights
+4133	Frag: Einzelzimmer	a single room	a single room
+4134	Sag: Ich möchte mit Kreditkarte bezahlen	i would to pay by credit card	i would to pay by credit card
+4135	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay pay by credit card	i want to pay pay by credit card
+4136	Sag: Ich möchte mit Kreditkarte bezahlen	i would pay by credit card	i would pay by credit card
+4137	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+4138	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	where is the hotel restaurant
+4139	Frag: Zimmer für 3 Nächte	a room for three nights	a room for three nights
+4140	Frag: Zimmer für 3 Nächte	a room for three nights	a room for three nights
+4141	Frag: Zimmer für 3 Nächte	a room for three nights	a room for three nights
+4142	Frag: Einzelzimmer	single room	single room
+4143	Frag: Einzelzimmer	a single room	a single room
+4144	Frag: Einzelzimmer	single room	single room
+4145	Sag: Ich möchte mit Visa bezahlen	i want to pay by visa	i want to pay by visa
+4146	Sag: Ich möchte mit Visa bezahlen	i wish to pay by visa	i wish to pay by visa
+4147	Sag: Ich möchte mit Dollars bezahlen	i would to pay by dollars	i would to pay by dollars
+4148	Frag: Gibt es einen Coiffeur?	is there a grocery store	is there a grocery store
+4149	Frag: Gibt es einen Coiffeur?	is there a hairdresser	is there a hairdresser
+4150	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4151	Sag: Mein WC ist dreckig	my toilet is dirty	my toilet is dirty
+4152	Sag: Im Zimmer hat es kein Shampoo	in the room there is no shampoo	in the room there is no shampoo
+4153	Sag: Im Zimmer hat es kein Shampoo	there is no shampoo in the room	there is no shampoo in the room
+4154	Sag: Im Zimmer hat es kein Shampoo	there is no shampoo in the room	there is no shampoo in the room
+4155	Frag: Wo kann ich ein Shampoo kaufen?	where i can buy a shampoo	where i can buy a shampoo
+4156	Frag: Wo kann ich ein Shampoo kaufen?	where can i buy a shampoo	where can i buy a shampoo
+4157	Frag: 4 Tickets nach London	four tickets to london	four tickets to london
+4158	Frag: 4 Tickets nach London	four tickets for london	four tickets for london
+4159	Frag: 4 Tickets nach London	four tickets to london	four tickets to london
+4161	Sag: Ich habe keine Reservation	i don't have a reservation	i don't have a reservation
+4162	Frag: Zimmer für 2 Nächte	is there a room for two nights	is there a room for two nights
+4164	Frag: Doppelzimmer	i would like a double room	i would like a double room
+4165	Sag: Ich möchte mit Postkarte bezahlen	i would pay with post card	i would pay with post card
+4166	Frag: Gibt es ein Schwimmbad?	do you have a swimming pool	do you have a swimming pool
+4167	Frag: Wo ist das Schwimmbad?	where is the swimming pool	where is the swimming pool
+4168	Frag: Zimmer für 1 Woche	i want a room for me a room for one week	i want a room for me a room for one week
+4171	Frag: Twinzimmer	twin room	twin room
+4172	Frag: Twinzimmer	a twin room please	a twin room please
+4174	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with credit card	i want to pay with credit card
+4175	Frag: Gibt es einen Lebensmittelladen?	i need a supermarket coffee	i need a supermarket coffee
+4176	Frag: Gibt es einen Lebensmittelladen?	france is there a supermarket	france is there a supermarket
+4177	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	is there a grocery store
+4178	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	where is the grocery store
+4179	Sag: Das WC ist dreckig	the toilet is dirty	the toilet is dirty
+4180	Sag: Im Zimmer hat es keinen Haarföhn	i come i could not find the	i come i could not find the
+4181	Sag: Im Zimmer hat es keinen Haarföhn	i could not find the shower hair i am from	i could not find the shower hair i am from
+4182	Sag: Im Zimmer hat es keinen Haarföhn	i could not find any hair brian	i could not find any hair brian
+4183	Frag: Wo kann ich einen Haarföhn kaufen?	where i can buy no i am brian	where i can buy no i am brian
+4184	Frag: Wo kann ich einen Haarföhn kaufen?	where can i buy you could i have a lift	where can i buy you could i have a lift
+4185	Sag: Ich habe keine Reservation	no i don't know	no i don't know
+4186	Sag: Ich habe keine Reservation	no i am good	no i am good
+4187	Sag: Ich habe keine Reservation	no i have no reservation	no i have no reservation
+4188	Sag: Ich habe keine Reservation	no i haven't got a reservation is	no i haven't got a reservation is
+4189	Frag: Zimmer für 2 Nächte	a room for two nights	a room for two nights
+4190	Frag: Doppelzimmer	a double room	a double room
+4191	Frag: Doppelzimmer	a room for two person	a room for two person
+4192	Frag: Doppelzimmer	i would like a double room	i would like a double room
+4194	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+4195	Frag: Wo ist das Hotelrestaurant?	get where is the hotel restaurant	get where is the hotel restaurant
+4196	Frag: ein Ticket nach London	do you have a ticket to london	do you have a ticket to london
+4197	Frag: ein Ticket nach London	i would want tickets room	i would want tickets room
+4199	Sag: Ich möchte um 16 Uhr morgen abreisen	i would like to leave tomorrow at four p m	i would like to leave tomorrow at four p m
+4200	Sag: Ich heisse Michelle	my name is michelle	my name is michelle
+4201	Sag: Ich bin aus Kanada	i'm from canada	i'm from canada
+4202	Sag: Ich heisse Andy	i like my name is andy	i like my name is andy
+4203	Sag: Ich bin aus Deutschland	i'm from germany is berlin	i'm from germany is berlin
+4204	Sag: Die Hauptstadt von Deutschland ist Berlin	the capital my country is there a leave	the capital my country is there a leave
+4205	Sag: Die Hauptstadt von Deutschland ist Berlin	the capital of germany is there a gym	the capital of germany is there a gym
+4206	Sag: Ich habe 2 ältere Schwestern	i have two older sisters	i have two older sisters
+4207	Sag: Ich gehe in die Ferien	i am on holidays	i am on holidays
+4208	Sag: Dies ist mein Pass	this is my passport	this is my passport
+4209	Sag: Mir geht es gut	i would	i would
+4210	Sag: Mir geht es gut	i'm going for holidays	i'm going for holidays
+4211	Sag: Ich möchte mit Kreditkarte bezahlen	i went where is the credit card	i went where is the credit card
+4212	Sag: Ich möchte mit Kreditkarte bezahlen	i would pay by credit card	i would pay by credit card
+4213	Frag: Gibt es ein Fitnessstudio?	this is near a big the sunday roast	this is near a big the sunday roast
+4214	Frag: Wo ist das Fitnessstudio?	where is the fitness studio	where is the fitness studio
+4215	Frag: Wo ist das Fitnessstudio?	where is the big the leo	where is the big the leo
+4216	Sag: Das WC ist dreckig	i need thirty it is my pass	i need thirty it is my pass
+4217	Sag: Das WC ist dreckig	thirty dessert spain	thirty dessert spain
+4219	Frag: Zimmer für 3 Nächte	can i have a room for for three nights	can i have a room for for three nights
+4220	Frag: Junior Suite	can i have a hairdresser	can i have a hairdresser
+4222	Sag: Ich möchte mit Postkarte bezahlen	i would like where it post card	i would like where it post card
+4223	Frag: Gibt es einen Coiffeur?	is there a hairdresser	is there a hairdresser
+4224	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4225	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4226	Frag: Wo ist das Science Museum?	where where is the science museum	where where is the science museum
+4227	Frag: Wo ist das Science Museum?	where is a single where tuesday afternoon	where is a single where tuesday afternoon
+4228	Frag: Wo ist das Science Museum?	and where is the science museum	and where is the science museum
+4229	Frag: Wo ist der Tower?	where is the tower	where is the tower
+4230	Frag: Wo ist der Tower?	where is the tower	where is the tower
+4231	Frag: Wo ist der Tower?	can you give me l where is the tower of london	can you give me l where is the tower of london
+4232	Frag: Welcher Bus fährt dorthin?	which bus goes there	which bus goes there
+4233	Sag: Marble Arch ist gegenüber dem Hyde Park	there a hairdresser dresser where got i go in the room for two would like to have a red shirt is too like a coffee buy with post card card	there a hairdresser dresser where got i go in the room for two would like to have a red shirt is too like a coffee buy with post card card
+4234	Sag: Marble Arch ist gegenüber dem Hyde Park	a bar is the hairdresser water with doh i pay by post card card	a bar is the hairdresser water with doh i pay by post card card
+4236	Sag: Ich habe keine Reservation	i don't have a reservation	i don't have a reservation
+4237	Sag: Ich habe keine Reservation	i have a reservation	i have a reservation
+4238	Sag: Ich habe keine Reservation	i want to have a reservation	i want to have a reservation
+4239	Sag: Ich habe keine Reservation	i want red where is dirty	i want red where is dirty
+4240	Sag: Ich habe keine Reservation	i am a thirty is dirty	i am a thirty is dirty
+4241	Sag: Ich habe keine Reservation	have i have not a reservation	have i have not a reservation
+4243	Sag: Ich habe keine Reservation	are no do you have a double hairdresser	are no do you have a double hairdresser
+4244	Sag: Ich habe keine Reservation	no i don't have a reservation	no i don't have a reservation
+4245	Sag: Ich habe keine Reservation	no uh got boots	no uh got boots
+4246	Sag: Ich habe keine Reservation	blue sandals	blue sandals
+4247	Sag: Ich habe keine Reservation	are credit i don't have a reservation i want my steak rare is it	are credit i don't have a reservation i want my steak rare is it
+4248	Sag: Ich habe keine Reservation	i'm from where is the hairdresser is it a restaurant	i'm from where is the hairdresser is it a restaurant
+4249	Sag: Ich habe keine Reservation	how much are there a hairdresser where is the third row	how much are there a hairdresser where is the third row
+4250	Frag: Zimmer für 3 Nächte	i will have a room for three nights sit in the eighth row no could i buy a room for three nights	i will have a room for three nights sit in the eighth row no could i buy a room for three nights
+4251	Frag: Suite		
+4252	Frag: Suite	do you have a suite	do you have a suite
+4254	Sag: Ich möchte mit Visa bezahlen	i want pay with credit card	i want pay with credit card
+4255	Frag: Gibt es ein Fitnessstudio?	is there a fitness room	is there a fitness room
+4256	Frag: Wo ist das Fitnessstudio?	where is the science museum	where is the science museum
+4257	Frag: Wo ist das Fitnessstudio?	where is the tower is near the tower is in europe	where is the tower is near the tower is in europe
+4258	Frag: Wo ist das Fitnessstudio?	where is the piccadilly opera	where is the piccadilly opera
+4259	Frag: 4 Musical-Tickets	can i have four musical tickets	can i have four musical tickets
+4260	Frag: 4 Musical-Tickets	i would like a bar for with euro	i would like a bar for with euro
+4261	Frag: 4 Musical-Tickets	are credit four musical tickets	are credit four musical tickets
+4262	Frag: ein Ticket für Mittwochabend	where can i have a ticket for thursday night	where can i have a ticket for thursday night
+4264	Sag: Ich habe keine Reservation	i don't have a reservation	i don't have a reservation
+4265	Sag: Mir geht es gut	i need sandals	i need sandals
+4266	Frag: Stiefel	how are too have boots	how are too have boots
+4267	Frag: Stiefel	i would like some boots	i would like some boots
+4268	Frag: weisse Stiefel	i would like white boots	i would like white boots
+4269	Frag: Grösse 39	thirty night	thirty night
+4270	Frag: ein T-Shirt	i would like a tee shirt	i would like a tee shirt
+4271	Frag: ein T-Shirt	i would like a tee shirt	i would like a tee shirt
+4272	Frag: ein T-Shirt	i would like a tee shirt	i would like a tee shirt
+4273	Sag: Mir geht es gut	i'm from night	i'm from night
+4274	Frag: Sandalen	i would like sandals	i would like sandals
+4276	Frag: rote Sandalen	i would like red sandals	i would like red sandals
+4277	Frag: rote Sandalen	red sandals	red sandals
+4278	Frag: Grösse 42	forty two	forty two
+4279	Frag: Hosen	i would like trousers	i would like trousers
+4280	Frag: Hosen	i am looking for trousers	i am looking for trousers
+4281	Frag: pinkige Hosen	i would like pink trousers	i would like pink trousers
+4283	Frag: Wie viel kostet die Hose?	how much do the trousers cost	how much do the trousers cost
+4284	Sag: Die Hose ist zu teuer	this trousers is too take shirts	this trousers is too take shirts
+4286	Frag: Wo ist das Naturhistorische Museum?	i am looking for the natural week like to leave history museum	i am looking for the natural week like to leave history museum
+4287	Frag: Wo ist das Naturhistorische Museum?	i am looking for the natural history museum	i am looking for the natural history museum
+4288	Frag: Wo ist Big Ben?	where are the big ben is	where are the big ben is
+4289	Frag: Wo ist Big Ben?	where is the big ben is	where is the big ben is
+4290	Frag: Welcher Bus fährt dorthin?	which bus goes there	which bus goes there
+4291	Sag: Marble Arch ist gegenüber dem Hyde Park	marble arch is with doh week can i pay with card	marble arch is with doh week can i pay with card
+4292	Frag: ein Ticket nach Notting Hill	um like a goulash pay with euro	um like a goulash pay with euro
+4293	Frag: ein Ticket nach Notting Hill	i will take two musical tickets	i will take two musical tickets
+4294	Frag: ein Ticket nach Notting Hill	i would like a ticket to the ticket	i would like a ticket to the ticket
+4296	Sag: Ich möchte mit Mastercard bezahlen	can i pay with the master card	can i pay with the master card
+4297	Sag: Ich möchte mit Mastercard bezahlen	can i pay with mastercard	can i pay with mastercard
+4299	Frag: 5 Tickets nach London	i would like to go in the fifth buy with tickets to london	i would like to go in the fifth buy with tickets to london
+4300	Frag: 5 Tickets nach London	i would like five tickets to london	i would like five tickets to london
+4302	Sag: Ich möchte am Sonntagnachmittag abreisen	i would like to leave on sunday afternoon	i would like to leave on sunday afternoon
+4304	Sag: Ich heisse Sarah	my name is there a pool	my name is there a pool
+4305	Sag: Ich bin aus Österreich	i am from austria	i am from austria
+4306	Sag: Ich heisse Silvia	my name is silvia	my name is silvia
+4307	Sag: Ich bin aus England	i'm from england	i'm from england
+4308	Frag: ein Ticket zum Piccadilly Circus	tickets to the please have bill three tickets	tickets to the please have bill three tickets
+4309	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to pick is okay tickets	i want a ticket to pick is okay tickets
+4310	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to piccadilly circus tickets	i want a ticket to piccadilly circus tickets
+4311	Sag: Ich möchte mit Mastercard bezahlen	i want pay with the master card	i want pay with the master card
+4312	Sag: Ich möchte mit Mastercard bezahlen	can i pay be mastercard	can i pay be mastercard
+4313	Frag: 4 Musical-Tickets	four musical tickets	four musical tickets
+4314	Frag: 4 Musical-Tickets	i want pay with four musical tickets	i want pay with four musical tickets
+4315	Frag: 4 Musical-Tickets	i would like to buy four musical tickets	i would like to buy four musical tickets
+4317	Frag: 4 Tickets für Mittwochabend	four tickets for wednesday evening	four tickets for wednesday evening
+4318	Frag: 4 Tickets für Mittwochabend	i want four tickets for wednesday night	i want four tickets for wednesday night
+4319	Frag: 4 Tickets für das Phantom der Oper	i want four tickets for the phantom of the opera	i want four tickets for the phantom of the opera
+4321	Sag: Ich möchte vorne sitzen	i would like to sit in the front	i would like to sit in the front
+4322	Frag: Tickets für das London Eye	tickets for the london eye please	tickets for the london eye please
+4323	Frag: Tickets für das London Eye	tickets for the london eye	tickets for the london eye
+4324	Frag: Tickets für das London Eye	can i also have tickets for the london eye	can i also have tickets for the london eye
+4325	Frag: 2 Tickets	two tickets	two tickets
+4326	Frag: 2 Tickets	can i have two tickets	can i have two tickets
+4327	Frag: eine Limonade	i would like a room for four nights	i would like a room for four nights
+4328	Frag: einen Hamburger	i would like a hamburger	i would like a hamburger
+4329	Frag: meinen Hamburger rare	i would like my hamburger rare	i would like my hamburger rare
+4330	Frag: meinen Hamburger rare	i would like my hamburger rare	i would like my hamburger rare
+4331	Frag: meinen Hamburger rare	i would like my hamburger rare	i would like my hamburger rare
+4332	Frag: Auberginen	i would like boots please	i would like boots please
+4333	Frag: Auberginen	could i have some scones please	could i have some scones please
+4334	Frag: Ich möchte die Dessertkarte	i would like the dessert card	i would like the dessert card
+4335	Frag: Ich möchte die Dessertkarte	i would like the desert done	i would like the desert done
+4336	Frag: Ich möchte die Dessertkarte	this is my name	this is my name
+4337	Frag: Custard Tart	i would like the food store card	i would like the food store card
+4338	Frag: Ich möchte die Rechnung	i would like the pay	i would like the pay
+4339	Frag: Ich möchte die Rechnung	i would like the check	i would like the check
+4340	Sag: Ich möchte mit Kreditkarte bezahlen	i would like pay with the credit card	i would like pay with the credit card
+4343	Sag: Mir geht es gut	i haven't i am from turkey	i haven't i am from turkey
+4344	Sag: Mir geht es gut	i'm good	i'm good
+4346	Frag: Sandalen	i would like tickets for wicked	i would like tickets for wicked
+4347	Frag: Sandalen	i would like sandals please	i would like sandals please
+4348	Frag: blaue Sandalen	i would like some sandals please	i would like some sandals please
+4349	Frag: Grösse 41	forty one	forty one
+4350	Frag: ein T-Shirt	i want a tee shirt	i want a tee shirt
+4351	Frag: ein rotes T-Shirt	i want a red tee shirt	i want a red tee shirt
+4352	Frag: eine S	i'm looking for shirts	i'm looking for shirts
+4353	Frag: eine S	italy	italy
+4354	Frag: eine S	with the master master card	with the master master card
+4355	Frag: Wie viel kostet das T-Shirt?	how much does the tee shirt cost	how much does the tee shirt cost
+4357	Frag: Stiefel	i would like a twin room	i would like a twin room
+4358	Frag: Stiefel	i am fine i buy a single room	i am fine i buy a single room
+4359	Frag: Stiefel	i am fine would like some boots	i am fine would like some boots
+4360	Frag: weisse Stiefel	i would like white boots know	i would like white boots know
+4361	Frag: Grösse 43	i want my name is the	i want my name is the
+4362	Frag: Grösse 43	mastercard please please	mastercard please please
+4363	Sag: Ich habe keine Reservation	no i do not have a reservation	no i do not have a reservation
+4364	Frag: Zimmer für 2 Nächte	i want a room for two nights	i want a room for two nights
+4365	Frag: Einzelzimmer	can i have a single room	can i have a single room
+4366	Sag: Ich möchte mit Mastercard bezahlen	can i pay with mastercard	can i pay with mastercard
+4368	Frag: Gibt es ein Fitnessstudio?	is there a gym	is there a gym
+4369	Frag: Wo ist das Fitnessstudio?	where is the gym	where is the gym
+4370	Sag: Ich habe keine Reservation	no i do not have a reservation	no i do not have a reservation
+4371	Frag: Zimmer für 4 Nächte	i want a room for four nights	i want a room for four nights
+4372	Frag: Einzelzimmer	can i also have a single room please	can i also have a single room please
+4373	Sag: Ich möchte mit Kreditkarte bezahlen	i want pay with credit card	i want pay with credit card
+4374	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+4375	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	where is the hotel restaurant
+4377	Frag: Zimmer für 6 Nächte	can i have a room for six nights	can i have a room for six nights
+4380	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+4381	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	where is the hotel restaurant
+4382	Frag: Zimmer für 5 Nächte	can i have a room for five nights	can i have a room for five nights
+4383	Frag: Doppelzimmer	can i have a double room	can i have a double room
+4384	Sag: Ich möchte mit Kreditkarte bezahlen	i want pay with credit card	i want pay with credit card
+4385	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store store	is there a grocery store store
+4386	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	where is the grocery store
+4387	Sag: Ich habe keine Reservation	i have not a reservation	i have not a reservation
+4388	Sag: Ich habe keine Reservation	you can't use help at the silver level	you can't use help at the silver level
+4389	Sag: Ich habe keine Reservation	i don't reservation	i don't reservation
+4390	Sag: Ich habe keine Reservation	i do not a reservation	i do not a reservation
+4392	Sag: Ich habe keine Reservation	can i have no reservation please	can i have no reservation please
+4394	Sag: Ich habe keine Reservation	can't i want a still water with dollars	can't i want a still water with dollars
+4395	Sag: Ich habe keine Reservation	you can't use help at the silver level	you can't use help at the silver level
+4396	Sag: Ich heisse Thomas	my name is james	my name is james
+4397	Sag: Ich bin aus Irland	i'm from ireland	i'm from ireland
+4398	Frag: ein Ticket nach London	i want one ticket to london	i want one ticket to london
+4399	Sag: Ich möchte um 18 Uhr morgen abreisen	i want to leave at six p m tomorrow	i want to leave at six p m tomorrow
+4400	Sag: Ich heisse Thomas	my name is james	my name is james
+4401	Sag: Ich bin aus Spanien	i'm from spain	i'm from spain
+4402	Sag: Ich heisse Patrick	my name is patrick	my name is patrick
+4403	Sag: Ich bin aus der Schweiz	i'm from switzerland switzerland	i'm from switzerland switzerland
+4404	Sag: Die Hauptstadt von der Schweiz ist Bern	the capital city of swiss is rome	the capital city of swiss is rome
+4405	Sag: Die Hauptstadt von der Schweiz ist Bern	the capital of switzerland is bern	the capital of switzerland is bern
+4406	Sag: Ich habe 3 ältere Brüder	i have three older brothers	i have three older brothers
+4408	Sag: Ich gehe in die Ferien	i going on holidays	i going on holidays
+4409	Sag: Dies ist mein Pass	this is my passport	this is my passport
+4410	Sag: Dies ist mein Pass	yes this is my passport	yes this is my passport
+4411	Frag: ein Ticket nach Notting Hill	do you have a ticket to leave want the bill	do you have a ticket to leave want the bill
+4412	Sag: Ich möchte mit Visa bezahlen	pay with visa	pay with visa
+4413	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	can i pay with visa
+4415	Frag: 1 Musical-Ticket	can i have one musical ticket	can i have one musical ticket
+4417	Sag: Ich möchte am Dienstagabend gehen	i like to go on tuesday please	i like to go on tuesday please
+4418	Frag: ein Ticket für Mamma Mia	tickets for mamma mia	tickets for mamma mia
+4419	Frag: ein Ticket für Mamma Mia	i want one ticket for mamma mia	i want one ticket for mamma mia
+4420	Sag: Ich möchte in der fünften Reihe sitzen	i would like to sit in the fifth row	i would like to sit in the fifth row
+4421	Sag: Ich möchte in der fünften Reihe sitzen	i want to sit in the fifth row	i want to sit in the fifth row
+4422	Frag: Tickets für die National Gallery	i would like tickets for the national gallery	i would like tickets for the national gallery
+4423	Frag: 2 Tickets	can i have two tickets please	can i have two tickets please
+4424	Frag: Zimmer für 4 Nächte	i want room for four nights please	i want room for four nights please
+4425	Frag: Doppelzimmer	can i have a double room please	can i have a double room please
+4426	Sag: Ich möchte mit Visa bezahlen	i want pay with visa	i want pay with visa
+4427	Sag: Ich möchte mit Visa bezahlen	i want pay museum	i want pay museum
+4428	Sag: Ich möchte mit Visa bezahlen	i want pay with visa	i want pay with visa
+4429	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	is there a hotel restaurant
+4430	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	where is the hotel restaurant
+4431	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	where is the hotel restaurant
+4432	Frag: Wo ist die National Gallery?	where is the national go	where is the national go
+4433	Frag: Wo ist Piccadilly Circus?	where is the piccadilly circus	where is the piccadilly circus
+4434	Frag: Wo ist Piccadilly Circus?	where is the piccadilly circus	where is the piccadilly circus
+4435	Frag: Wo ist Piccadilly Circus?	where is the swimming pool	where is the swimming pool
+4436	Sag: Es ist nahe der Bank of England	it's near the bank of england near the bank of england	it's near the bank of england near the bank of england
+4437	Sag: Es ist nahe der Bank of England	is near the bank of england	is near the bank of england
+4438	Sag: Mir geht es gut	i am good	i am good
+4439	Frag: Stiefel	i would like boots	i would like boots
+4440	Frag: weisse Stiefel	i will buy white boots please	i will buy white boots please
+4441	Frag: weisse Stiefel	i would like white boots	i would like white boots
+4442	Frag: Grösse 42	red jeans forty two	red jeans forty two
+4443	Frag: ein T-Shirt	i would like a tee shirt	i would like a tee shirt
+4444	Frag: ein T-Shirt	i would like a tee shirt	i would like a tee shirt
+4445	Frag: ein gelbes T-Shirt	i would like a yellow tee shirt	i would like a yellow tee shirt
+4446	Frag: eine S	small	small
+4447	Frag: Wie viel kostet das T-Shirt?	how much is this is okay	how much is this is okay
+4449	Sag: Dies ist zu teuer	this is too circus	this is too circus
+4450	Sag: Dies ist zu teuer	it's too expensive	it's too expensive
+4451	Sag: Mir geht es gut	i want boots	i want boots
+4452	Frag: Sandalen	i am looking for sandals	i am looking for sandals
+4453	Frag: blaue Sandalen	i would like to go	i would like to go
+4454	Frag: blaue Sandalen	blue sandals please	blue sandals please
+4455	Frag: Grösse 43	where is the gym water please	where is the gym water please
+4456	Frag: Grösse 43	i am a forty three	i am a forty three
+4457	Frag: ein Hemd	i want the food store	i want the food store
+4458	Frag: ein Hemd	i want the sunday roast	i want the sunday roast
+4459	Frag: ein pinkiges Hemd	i would like a pink shirt	i would like a pink shirt
+4460	Frag: eine L	big	big
+4461	Sag: Dies ist zu eng	this is too shirt	this is too shirt
+4462	Sag: Dies ist zu eng	this is too shirt	this is too shirt
+4463	Sag du möchtest nicht: dieses Hemd	i do not want this shirt	i do not want this shirt
+4464	Sag, dass du es nicht möchtest	no i do not want it	no i do not want it
+4465	Sag: Ich habe keine Reservation	i have not a reservation	i have not a reservation
+4466	Sag: Ich habe keine Reservation	my passport row fifth row	my passport row fifth row
+4468	Frag: ein Ticket zum Piccadilly Circus	i will have a ticket to piccadilly circus	i will have a ticket to piccadilly circus
+4470	Frag: 4 Tickets nach London	i will have four tickets room	i will have four tickets room
+4471	Frag: 4 Tickets nach London	i want night	i want night
+4472	Frag: 4 Tickets nach London	i will buy four tickets room	i will buy four tickets room
+4473	Sag: Ich möchte am Dienstagabend abreisen	i want to leave on tuesday evening	i want to leave on tuesday evening
+4474	Sag: Ich heisse Nick	my name is nick	my name is nick
+4475	Sag: Ich bin aus Österreich	i'm from austria	i'm from austria
+4476	Frag: 2 Tickets nach London	i would like to sit in the room	i would like to sit in the room
+4477	Sag: Ich möchte am Sonntag abreisen	i want to leave on sunday	i want to leave on sunday
+4478	Sag: Ich heisse Patrick	my name is thomas	my name is thomas
+4479	Frag: 3 Tickets nach London	can i have three tickets to london	can i have three tickets to london
+4480	Sag: Ich möchte am Samstagabend abreisen	i want to leave at saturday night single room	i want to leave at saturday night single room
+4481	Sag: Ich heisse Barbara	my name is barbara	my name is barbara
+4482	Sag: Ich bin aus Spanien	i want a room	i want a room
+4483	Sag: Ich bin aus Spanien	i'm from a double room	i'm from a double room
+4484	Sag: Ich heisse James	my name is james	my name is james
+4485	Sag: Ich bin aus Italien	i am from switzerland	i am from switzerland
+4486	Sag: Die Hauptstadt von Italien ist Rom	the capital of the pool musical	the capital of the pool musical
+4487	Sag: Ich habe 4 Schwestern	i have a bar the room	i have a bar the room
+4488	Sag: Ich habe 4 Schwestern	i have four sisters	i have four sisters
+4489	Sag: Ich gehe in die Ferien	i go in the holidays	i go in the holidays
+4490	Sag: Dies ist mein Pass	yes this is my passport	yes this is my passport
+4491	Sag: Ich heisse Silvia	my name is silvia	my name is silvia
+4492	Sag: Ich bin aus Spanien	i am a um room	i am a um room
+4493	Sag: Die Hauptstadt von Spanien ist Madrid	the capital of france is madrid	the capital of france is madrid
+4494	Sag: Ich habe 4 ältere Schwestern	i have the card of the opera	i have the card of the opera
+4496	Sag: Dies ist mein Pass	yes this is my passport	yes this is my passport
+4497	Sag: Ich heisse Erica	my name is erica	my name is erica
+4498	Sag: Ich bin aus Australien	i'm from austria a twin room	i'm from austria a twin room
+4499	Sag: Ich heisse Mona	my name is mona	my name is mona
+4500	Sag: Ich bin aus Amerika	i'm from america	i'm from america
+4501	Sag: Ich heisse Michelle	my name is michelle	my name is michelle
+4502	Sag: Ich bin aus England	i'm from england	i'm from england
+4503	Sag: Ich heisse Jack	my name is jack	my name is jack
+4504	Sag: Ich bin aus Schottland	i'm from scotland	i'm from scotland
+4505	Sag: Ich heisse Jack	my name is jack	my name is jack
+4506	Sag: Ich bin aus Österreich	i'm from austria	i'm from austria
+4507	Sag: Österreich ist nicht in Afrika	austria isn't in africa	austria isn't in africa
+4508	Sag: Österreich ist in Europa	austria is in europe	austria is in europe
+4509	Sag: Das ist okay	that's okay	that's okay
+4510	Sag: Das ist okay	that's okay	that's okay
+4511	Sag: Das ist okay	that is okay	that is okay
+4512	Sag: Die Hauptstadt von Österreich ist Wien	the capital of austria is wien	the capital of austria is wien
+4513	Sag: Ich habe eine ältere Schwester	i have three older sisters	i have three older sisters
+4514	Sag: Ich habe eine ältere Schwester	i have three older sisters	i have three older sisters
+4515	Sag: Ich habe eine ältere Schwester	i have three older sisters	i have three older sisters
+4517	Sag: Dies ist mein Pass	this is my passport	this is my passport
+4518	Sag: Dies ist mein Pass	yes this is my pass card	yes this is my pass card
+4519	Frag: ein Ticket zum Green Park	can i have a ticket to the green park	can i have a ticket to the green park
+4520	Sag: Ich möchte mit Kreditkarte bezahlen	i like to buy with credit card	i like to buy with credit card
+4521	Sag: Ich möchte mit Pfund bezahlen	i like buy with pound	i like buy with pound
+4522	Sag: Ich habe nur grosse Noten	i have only great note	i have only great note
+4523	Sag: Ich habe nur grosse Noten	i only have large notes	i only have large notes
+4524	Frag: Wo ist der Geldautomat?	where where is the eight p m	where where is the eight p m
+4525	Frag: Wo ist der Geldautomat?	where is the swimming pool on	where is the swimming pool on
+4526	Frag: ein Ticket zum Trafalgar Square	can i have a ticket to the trafalgar square	can i have a ticket to the trafalgar square
+4527	Sag: Ich möchte mit Postkarte bezahlen	can i buy by post card	can i buy by post card
+4528	Sag: Ich möchte mit Schweizer Franken bezahlen	can i buy by swiss francs	can i buy by swiss francs
+4529	Sag: Ich möchte mit Schweizer Franken bezahlen	i like buy with swiss francs	i like buy with swiss francs
+4530	Sag: Ich möchte mit Schweizer Franken bezahlen	can i pay with swiss francs	can i pay with swiss francs
+4531	Sag: Ich habe kleinere Note	i have smaller note	i have smaller note
+4532	Frag: ein Ticket nach Notting Hill	can i have a ticket to nothing hill	can i have a ticket to nothing hill
+4533	Sag: Ich möchte mit Visa bezahlen	can i pay with visa visa	can i pay with visa visa
+4534	Sag: Ich möchte mit Euros bezahlen	can i am a small	can i am a small
+4535	Sag: Ich habe nur grosse Noten	i have only big note	i have only big note
+4536	Sag: Ich habe nur grosse Noten	i only have a small	i only have a small
+4538	Sag: Kann ich mit Kreditkarte bezahlen	can i pay with credit card	can i pay with credit card
+4539	Sag: Kann ich mit Kreditkarte bezahlen	can i buy with credit card	can i buy with credit card
+4540	Sag: Kann ich mit Kreditkarte bezahlen	i like to have a room with credit card	i like to have a room with credit card
+4541	Frag: 3 Musical-Tickets	can i have three musical tickets	can i have three musical tickets
+4542	Frag: ein Ticket für Donnerstagabend	i like to go at tuesday evening	i like to go at tuesday evening
+4544	Frag: 3 Tickets für Wicked	can i have three tickets for wicked	can i have three tickets for wicked
+4545	Sag: Ich möchte in der vierten Reihe sitzen	i would like to sit in the fourth row	i would like to sit in the fourth row
+4546	Frag: Tickets für das Naturhistorische Museum	can i have tickets for the natural museum	can i have tickets for the natural museum
+4547	Frag: 2 Tickets	can i have two tickets	can i have two tickets
+4548	Frag: 1 Musical-Ticket	can i have one musical ticket	can i have one musical ticket
+4549	Frag: ein Ticket für Freitagabend	i like to go at friday night	i like to go at friday night
+4550	Frag: ein Ticket für Freitagabend	can i have a ticket for friday night can i have a ticket for friday night	can i have a ticket for friday night can i have a ticket for friday night
+4551	Frag: ein Ticket für Freitagabend	i'm good a m	i'm good a m
+4552	Frag: ein Ticket für Billy Elliot	can i have a ticket for billy elliot	can i have a ticket for billy elliot
+4553	Sag: Ich möchte vorne sitzen	i like the desert blue	i like the desert blue
+4554	Sag: Ich möchte vorne sitzen	i like to sit in the first row	i like to sit in the first row
+4556	Frag: Tickets für die National Gallery	can i have tickets for the national gallery	can i have tickets for the national gallery
+4557	Frag: 4 Tickets	can i have four tickets	can i have four tickets
+4558	Frag: 4 Musical-Tickets	can i have four musical tickets	can i have four musical tickets
+4559	Sag: Ich möchte am Dienstagabend gehen	i like to go at tuesday night	i like to go at tuesday night
+4560	Frag: 4 Tickets für Wicked	can i have four tickets for wicked	can i have four tickets for wicked
+4562	Frag: Tickets für die National Gallery	can i have tickets for the national gallery	can i have tickets for the national gallery
+4563	Frag: 3 Tickets	can i have three tickets	can i have three tickets
+4564	Frag: einen Tee	can i have jeans	can i have jeans
+4565	Frag: einen Tee	i would like a tea	i would like a tea
+4566	Frag: einen Hamburger	i would like a hamburger	i would like a hamburger
+4567	Frag: meinen Hamburger medium	i would like my hamburger medium	i would like my hamburger medium
+4568	Frag: etwas Knoblauchbrot	i would like some garlic bread	i would like some garlic bread
+4569	Frag: Ich möchte die Dessertkarte	can i have the dessert card please	can i have the dessert card please
+4570	Frag: Ich möchte die Dessertkarte	i would like the dessert card	i would like the dessert card
+4571	Frag: Ich möchte die Dessertkarte	the dessert menu please	the dessert menu please
+4572	Frag: ein Wasser ohne Kohlensäure	can i have a still water	can i have a still water
+4573	Frag: den Sonntagsbraten	i would like the sunday roast	i would like the sunday roast
+4574	Frag: den Sonntagsbraten	can i have the sunday roast	can i have the sunday roast
+4575	Frag: meinen Sonntagsbraten medium	i like my sunday roast medium	i like my sunday roast medium
+4576	Frag: Pilze	can i have some mushroom	can i have some mushroom
+4577	Sag: Dies ist nicht was ich bestellt habe	this is not what i ordered	this is not what i ordered
+4578	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	can i have the dessert menu
+4579	Frag: Ich möchte die Dessertkarte	can i have the dessert menu pool	can i have the dessert menu pool
+4580	Frag: Custard Tart	i would like the card of dessert card	i would like the card of dessert card
+4581	Frag: Ich möchte die Rechnung	can i have the bill	can i have the bill
+4582	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay by credit card	i like to pay by credit card
+4583	Frag: eine Fanta	can i have a fanta	can i have a fanta
+4584	Frag: ein Steak	can i have a steak	can i have a steak
+4585	Frag: mein Steak medium	i'd like my steak medium	i'd like my steak medium
+4586	Frag: Bohnen	i would like go	i would like go
+4587	Frag: Bohnen	i would like some boots	i would like some boots
+4588	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	can i have the dessert menu
+4589	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	can i have the dessert menu
+4590	Frag: Ich möchte die Dessertkarte	the dessert menu please	the dessert menu please
+4591	Frag: eine Cola	can i have a lemonade	can i have a lemonade
+4592	Frag: ein Steak	can i have a steak	can i have a steak
+4593	Frag: ein Steak	can i have the pool	can i have the pool
+4594	Frag: ein Steak	i would like the steak	i would like the steak
+4595	Frag: mein Steak durchgebraten	i would like my steak well done	i would like my steak well done
+4596	Frag: mein Steak durchgebraten	i would like my steak well done	i would like my steak well done
+4597	Frag: die Tagessuppe	can i have the soup of the day	can i have the soup of the day
+4598	Sag: Dies ist nicht was ich bestellt habe	that is not what i ordered	that is not what i ordered
+4599	Sag: Dies ist nicht was ich bestellt habe	that is not what i ordered	that is not what i ordered
+4600	Sag: Dies ist nicht was ich bestellt habe	this is not what i ordered	this is not what i ordered
+4601	Frag: Ich möchte die Dessertkarte	can i have the dessert menu leave can i have the dessert menu please	can i have the dessert menu leave can i have the dessert menu please
+4602	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	can i have the dessert menu
+4603	Frag: Custard Tart	i would like the custard tart	i would like the custard tart
+4604	Frag: Ich möchte die Rechnung	can i have the bill	can i have the bill
+4605	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay with credit card	i like to pay with credit card
+4606	Frag: eine Limonade	can i have a lemonade	can i have a lemonade
+4607	Frag: ein Steak	can i have the steak	can i have the steak
+4608	Frag: mein Steak rare	i'd like my steak rare	i'd like my steak rare
+4609	Frag: etwas Knoblauchbrot	can i have a a hairdresser	can i have a a hairdresser
+4610	Frag: etwas Knoblauchbrot	can i have a hairdresser	can i have a hairdresser
+4611	Frag: etwas Knoblauchbrot	can i have a ticket to trafalgar square	can i have a ticket to trafalgar square
+4612	Sag: Dies ist nicht was ich bestellt habe	this is not what what i ordered	this is not what what i ordered
+4613	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	can i have the dessert menu
+4614	Frag: Ich möchte die Dessertkarte	can i have the dessert menu please	can i have the dessert menu please
+4615	Frag: Ich möchte die Dessertkarte	can i have a single room please	can i have a single room please
+4617	Frag: Zitronenkuchen	i would like this is okay	i would like this is okay
+4618	Frag: Zitronenkuchen	i would like the king of the opera	i would like the king of the opera
+4619	Frag: Ich möchte die Rechnung	can i have the bill	can i have the bill
+4620	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay with credit card	i like to pay with credit card
+4621	Sag: Ich möchte mit Kreditkarte bezahlen	i would like to pay with credit card	i would like to pay with credit card
+4622	Frag: Wo ist die National Gallery?	where is the national gallery	where is the national gallery
+4623	Frag: Wo ist Piccadilly Circus?	there is the piccadilly circus	there is the piccadilly circus
+4624	Frag: Wo ist Piccadilly Circus?	could you give me directions to piccadilly circus	could you give me directions to piccadilly circus
+4625	Frag: Welcher Bus fährt dorthin?	which bus can i pay	which bus can i pay
+4627	Frag: Wo ist das Science Museum?	where is the science museum	where is the science museum
+4628	Frag: Wo ist das London Eye?	where is the london eye room	where is the london eye room
+4629	Frag: Welcher Bus fährt dorthin?	which bus can i buy boots	which bus can i buy boots
+4630	Sag: Der Tower ist nahe der Tower Bridge	the tower is near tower bridge	the tower is near tower bridge
+4631	Sag: Ich weiss es nicht	i don't know	i don't know
+4632	Sag: Ich muss gehen	i would like to go	i would like to go
+4634	Frag: Wo ist das Science Museum?	where is the science museum	where is the science museum
+4635	Sag: Marble Arch ist gegenüber dem Hyde Park	single would buy with cards to hyde park	single would buy with cards to hyde park
+4636	Sag: Marble Arch ist gegenüber dem Hyde Park	can i also have a room	can i also have a room
+4637	Sag: Marble Arch ist gegenüber dem Hyde Park	can i have a large can i have a i want to have the card	can i have a large can i have a i want to have the card
+4638	Frag: Wo ist das British Museum?	where is the british museum	where is the british museum
+4639	Frag: Wo ist das British Museum?	where is the swimming british museum	where is the swimming british museum
+4640	Frag: Wo ist Big Ben?	where is the big ben	where is the big ben
+4641	Frag: Welcher Bus fährt dorthin?	which bus can i pay	which bus can i pay
+4642	Sag: Saint Pauls Cathedral ist nahe der Bank of England	yes saint pauls cathedral is near to the bank of england	yes saint pauls cathedral is near to the bank of england
+4643	Frag: Wo ist das Science Museum?	where is the science museum	where is the science museum
+4644	Frag: Wo ist der Tower?	where is the hotel bar	where is the hotel bar
+4645	Frag: Wo ist der Tower?	where is the tower	where is the tower
+4646	Frag: Wo ist der Tower?	my name is paolo	my name is paolo
+4647	Sag: Saint Pauls Cathedral ist nahe der Bank of England	the saint pauls cathedral is near the bank of england	the saint pauls cathedral is near the bank of england
+4649	Frag: Sandalen	i would like a fanta	i would like a fanta
+4651	Frag: rote Sandalen	i would like red sandals	i would like red sandals
+4652	Frag: Grösse 39	thirty nine	thirty nine
+4653	Frag: Jeans	can i have a pool	can i have a pool
+4654	Frag: pinkige Jeans	i would like pink jeans	i would like pink jeans
+4656	Frag: Wie viel kostet die Jeans?	how much are too king	how much are too king
+4657	Frag: Wie viel kostet die Jeans?	how much does the jeans cost	how much does the jeans cost
+4658	Sag: Dies ist zu teuer	this is too expensive	this is too expensive
+4659	Sag: Mir geht es gut	i'm fine	i'm fine
+4660	Frag: Stiefel	i would like boots	i would like boots
+4661	Frag: blaue Stiefel	i would like blue boots	i would like blue boots
+4662	Frag: Grösse 37	thirty seven	thirty seven
+4663	Frag: ein Hemd	can i have a shirt	can i have a shirt
+4664	Frag: ein gelbes Hemd	i would like a yellow shirt	i would like a yellow shirt
+4667	Frag: eine L	i am a large	i am a large
+4668	Frag: Wie viel kostet es?	how much does it cost	how much does it cost
+4669	Sag: Das Hemd ist zu teuer	the shirt is too expensive	the shirt is too expensive
+4670	Frag: Zimmer für 5 Nächte	can i have a room for five nights	can i have a room for five nights
+4671	Frag: Suite	can i have a suite	can i have a suite
+4672	Sag: Ich möchte mit Kreditkarte bezahlen	no i am with credit card	no i am with credit card
+4673	Frag: Gibt es einen Coiffeur?	is there a hairdresser	is there a hairdresser
+4674	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4675	Frag: Wo ist der Coiffeur?	where is the hairdresser	where is the hairdresser
+4676	Frag: Wo ist der Coiffeur?	can you give me brown boots the hairdresser	can you give me brown boots the hairdresser
+4677	Frag: Zimmer für 1 Woche	can i have a room for one room	can i have a room for one room
+4678	Frag: Doppelzimmer	can i have a hotel to have a pool	can i have a hotel to have a pool
+4679	Frag: Doppelzimmer	can i have a double room	can i have a double room
+4680	Frag: Doppelzimmer	can i have a double room	can i have a double room
+4681	Sag: Ich möchte mit Mastercard bezahlen	can i buy with mastercard	can i buy with mastercard
+4682	Frag: Gibt es einen Lift?	is there a lift	is there a lift
+4683	Frag: Gibt es einen Lift?	is there a pool	is there a pool
+4684	Frag: Gibt es einen Lift?	is there a lift	is there a lift
+4685	Frag: ein Ticket nach London	can i have a ticket to london	can i have a ticket to london
+4686	Sag: Ich möchte um 22 Uhr morgen abreisen	i want to leave tomorrow at ten o'clock p m	i want to leave tomorrow at ten o'clock p m
+4687	Sag: Ich heisse John	my name is john	my name is john
+4688	Sag: Ich bin aus Italien	i am from portugal	i am from portugal
+4689	Frag: 4 Tickets nach London	can i have four tickets to london	can i have four tickets to london
+4690	Sag: Ich möchte am Mittwochabend abreisen	i like to leave on wednesday night	i like to leave on wednesday night
+4691	Sag: Ich möchte am Mittwochabend abreisen	i like to leave on wednesday evening	i like to leave on wednesday evening
+4692	Sag: Ich möchte am Mittwochabend abreisen	i like to leave at wednesday night	i like to leave at wednesday night
+4693	Sag: Ich heisse Janet	i'm fine thanks	i'm fine thanks
+4694	Sag: Ich bin aus Italien	i'm from italy	i'm from italy
+4695	Sag: Ich bin aus Italien	i am from tu	i am from tu
+4696	Frag: 3 Tickets nach London	can i have three tickets to london	can i have three tickets to london
+4697	Sag: Ich möchte am Sonntag abreisen	i like to leave at sunday	i like to leave at sunday
+4698	Sag: Ich heisse Paolo	my name is paolo	my name is paolo
+4699	Sag: Ich bin aus der Schweiz	i am from spain	i am from spain
+4700	Sag: Ich heisse Sarah	my name is sarah	my name is sarah
+4701	Sag: Ich bin aus Portugal	i'm from portugal	i'm from portugal
