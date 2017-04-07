@@ -1,0 +1,997 @@
+ID	Method	Prompt	Transcript	Judgement	Original Judgement
+3570	no method	Frag: Zimmer für 1 Woche	can i have a hotel room for one night	reject	reject
+3571	RG	Frag: Zimmer für 1 Woche	i want a room for one week	accept	accept
+3572	RG	Frag: Twinzimmer	a twin room	accept	accept
+3573	RG	Sag: Ich möchte mit Kreditkarte bezahlen	can i pay by credit card	accept	accept
+3574	no method	Frag: Gibt es ein Fitnessstudio?	have a fitness studio	reject	reject
+3575	RG	Frag: 3 Musical-Tickets	i would like to buy three musical tickets	accept	accept
+3576	RG	Sag: Ich möchte am Montagabend gehen	i would like to go on monday night	accept	accept
+3577	RG	Sag: Ich möchte am Montagabend gehen	i would like to go on monday night	accept	accept
+3579	RG	Frag: 3 Tickets für König der Löwen	i want three tickets for the lion king	accept	accept
+3580	no method	Sag: Ich möchte vorne sitzen	i would like to sit in the john	reject	reject
+3581	RG	Sag: Ich möchte vorne sitzen	i would like to sit in the front	accept	accept
+3582	RG	Sag: Ich möchte vorne sitzen	i would like to sit in the front	accept	accept
+3583	RG	Frag: Tickets für die National Gallery	i would like tickets for the national gallery	accept	accept
+3584	no method	Frag: Tickets für die National Gallery	i would like i would like nationaly gal i would ah mann	reject	reject
+3587	RG	Frag: ein Ticket zum Piccadilly Circus	i would like a ticket to piccadilly circus	accept	accept
+3588	RG	Sag: Ich möchte mit Visa bezahlen	i would like to pay with visa	accept	accept
+3589	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i would like to pay be visa	reject	reject
+3590	RG	Frag: ein Ticket zum Green Park	i need a ticket to green park	accept	accept
+3592	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i would like to bay with visa	reject	reject
+3593	credit card cluster	Sag: Ich möchte mit Pfund bezahlen	can i pay by pound	reject	reject
+3594	credit card cluster	Sag: Ich möchte mit Pfund bezahlen	can i pay by pound	reject	reject
+3595	credit card cluster	Sag: Ich möchte mit Pfund bezahlen	can i pay by pounds	accept	reject
+3596	RG	Frag: ein Ticket nach Notting Hill	i would like a ticket to notting hill	accept	accept
+3597	RG	Sag: Ich möchte mit Mastercard bezahlen	can i i pay by mastercard	accept	accept
+3598	RG	Sag: Ich möchte mit Mastercard bezahlen	can i pay by master card	accept	accept
+3599	credit card cluster	Sag: Ich möchte mit Dollars bezahlen	can a pay by dollars	reject	reject
+3602	RG	Frag: eine Cola	i would like a coke	accept	accept
+3604	RG	Frag: ein Steak	i want a steak	accept	accept
+3605	no method	Frag: mein Steak rare	like my steak rare	reject	reject
+3606	RG	Frag: mein Steak rare	i would like my steak rare	accept	accept
+3608	no method	Frag: Pilze	i would like pilz	reject	reject
+3610	RG	Frag: Ich möchte die Dessertkarte	could i see the dessert menu	accept	accept
+3611	RG	Sag: Mir geht es gut	i am good	accept	accept
+3618	no method	Frag: 2 Tickets nach London	two ticket to london	reject	reject
+3619	RG	Frag: 2 Tickets nach London	two tickets to london	accept	accept
+3620	RG	Sag: Ich möchte um 21 Uhr morgen abreisen	i want to leave at nine o'clock tomorrow	accept	accept
+3621	RG	Sag: Ich heisse James	i am james	accept	accept
+3622	RG	Sag: Ich bin aus der Türkei	i am from turkey	accept	accept
+3623	no method	Frag: 2 Musical-Tickets	two mitch tickets	reject	reject
+3625	magic	Frag: ein Ticket für Montagabend	tickets for the monday evening	accept	reject
+3626	no method	Frag: ein Ticket für Montagabend	tickets for the monday avenue	reject	reject
+3627	magic	Frag: 2 Tickets für König der Löwen	two tickets for lion king	accept	reject
+3628	no method	Frag: 2 Tickets für König der Löwen	two tickets for the ke	reject	reject
+3629	no method	Frag: 2 Tickets für König der Löwen	two tickets for the king of lion	reject	reject
+3630	no method	Sag: Ich möchte in der zweiten Reihe sitzen	i would like to sit in	reject	reject
+3631	no method	Sag: Ich möchte in der zweiten Reihe sitzen	i would sit in the	reject	reject
+3632	RG	Sag: Ich möchte in der zweiten Reihe sitzen	i would like to sit in the second row	accept	accept
+3634	RG	Frag: 5 Tickets	five tickets	accept	accept
+3636	RG	Frag: Einzelzimmer	a single room	accept	accept
+3637	RG	Frag: Einzelzimmer	a single room	accept	accept
+3638	RG	Frag: Einzelzimmer	a single room	accept	accept
+3639	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i would to play with my post card	reject	reject
+3640	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i would like to play with my post card	reject	reject
+3641	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i would like to play with	reject	reject
+3642	magic	Frag: Gibt es eine Hotelbar?	is there the hotel bar	accept	reject
+3643	RG	Sag: Ich heisse Nick	my name is nick	accept	accept
+3644	RG	Sag: Ich bin aus Österreich	i am from austria	accept	accept
+3645	magic	Sag: Die Hauptstadt von Österreich ist Wien	the capital of austria is wien	accept	reject
+3647	magic	Sag: Ich habe 1 Bruder	i have a brother	accept	accept
+3648	no method	Sag: Ich habe 1 Bruder	i have a brother	reject	accept
+3649	RG	Sag: Ich habe 1 Bruder	i have one brother	accept	accept
+3650	no method	Sag: Ich gehe in die Ferien	i going in the holiday	reject	reject
+3651	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+3652	no method	Sag: Dies ist mein Pass	this is my pass	reject	reject
+3654	magic	Frag: ein Ticket zum Piccadilly Circus	a ticket from piccadilly circus	accept	reject
+3655	no method	Frag: ein Ticket zum Piccadilly Circus	like a ticket to piccadilly circus	reject	reject
+3656	RG	Frag: ein Ticket zum Piccadilly Circus	i would like a ticket to piccadilly circus	accept	accept
+3657	credit card cluster	Sag: Ich möchte mit Mastercard bezahlen	i would like to play with my master card	reject	reject
+3658	RG	Frag: 4 Musical-Tickets	four musical tickets	accept	accept
+3659	RG	Frag: 4 Musical-Tickets	four musical tickets	accept	accept
+3660	RG	Frag: 4 Musical-Tickets	i would like to buy four musical tickets	accept	accept
+3661	no method	Sag: Ich möchte am Freitagabend gehen	i would go by free day avenue	reject	reject
+3662	no method	Sag: Ich möchte am Freitagabend gehen	i would like to go a priday night	reject	reject
+3663	no method	Sag: Ich möchte am Freitagabend gehen	i would like to go on free day night	reject	reject
+3664	magic	Frag: 4 Tickets für Wicked	i would like four tickets for the wick	accept	reject
+3665	RG	Frag: 4 Tickets für Wicked	i want four tickets for wicked	accept	accept
+3666	no method	Sag: Ich möchte in der achten Reihe sitzen	in the eight row	reject	reject
+3667	RG	Sag: Ich möchte in der achten Reihe sitzen	i want to sit in the eighth row	accept	accept
+3668	no method	Sag: Ich möchte in der achten Reihe sitzen	i want seat in the eight row	reject	reject
+3669	RG	Frag: Tickets für das Naturhistorische Museum	i want tickets for the natural history museum	accept	accept
+3670	RG	Frag: 2 Tickets	i want two tickets	accept	accept
+3671	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3673	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3674	no method	Frag: Zimmer für 6 Nächte	can i have six rooms for six nights	reject	reject
+3675	RG	Frag: Zimmer für 6 Nächte	i want a room for six nights	accept	accept
+3676	RG	Frag: Doppelzimmer	i want a double room	accept	accept
+3679	no method	Frag: Gibt es ein Schwimmbad?	have you a pool	reject	accept
+3680	RG	Frag: Wo ist das Schwimmbad?	where is the pool	accept	accept
+3681	RG	Frag: Zimmer für 4 Nächte	i want a room for four nights	accept	accept
+3682	RG	Frag: Doppelzimmer	i want a double room	accept	accept
+3683	RG	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	accept	accept
+3684	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+3685	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+3686	RG	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	accept	accept
+3688	credit card cluster	Sag: Ich möchte mit Schweizer Franken bezahlen	can i pay with swiss friends	reject	reject
+3689	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3690	RG	Frag: Zimmer für 7 Nächte	i want a room for seven nights	accept	accept
+3691	no method	Frag: Junior Suite	on the junior suite	reject	reject
+3692	RG	Sag: Ich möchte mit Mastercard bezahlen	can i pay by mastercard	accept	accept
+3693	RG	Frag: Gibt es einen Coiffeur?	is there a hairdresser	accept	accept
+3694	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+3695	RG	Frag: 3 Tickets nach London	i would like three tickets to london	accept	accept
+3696	RG	Sag: Ich möchte am Mittwochabend abreisen	i want to leave on wednesday evening	accept	accept
+3697	RG	Sag: Ich heisse Sarah	my name is sarah	accept	accept
+3698	RG	Sag: Ich heisse Sarah	my name is sarah	accept	accept
+3700	RG	Frag: ein Ticket nach London	i want a ticket to london	accept	accept
+3701	RG	Sag: Ich möchte am Sonntag abreisen	i would like to leave on sunday	accept	accept
+3702	RG	Sag: Ich heisse John	my name is john	accept	accept
+3703	RG	Sag: Ich bin aus Spanien	i am from spain	accept	accept
+3704	RG	Sag: Ich heisse Brian	my name is brian	accept	accept
+3705	RG	Sag: Ich bin aus Amerika	i am from america	accept	accept
+3706	RG	Sag: Ich heisse Silvia	my name is silvia	accept	accept
+3707	RG	Sag: Ich bin aus Portugal	i am from portugal	accept	accept
+3708	magic	Sag: Die Hauptstadt von Portugal ist Lissabon	the capital of portugal is lisabon	accept	reject
+3709	magic	Sag: Ich habe 2 jüngere Brüder	i have two young brothers	accept	reject
+3710	no method	Sag: Ich gehe in die Ferien	i going to holidays	reject	reject
+3712	RG	Sag: Dies ist mein Pass	that is my passport	accept	accept
+3713	no method	Sag: Dies ist mein Pass	that is is my passport	reject	reject
+3714	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+3716	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i want pay	reject	reject
+3717	RG	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	accept	accept
+3718	RG	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	accept	accept
+3719	RG	Frag: 2 Musical-Tickets	i want two musical tickets	accept	accept
+3720	RG	Frag: 2 Tickets für Montagabend	i want two tickets for monday evening	accept	accept
+3723	RG	Frag: Zimmer für 2 Nächte	a room for two nights	accept	accept
+3724	RG	Frag: Zimmer für 2 Nächte	can i have a room for two nights	accept	accept
+3725	RG	Frag: Einzelzimmer	a single room	accept	accept
+3726	RG	Frag: Einzelzimmer	single room	accept	accept
+3727	RG	Frag: Einzelzimmer	single room	accept	accept
+3728	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i	reject	reject
+3729	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	ich verschtands nid	reject	reject
+3730	no method	Frag: Gibt es einen Lift?	is it a lift	reject	reject
+3731	RG	Frag: Wo ist der Lift?	where is the lift	accept	accept
+3735	RG	Sag: Ich möchte mit Dollars bezahlen	can i pay with dollars	accept	accept
+3736	RG	Frag: Zimmer für 3 Nächte	i want a room for three nights	accept	accept
+3737	RG	Frag: Einzelzimmer	i want a single room	accept	accept
+3738	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i want to pay with credit card	reject	reject
+3740	magic	Frag: Gibt es ein Fitnessstudio?	have you got a fitness studio	accept	accept
+3741	RG	Frag: Gibt es ein Fitnessstudio?	is there a gym	accept	accept
+3742	RG	Frag: Wo ist das Fitnessstudio?	where is the gym	accept	accept
+3743	RG	Frag: ein Ticket nach London	i want a ticket to london	accept	accept
+3744	RG	Sag: Ich möchte um 12 Uhr morgen abreisen	i want to leave tomorrow at noon	accept	accept
+3745	RG	Sag: Ich heisse Mona	my name is mona	accept	accept
+3746	RG	Sag: Ich bin aus Deutschland	i am from germany	accept	accept
+3749	no method	Frag: ein Steak	single room a single r	reject	reject
+3750	no method	Frag: ein Steak	i would like a steetch	reject	reject
+3751	no method	Frag: ein Steak	kusvich	reject	reject
+3757	no method	Frag: Wo ist der Tower?	where is the tour i am	reject	reject
+3759	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+3761	meaning_reject	Frag: Zimmer für 6 Nächte	a dorm for six nights	reject	reject
+3762	no method	Frag: Zimmer für 6 Nächte	a dorm for six nights	reject	reject
+3763	RG	Frag: Zimmer für 6 Nächte	i want a room for six nights	accept	accept
+3764	magic	Frag: Twinzimmer	a twin zimmer	accept	reject
+3767	RG	Sag: Ich möchte mit Kreditkarte bezahlen	i would like to pay by credit card	accept	accept
+3768	RG	Frag: Gibt es einen Lift?	is there a lift	accept	accept
+3769	no method	Sag: Ich habe keine Reservation	i've no a reservation	reject	reject
+3770	RG	Sag: Ich habe keine Reservation	i have no reservation	accept	accept
+3771	RG	Sag: Ich habe keine Reservation	i have no reservation	accept	accept
+3773	RG	Sag: Ich habe keine Reservation	i have not got a reservation	accept	accept
+3774	no method	Sag: Ich habe keine Reservation	i have not a reservation	reject	reject
+3776	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3777	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3778	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3779	no method	Sag: Ich habe keine Reservation	i have not have	reject	reject
+3781	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3782	RG	Frag: Zimmer für 7 Nächte	a room for seven nights	accept	accept
+3783	RG	Frag: Doppelzimmer	a double room	accept	accept
+3784	RG	Frag: Doppelzimmer	a double room	accept	accept
+3786	RG	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	accept	accept
+3787	RG	Frag: Gibt es ein Hotelrestaurant?	is there a restaurant	accept	accept
+3788	RG	Frag: Wo ist das Hotelrestaurant?	where is the restaurant	accept	accept
+3789	RG	Frag: Wo ist das Hotelrestaurant?	where is the restaurant	accept	accept
+3790	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+3791	RG	Frag: Zimmer für 2 Nächte	a room for two nights	accept	accept
+3792	RG	Frag: Doppelzimmer	a double room	accept	accept
+3794	RG	Frag: Doppelzimmer	a twin room	accept	accept
+3795	RG	Sag: Ich möchte mit Postkarte bezahlen	i would like to pay by post card	accept	accept
+3796	credit card cluster	Sag: Ich möchte mit Schweizer Franken bezahlen	i would like to pay by swiss francs	accept	reject
+3797	credit card cluster	Sag: Ich möchte mit Schweizer Franken bezahlen	i would like to pay by swiss francs	accept	reject
+3798	RG	Sag: Ich möchte mit Schweizer Franken bezahlen	can i pay with swiss francs	accept	accept
+3799	RG	Frag: Gibt es einen Coiffeur?	is there a hairdresser	accept	accept
+3800	no method	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to the piccadilly circus	reject	reject
+3801	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i would like to change with post card	reject	reject
+3802	credit card cluster	Sag: Ich möchte mit Pfund bezahlen	i would like to change with pounds	reject	reject
+3803	no method	Sag: Mir geht es gut	i am	reject	reject
+3804	no method	Frag: Stiefel	i would like stiefel	reject	reject
+3805	RG	Frag: Stiefel	i would like some boots	accept	accept
+3806	RG	Frag: blaue Stiefel	i would like blue boots	accept	accept
+3807	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3808	RG	Frag: Zimmer für 3 Nächte	a room for three nights	accept	accept
+3809	RG	Frag: Junior Suite	a junior suite	accept	accept
+3810	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i want pay with credit card	reject	reject
+3811	RG	Sag: Ich heisse Barbara	my name is barbara	accept	accept
+3812	RG	Sag: Ich bin aus Frankreich	i am from france	accept	accept
+3813	RG	Sag: Die Hauptstadt von Frankreich ist Paris	the capital of france is paris	accept	accept
+3814	RG	Sag: Ich habe 2 jüngere Schwestern	i have two younger sisters	accept	accept
+3815	no method	Sag: Ich gehe in die Ferien	i go in the holidays	reject	reject
+3816	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+3817	magic	Sag: Dies ist mein Pass	these is my passport	accept	reject
+3818	RG	Sag: Dies ist mein Pass	it is my passport	accept	accept
+3819	magic	Frag: 3 Musical-Tickets	musical tickets	accept	reject
+3820	RG	Frag: 3 Musical-Tickets	can i have three musical tickets	accept	accept
+3822	magic	Frag: 3 Tickets für Starlight Express	i need three tickets for stairlight express	accept	accept
+3823	no method	Sag: Ich möchte in der vierten Reihe sitzen	i would like in the fourth serious sit	reject	reject
+3824	RG	Sag: Ich möchte in der vierten Reihe sitzen	i would like to sit in the fourth row	accept	accept
+3825	RG	Frag: Tickets für das London Eye	i want tickets for the london eye	accept	accept
+3826	RG	Frag: 4 Tickets	i need four tickets	accept	accept
+3827	RG	Frag: 3 Musical-Tickets	i need three musical tickets	accept	accept
+3828	magic	Frag: ein Ticket für Donnerstagabend	i need a ticket for thursday night	accept	accept
+3829	RG	Frag: 3 Tickets für Wicked	i need three tickets for wicked	accept	accept
+3830	RG	Frag: Ticket für dieses Musical	i want a ticket for this musical	accept	accept
+3831	RG	Frag: Ticket für dieses Musical	i want tickets for this musical	accept	accept
+3832	RG	Sag: Ich möchte in der zweiten Reihe sitzen	i want to sit in the second row	accept	accept
+3833	RG	Frag: Tickets für Madame Tussauds	i want tickets for madame tussauds	accept	accept
+3834	RG	Frag: 1 Ticket	i need one ticket	accept	accept
+3835	RG	Frag: 1 Musical-Ticket	i need one musical ticket	accept	accept
+3836	meaning_reject	Frag: ein Ticket für heute Abend	a ticket for night	reject	reject
+3837	RG	Frag: ein Ticket für heute Abend	i want tickets for this evening	accept	accept
+3838	magic	Frag: ein Ticket für Mamma Mia	i want a ticket for mamma mia	accept	accept
+3839	RG	Frag: Ticket für dieses Musical	i want a ticket for this musical	accept	accept
+3840	no method	Sag: Ich möchte vorne sitzen	i want sit up front	reject	reject
+3841	RG	Sag: Ich möchte vorne sitzen	i would like to sit in the front	accept	accept
+3842	RG	Frag: Tickets für das British Museum	i need tickets for the british museum	accept	accept
+3843	RG	Frag: Tickets für das British Museum	can i have tickets for the british museum	accept	accept
+3844	RG	Frag: 2 Tickets	i need two tickets	accept	accept
+3845	RG	Frag: 2 Musical-Tickets	i need two musical tickets	accept	accept
+3846	magic	Frag: ein Ticket für Samstagabend	i need a ticket for saturday night	accept	accept
+3847	RG	Frag: 2 Tickets für König der Löwen	i need two tickets for the lion king	accept	accept
+3848	RG	Sag: Ich möchte vorne sitzen	i want to sit in the front	accept	accept
+3849	RG	Frag: Tickets für das Science Museum	i want tickets for the science museum	accept	accept
+3850	RG	Frag: 1 Ticket	i need one ticket	accept	accept
+3851	RG	Frag: Wo ist das Naturhistorische Museum?	where is the natural history museum	accept	accept
+3852	magic	Frag: Wo ist die Oxford Street?	where is the oxford street	accept	reject
+3853	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+3854	RG	Sag: Der Tower ist nahe der Tower Bridge	the tower is near the tower bridge	accept	accept
+3855	RG	Frag: Wo ist das Naturhistorische Museum?	where is the natural history museum	accept	accept
+3856	RG	Frag: Wo ist Piccadilly Circus?	where is piccadilly circus	accept	accept
+3857	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+3858	no method	Sag: Big Ben ist neben den Houses of Parliament	the big ben is beside the houses of parliament	reject	reject
+3859	RG	Frag: Wo ist das Naturhistorische Museum?	where is the natural history museum	accept	accept
+3860	no method	Frag: Wo ist der Tower?	you can't use help at the silver level	reject	reject
+3861	RG	Frag: Wo ist der Tower?	where is the tower	accept	accept
+3862	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	marble arch is across hyde street park	reject	reject
+3863	RG	Frag: Wo ist die National Gallery?	where is the national gallery	accept	accept
+3864	magic	Frag: Wo ist Big Ben?	where is the big ben	accept	reject
+3865	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+3866	RG	Sag: Der Tower ist nahe der Tower Bridge	the tower is near tower bridge	accept	accept
+3867	RG	Frag: Wo ist der Zoo?	where is the zoo	accept	accept
+3868	RG	Frag: Wo ist Madame Tussauds?	where is madame tussauds	accept	accept
+3869	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+3870	RG	Sag: Der Tower ist nahe der Tower Bridge	the tower is near tower bridge	accept	accept
+3871	no method	Frag: einen Orangensaft	i want a an orange juice	reject	accept
+3872	RG	Frag: einen Orangensaft	i want an orange juice	accept	accept
+3873	RG	Frag: einen Hamburger	i want a hamburger	accept	accept
+3874	RG	Frag: meinen Hamburger rare	i want my hamburger rare	accept	accept
+3875	magic	Frag: Erbsen	i want peas	accept	accept
+3876	no method	Frag: Erbsen	i want peas	reject	accept
+3877	RG	Frag: Erbsen	i would like some peas	accept	accept
+3878	Restarant Cluster	Frag: Ich möchte die Dessertkarte	can i have the dessert card	reject	reject
+3879	Restarant Cluster	Frag: Ich möchte die Dessertkarte	can i have the dessert card	reject	reject
+3880	RG	Frag: Ich möchte die Dessertkarte	the dessert menu	accept	accept
+3882	RG	Frag: Karrotenkuchen	can i have the carrot cake	accept	accept
+3883	RG	Frag: Ich möchte die Rechnung	i would like the bill	accept	accept
+3888	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+3889	RG	Frag: Zimmer für 2 Nächte	a room for two nights	accept	accept
+3890	RG	Frag: Suite	i would like a suite	accept	accept
+3891	credit card cluster	Sag: Ich möchte mit Mastercard bezahlen	i would like pay with mastercard	reject	reject
+3892	credit card cluster	Sag: Ich möchte mit Mastercard bezahlen	are there a coiffeur	reject	reject
+3893	no method	Frag: Zimmer für 1 Woche	i would like a room for once a week	reject	reject
+3894	RG	Frag: Suite	i would like a suite	accept	accept
+3896	RG	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	accept	accept
+3897	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+3898	RG	Frag: 1 Musical-Ticket	can i have one musical ticket	accept	accept
+3899	magic	Frag: 1 Musical-Ticket	a ticket for wednesday evening	accept	reject
+3900	no method	Frag: ein Ticket für morgen Abend	a ticket for	reject	reject
+3901	meaning_reject	Frag: ein Ticket für morgen Abend	a ticket for morning night	reject	reject
+3902	RG	Frag: ein Ticket für morgen Abend	a ticket for tomorrow night	accept	accept
+3903	magic	Frag: ein Ticket für Starlight Express	i would like a ticket for starlight express	accept	accept
+3904	RG	Frag: ein Ticket für Starlight Express	a ticket for starlight express	accept	accept
+3905	RG	Frag: ein Ticket für Starlight Express	a ticket for starlight express	accept	accept
+3906	RG	Sag: Ich möchte in der Mitte sitzen	i want to sit in the middle	accept	accept
+3907	RG	Frag: Tickets für das London Eye	can i have tickets for the london eye	accept	accept
+3908	RG	Frag: 4 Tickets	i need four tickets	accept	accept
+3909	RG	Sag: Mir geht es gut	i am fine	accept	accept
+3910	RG	Frag: Stiefel	i want boots	accept	accept
+3911	RG	Frag: weisse Stiefel	i want white boots	accept	accept
+3912	RG	Frag: Grösse 36	thirty-six	accept	accept
+3913	RG	Frag: ein T-Shirt	i want a t-shirt	accept	accept
+3914	RG	Frag: ein gelbes T-Shirt	i want a yellow t-shirt	accept	accept
+3915	no method	Frag: eine L	big	reject	reject
+3916	no method	Frag: eine L	great	reject	reject
+3917	RG	Frag: eine L	i am a large	accept	accept
+3918	RG	Frag: Wie viel kostet es?	how much is it	accept	accept
+3919	no method	Sag: Dies ist zu teuer	that is too expensive	reject	accept
+3920	RG	Sag: Mir geht es gut	i am fine	accept	accept
+3921	RG	Frag: Sandalen	i want sandals	accept	accept
+3922	RG	Frag: rote Sandalen	i want red sandals	accept	accept
+3923	RG	Frag: Grösse 38	thirty-eight	accept	accept
+3924	RG	Frag: ein T-Shirt	i want a t-shirt	accept	accept
+3925	RG	Frag: ein gelbes T-Shirt	i want a yellow t-shirt	accept	accept
+3926	no method	Frag: eine L	great	reject	reject
+3927	no method	Frag: eine L	great	reject	reject
+3928	RG	Frag: eine L	i am a large	accept	accept
+3929	RG	Frag: Wie viel kostet es?	how much is it	accept	accept
+3930	RG	Sag: Das T-Shirt ist zu teuer	the t-shirt is too expensive	accept	accept
+3931	RG	Sag: Mir geht es gut	i am fine	accept	accept
+3932	RG	Frag: Stiefel	i want boots	accept	accept
+3933	RG	Frag: braune Stiefel	i want brown boots	accept	accept
+3934	RG	Frag: Grösse 39	thirty-nine	accept	accept
+3935	RG	Frag: ein T-Shirt	i want a t-shirt	accept	accept
+3936	RG	Frag: ein braunes T-Shirt	i want a brown t-shirt	accept	accept
+3938	RG	Frag: Wie viel kostet das T-Shirt?	how much is the t-shirt	accept	accept
+3940	RG	Sag: Mir geht es gut	i am fine	accept	accept
+3941	RG	Frag: Sandalen	i want sandals	accept	accept
+3942	RG	Frag: weisse Sandalen	i want white sandals	accept	accept
+3943	RG	Frag: Grösse 44	forty-four	accept	accept
+3944	magic	Frag: Hosen	i want pants	accept	accept
+3945	RG	Frag: Hosen	i am looking for trousers	accept	accept
+3946	RG	Frag: rote Hosen	i want red trousers	accept	accept
+3947	RG	Frag: eine S	small	accept	accept
+3948	no method	Frag: Wie viel kostet die Hose?	how much are the croasts	reject	reject
+3949	no method	Frag: Wie viel kostet die Hose?	how much does the trousers cost	reject	reject
+3950	RG	Sag: Die Hose ist zu teuer	the trousers is too expensive	accept	reject
+3952	RG	Sag: Ich heisse Sarah	my name is sarah	accept	accept
+3953	RG	Sag: Ich bin aus Italien	i am from italy	accept	accept
+3954	RG	Sag: Die Hauptstadt von Italien ist Rom	the capital of italy is rome	accept	accept
+3955	magic	Sag: Ich habe 1 Bruder	i have a brother	accept	accept
+3956	RG	Sag: Ich habe 1 Bruder	i have one brother	accept	accept
+3958	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+3959	RG	Sag: Dies ist mein Pass	it is my passport	accept	accept
+3960	RG	Sag: Ich heisse Michelle	my name is michelle	accept	accept
+3961	RG	Sag: Ich bin aus Deutschland	i am from germany	accept	accept
+3962	RG	Sag: Die Hauptstadt von Deutschland ist Berlin	the capital of germany is berlin	accept	accept
+3963	RG	Sag: Ich habe 4 ältere Brüder	i have four older brothers	accept	accept
+3966	RG	Sag: Dies ist mein Pass	it is my passport	accept	accept
+3967	RG	Frag: ein Ticket zum Green Park	i need a ticket to green park	accept	accept
+3968	RG	Sag: Ich möchte mit Kreditkarte bezahlen	i would like to pay by credit card	accept	accept
+3969	RG	Frag: 2 Tickets nach London	i need two tickets to london	accept	accept
+3970	RG	Sag: Ich möchte am Freitagmorgen abreisen	i want to leave on friday morning	accept	accept
+3971	RG	Sag: Ich heisse Silvia	my name is silvia	accept	accept
+3972	RG	Sag: Ich bin aus England	i am from england	accept	accept
+3973	RG	Frag: 6 Tickets nach London	i need six tickets to london	accept	accept
+3974	magic	Sag: Ich möchte am Freitagabend abreisen	i want to leave on friday night	accept	accept
+3975	RG	Sag: Ich heisse Stephanie	my name is stephanie	accept	accept
+3976	RG	Sag: Ich bin aus Deutschland	i am from germany	accept	accept
+3977	RG	Frag: 2 Tickets nach London	i need two tickets to london	accept	accept
+3978	RG	Sag: Ich möchte um 8 Uhr morgen abreisen	i want to leave at eight o'clock tomorrow	accept	accept
+3979	RG	Frag: Wie viel kostet es?	how much is it	accept	accept
+3980	RG	Frag: billigeres Ticket	i want a cheaper ticket	accept	accept
+3981	RG	Sag: Das ist okay	this is okay	accept	accept
+3982	RG	Sag: Ich heisse Paul	my name is paul	accept	accept
+3983	RG	Sag: Ich bin aus Australien	i am from australia	accept	accept
+3986	RG	Sag: Ich habe keine Reservation	i do no i do not have a reservation	accept	accept
+3987	RG	Frag: Zimmer für 6 Nächte	a room for six nights	accept	accept
+3988	RG	Frag: Doppelzimmer	a double room	accept	accept
+3989	RG	Frag: Doppelzimmer	i would like a double room	accept	accept
+3991	RG	Frag: Gibt es einen Lift?	is there a lift	accept	accept
+3992	RG	Frag: 2 Musical-Tickets	i need two musical tickets	accept	accept
+3993	RG	Frag: 2 Tickets für Sonntagabend	i need two tickets for sunday night	accept	accept
+3995	RG	Sag: Ich möchte in der fünften Reihe sitzen	i would like to sit in the fifth row	accept	accept
+3996	RG	Frag: Tickets für das Science Museum	i need tickets for the science museum	accept	accept
+3997	RG	Frag: 1 Ticket	i need one ticket	accept	accept
+3998	RG	Frag: 2 Musical-Tickets	i need two musical tickets	accept	accept
+3999	RG	Frag: 2 Tickets für heute Abend	i need two tickets for tonight	accept	accept
+4000	RG	Frag: 2 Tickets für Mamma Mia	i need two tickets for mamma mia	accept	accept
+4001	no method	Frag: Ticket für dieses Musical	i need tickets a ticket for this musical	reject	accept
+4002	magic	Frag: Ticket für dieses Musical	i need a ticket for this musical	accept	accept
+4003	RG	Sag: Ich möchte hinten sitzen	i want to sit in the back	accept	accept
+4004	RG	Frag: Tickets für das British Museum	i need tickets for the british museum	accept	accept
+4005	RG	Frag: 3 Tickets	i need three tickets	accept	accept
+4006	RG	Frag: Zimmer für 5 Nächte	i want a room for five nights	accept	accept
+4007	no method	Frag: Twinzimmer	i want a double room	reject	reject
+4008	RG	Frag: Twinzimmer	a twin room	accept	accept
+4009	RG	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	accept	accept
+4010	credit card cluster	Sag: Ich möchte mit Euros bezahlen	i will pay with euros	reject	reject
+4011	no method	Frag: Gibt es ein Hotelrestaurant?	are there a hotel restaurant	reject	reject
+4012	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+4014	RG	Sag: Ich habe keine Reservation	i have no reservation	accept	accept
+4015	no method	Sag: Ich habe keine Reservation	i do not no i do not have a reservation	reject	accept
+4016	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4017	RG	Frag: Zimmer für 2 Nächte	a room for two nights	accept	accept
+4018	RG	Frag: Suite	i would like a suite	accept	accept
+4019	RG	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	accept	accept
+4020	RG	Frag: Gibt es einen Lift?	is there a a lift	accept	accept
+4021	RG	Frag: Zimmer für 3 Nächte	a room for three nights	accept	accept
+4022	RG	Frag: Junior Suite	i would like a junior suite	accept	accept
+4023	RG	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	accept	accept
+4024	RG	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	accept	accept
+4025	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+4026	RG	Frag: Einzelzimmer	i would like a single room	accept	accept
+4028	RG	Frag: Gibt es einen Coiffeur?	is there a hairdresser	accept	accept
+4029	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4030	no method	Frag: Zimmer für 5 Nächte	want a room for five nights	reject	reject
+4031	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4032	RG	Frag: Zimmer für 5 Nächte	a room for five nights	accept	accept
+4033	RG	Frag: Twinzimmer	a twin room	accept	accept
+4034	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with a credit card	accept	accept
+4035	RG	Frag: Gibt es einen Coiffeur?	do you have a hairdresser	accept	accept
+4036	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4037	RG	Sag: Mein Badezimmer ist dreckig	my bathroom is dirty	accept	accept
+4038	no method	Frag: Wo ist der Haarföhn?	where is the hair blower	reject	reject
+4039	no method	Frag: Wo ist der Haarföhn?	where is the hair blower	reject	reject
+4040	no method	Frag: Wo ist der Haarföhn?	where is the hair blower	reject	reject
+4041	RG	Frag: Zimmer für 3 Nächte	a room for three nights	accept	accept
+4042	RG	Frag: Twinzimmer	a twin room	accept	accept
+4043	RG	Sag: Ich möchte mit Mastercard bezahlen	i would like to pay with mastercard	accept	accept
+4044	RG	Frag: Gibt es eine Hotelbar?	do you have a hotel bar	accept	accept
+4045	RG	Frag: Wo ist die Hotelbar?	where is the hotel bar	accept	accept
+4046	RG	Sag: Mein WC ist dreckig	my toilet is dirty	accept	accept
+4047	no method	Sag: Im Zimmer hat es keinen Haarföhn	in the room	reject	reject
+4048	no method	Sag: Im Zimmer hat es keinen Haarföhn	the room has not a hair dryer	reject	reject
+4049	no method	Sag: Im Zimmer hat es keinen Haarföhn	in the room is not a hair dryer	reject	reject
+4050	RG	Frag: Zimmer für 6 Nächte	a room for six nights	accept	accept
+4051	RG	Frag: Twinzimmer	a twin room	accept	accept
+4052	RG	Frag: ein Ticket zum Trafalgar Square	a ticket to trafalgar square	accept	accept
+4053	RG	Frag: ein Ticket zum Trafalgar Square	a ticket to trafalgar square	accept	accept
+4058	RG	Sag: Ich möchte mit Mastercard bezahlen	can i pay by master card	accept	accept
+4061	RG	Frag: ein Ticket zum Trafalgar Square	can i have a ticket to trafalgar square	accept	accept
+4062	credit card cluster	Sag: Ich möchte mit Visa bezahlen	can i pay with a visa	accept	reject
+4063	credit card cluster	Sag: Ich möchte mit Pfund bezahlen	can i pay with pfund	reject	reject
+4064	RG	Sag: Ich möchte mit Pfund bezahlen	can i pay with pounds	accept	accept
+4065	RG	Frag: 3 Musical-Tickets	can i have three musical tickets	accept	accept
+4066	magic	Sag: Ich möchte heute Abend gehen	can i go this evening	accept	accept
+4067	RG	Sag: Ich möchte heute Abend gehen	i want to go this evening	accept	accept
+4068	no method	Sag: Ich möchte heute Abend gehen	can i go this evening	reject	accept
+4069	RG	Frag: 3 Tickets für das Phantom der Oper	i want three tickets for the phantom of the opera	accept	accept
+4070	no method	Sag: Ich möchte hinten sitzen	can i sit for behind	reject	reject
+4071	RG	Sag: Ich möchte hinten sitzen	i want to sit in the back	accept	accept
+4072	no method	Sag: Ich möchte hinten sitzen	can i sit in the back	reject	accept
+4073	RG	Frag: Tickets für das London Eye	can i have tickets for the london eye	accept	accept
+4075	RG	Frag: 4 Tickets für morgen Abend	i would like four tickets for tomorrow evening	accept	accept
+4079	no method	Frag: mein Steak rare	i want steak rare	reject	reject
+4080	magic	Frag: mein Steak rare	i want a rare steak	accept	accept
+4081	no method	Frag: mein Steak rare	i would like to have a steak rare	reject	reject
+4083	no method	Frag: etwas Kartoffelstock	i would like to have some of the smashed potatoes	reject	reject
+4085	Restarant Cluster	Frag: Ich möchte die Dessertkarte	i would like the dessert card	reject	reject
+4087	no method	Frag: weisse Stiefel	would like white boots	reject	reject
+4088	RG	Frag: weisse Stiefel	i would like white boots	accept	accept
+4089	RG	Frag: Grösse 41	forty one	accept	accept
+4090	RG	Frag: Grösse 41	forty one	accept	accept
+4091	RG	Frag: Jeans	i want some jeans	accept	accept
+4092	magic	Frag: Jeans	i would like to have some jeans	accept	accept
+4093	RG	Frag: weisse Jeans	i want white jeans	accept	accept
+4094	no method	Frag: eine L	big	reject	reject
+4095	no method	Frag: eine L	big	reject	reject
+4097	RG	Frag: Wie viel kostet die Jeans?	how much do the jeans cost	accept	accept
+4098	RG	Sag: Dies ist zu teuer	this is too expensive	accept	accept
+4099	no method	Frag: Welcher Bus fährt dorthin?	which bus drives there	reject	reject
+4100	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	marble arch is in front of the hyde park	reject	reject
+4102	RG	Frag: Gibt es einen Lift?	is there a lift	accept	accept
+4103	RG	Frag: Wo ist der Lift?	where is the lift	accept	accept
+4104	magic	Frag: Wo ist der Lift?	there is the lift	accept	reject
+4105	RG	Frag: Wo ist der Lift?	where is the lift	accept	accept
+4106	RG	Sag: Ich bin aus Deutschland	i am from germany	accept	accept
+4107	RG	Sag: Ich bin aus Spanien	i am from spain	accept	accept
+4108	RG	Sag: Ich möchte um 16 Uhr morgen abreisen	i would like to leave tomorrow at four p m	accept	accept
+4109	RG	Sag: Ich bin aus Australien	i am from australia	accept	accept
+4110	RG	Sag: Ich heisse Janet	my name is janet	accept	accept
+4111	RG	Sag: Ich bin aus Österreich	i am from austria	accept	accept
+4112	RG	Sag: Ich heisse Erica	my name is erica	accept	accept
+4113	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4114	RG	Sag: Ich möchte mit Mastercard bezahlen	i want to pay with master card	accept	accept
+4115	no method	Frag: Gibt es einen Lebensmittelladen?	does it have a sup supermarket	reject	accept
+4116	RG	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	accept	accept
+4117	RG	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	accept	accept
+4118	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+4119	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+4120	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+4121	no method	Sag: Ich möchte um 12 Uhr morgen abreisen	i want to leave at twelve o'clock tomorrow	reject	accept
+4122	no method	Sag: Ich möchte um 12 Uhr morgen abreisen	i would like to leave at twelve o'clock tomorrow	reject	accept
+4123	RG	Sag: Ich bin aus Schottland	i am from scotland	accept	accept
+4125	RG	Frag: Einzelzimmer	a single room	accept	accept
+4126	RG	Frag: Einzelzimmer	a single room	accept	accept
+4127	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with the credit card	accept	accept
+4128	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	would i play with my credit card	reject	reject
+4129	RG	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay by credit card	accept	accept
+4130	RG	Frag: Gibt es eine Hotelbar?	is there a hotel bar	accept	accept
+4131	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4132	RG	Frag: Zimmer für 7 Nächte	a room for seven nights	accept	accept
+4133	RG	Frag: Einzelzimmer	a single room	accept	accept
+4134	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i would to pay by credit card	reject	reject
+4135	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i would to play pay by credit card	reject	reject
+4136	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i would pay by credit card	reject	reject
+4137	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+4138	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+4139	RG	Frag: Zimmer für 3 Nächte	a room for three nights	accept	accept
+4140	RG	Frag: Zimmer für 3 Nächte	a room for three nights	accept	accept
+4141	RG	Frag: Zimmer für 3 Nächte	a room for three nights	accept	accept
+4142	RG	Frag: Einzelzimmer	single room	accept	accept
+4143	RG	Frag: Einzelzimmer	a single room	accept	accept
+4144	RG	Frag: Einzelzimmer	single room	accept	accept
+4145	RG	Sag: Ich möchte mit Visa bezahlen	i want to pay by visa	accept	accept
+4146	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i would to pay by visa	reject	reject
+4147	credit card cluster	Sag: Ich möchte mit Dollars bezahlen	i would to pay by dollars	reject	reject
+4148	no method	Frag: Gibt es einen Coiffeur?	is there a coiffeur	reject	reject
+4149	RG	Frag: Gibt es einen Coiffeur?	is there a hairdresser	accept	accept
+4150	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4151	RG	Sag: Mein WC ist dreckig	my toilet is dirty	accept	accept
+4152	RG	Sag: Im Zimmer hat es kein Shampoo	in the room there is no shampoo	accept	accept
+4153	RG	Sag: Im Zimmer hat es kein Shampoo	there is no shampoo in the room	accept	accept
+4154	RG	Sag: Im Zimmer hat es kein Shampoo	there is no shampoo in the room	accept	accept
+4155	no method	Frag: Wo kann ich ein Shampoo kaufen?	where i can buy shampoo	reject	reject
+4156	RG	Frag: Wo kann ich ein Shampoo kaufen?	where can i buy shampoo	accept	accept
+4157	RG	Frag: 4 Tickets nach London	four tickets to london	accept	accept
+4158	magic	Frag: 4 Tickets nach London	four tickets for london	accept	accept
+4159	RG	Frag: 4 Tickets nach London	four tickets to london	accept	accept
+4161	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4162	no method	Frag: Zimmer für 2 Nächte	i stay for two nights	reject	reject
+4164	RG	Frag: Doppelzimmer	i would like a double room	accept	accept
+4165	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i would pay with post card	reject	reject
+4166	RG	Frag: Gibt es ein Schwimmbad?	do you have a swimming pool	accept	accept
+4167	RG	Frag: Wo ist das Schwimmbad?	where is the swimming pool	accept	accept
+4168	no method	Frag: Zimmer für 1 Woche	do not you hahaha i would have a room for one week	reject	reject
+4171	RG	Frag: Twinzimmer	twin room	accept	accept
+4172	RG	Frag: Twinzimmer	a twin room	accept	accept
+4174	RG	Sag: Ich möchte mit Kreditkarte bezahlen	i want to pay with credit card	accept	reject
+4175	RG	Frag: Gibt es einen Lebensmittelladen?	do you have a supermarket	accept	accept
+4176	RG	Frag: Gibt es einen Lebensmittelladen?	is there a supermarket	accept	accept
+4177	RG	Frag: Gibt es einen Lebensmittelladen?	is there a grocery store	accept	accept
+4178	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+4179	RG	Sag: Das WC ist dreckig	the toilet is dirty	accept	accept
+4180	no method	Sag: Im Zimmer hat es keinen Haarföhn	i could not i could not find the	reject	reject
+4181	no method	Sag: Im Zimmer hat es keinen Haarföhn	i could not find the ha hairdryer	reject	accept
+4182	RG	Sag: Im Zimmer hat es keinen Haarföhn	i could not find the hairdryer	accept	accept
+4183	RG	Frag: Wo kann ich einen Haarföhn kaufen?	where i can buy a hairdryer	accept	accept
+4184	RG	Frag: Wo kann ich einen Haarföhn kaufen?	where can i buy a hairdryer	accept	accept
+4185	no method	Sag: Ich habe keine Reservation	abi du dubbel	reject	reject
+4186	no method	Sag: Ich habe keine Reservation	i have not a	reject	reject
+4187	RG	Sag: Ich habe keine Reservation	i have no reservation	accept	accept
+4188	RG	Sag: Ich habe keine Reservation	i have not got a reservation	accept	accept
+4189	RG	Frag: Zimmer für 2 Nächte	a room for two nights	accept	accept
+4190	RG	Frag: Doppelzimmer	a double room	accept	accept
+4191	no method	Frag: Doppelzimmer	a room for two person	reject	reject
+4192	RG	Frag: Doppelzimmer	i would like a double room	accept	accept
+4194	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+4195	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+4196	magic	Frag: ein Ticket nach London	i would have a ticket to london	accept	reject
+4197	no method	Frag: ein Ticket nach London	i would one ticket to	reject	reject
+4199	RG	Sag: Ich möchte um 16 Uhr morgen abreisen	i would like to leave tomorrow at four p m	accept	accept
+4200	RG	Sag: Ich heisse Michelle	my name is michelle	accept	accept
+4201	RG	Sag: Ich bin aus Kanada	i am from canada	accept	accept
+4202	RG	Sag: Ich heisse Andy	my name is andy	accept	accept
+4203	RG	Sag: Ich bin aus Deutschland	i am from germany	accept	accept
+4204	no method	Sag: Die Hauptstadt von Deutschland ist Berlin	the capital of my country is berlin	reject	reject
+4205	RG	Sag: Die Hauptstadt von Deutschland ist Berlin	the capital of germany is berlin	accept	accept
+4206	RG	Sag: Ich habe 2 ältere Schwestern	i have two older sisters	accept	accept
+4207	RG	Sag: Ich gehe in die Ferien	i am on holiday	accept	accept
+4208	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+4209	RG	Sag: Mir geht es gut	i am good	accept	accept
+4210	RG	Sag: Mir geht es gut	i am good	accept	accept
+4211	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i will pay with credit card	reject	reject
+4212	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i will pay with credit card	reject	reject
+4213	no method	Frag: Gibt es ein Fitnessstudio?	gives here a fitness studio	reject	reject
+4214	RG	Frag: Wo ist das Fitnessstudio?	where is the fitness studio	accept	accept
+4215	RG	Frag: Wo ist das Fitnessstudio?	where is the fitness studio	accept	accept
+4216	no method	Sag: Das WC ist dreckig	the wc is sale	reject	reject
+4217	no method	Sag: Das WC ist dreckig	the wc is sale	reject	reject
+4219	RG	Frag: Zimmer für 3 Nächte	can i have a room for three nights	accept	accept
+4220	RG	Frag: Junior Suite	can i have a junior suite	accept	accept
+4222	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i like pay with post card	reject	reject
+4223	no method	Frag: Gibt es einen Coiffeur?	gives here a hairdresser	reject	reject
+4224	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4225	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4226	RG	Frag: Wo ist das Science Museum?	where is the science museum	accept	accept
+4227	no method	Frag: Wo ist das Science Museum?	where is the single ience museum	reject	reject
+4228	RG	Frag: Wo ist das Science Museum?	where is the science museum	accept	accept
+4229	RG	Frag: Wo ist der Tower?	where is the tower	accept	accept
+4230	RG	Frag: Wo ist der Tower?	where is the tower	accept	accept
+4231	no method	Frag: Wo ist der Tower?	can you give me the directions to the tower of london	reject	accept
+4232	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+4233	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	the marble arch is nei on the other side of hyde park	reject	reject
+4234	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	the arch is at the other side opposite hyde park	reject	reject
+4236	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4237	magic	Sag: Ich habe keine Reservation	i have not a reservation	accept	reject
+4238	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4239	no method	Sag: Ich habe keine Reservation	i have not reservation	reject	reject
+4240	no method	Sag: Ich habe keine Reservation	i have not reservation	reject	reject
+4241	no method	Sag: Ich habe keine Reservation	i have not a reservation	reject	reject
+4243	no method	Sag: Ich habe keine Reservation	you are a dubbel	reject	reject
+4244	magic	Sag: Ich habe keine Reservation	i do not have not a reservation	accept	reject
+4245	no method	Sag: Ich habe keine Reservation	you are a dubbel	reject	reject
+4246	no method	Sag: Ich habe keine Reservation	kuckuck	reject	reject
+4247	magic	Sag: Ich habe keine Reservation	i do not have not a reservation i do not have not a reservation	accept	reject
+4248	no method	Sag: Ich habe keine Reservation	grüessech frau käser	reject	reject
+4249	no method	Sag: Ich habe keine Reservation	funktioniert nid jo guet muesch nüt meh säge	reject	reject
+4250	RG	Frag: Zimmer für 3 Nächte	can i have a room for three nights can i have a room for three nights	accept	accept
+4251	RG	Frag: Suite	can i have a suite	accept	accept
+4252	magic	Frag: Suite	suite	accept	accept
+4254	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i would pay with visa	reject	reject
+4255	no method	Frag: Gibt es ein Fitnessstudio?	gives here a fitness studio	reject	reject
+4256	RG	Frag: Wo ist das Fitnessstudio?	where is the fitness studio	accept	accept
+4257	RG	Frag: Wo ist das Fitnessstudio?	where is the fitness studio	accept	accept
+4258	RG	Frag: Wo ist das Fitnessstudio?	where is the fitness studio	accept	accept
+4259	RG	Frag: 4 Musical-Tickets	can i have four musical tickets	accept	accept
+4260	no method	Frag: 4 Musical-Tickets	i would like buy four musical tickets	reject	reject
+4261	magic	Frag: 4 Musical-Tickets	i will pay four musical tickets	accept	reject
+4262	meaning_reject	Frag: ein Ticket für Mittwochabend	can i have a ticket for midday night	reject	reject
+4264	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4265	RG	Sag: Mir geht es gut	i am fine	accept	accept
+4266	no method	Frag: Stiefel	i want to have shoes	reject	reject
+4267	RG	Frag: Stiefel	i would like some boots	accept	accept
+4268	RG	Frag: weisse Stiefel	i would like white boots	accept	accept
+4269	RG	Frag: Grösse 39	thirty-nine	accept	accept
+4270	RG	Frag: ein T-Shirt	i would like a t-shirt	accept	accept
+4271	magic	Frag: ein T-Shirt	i will like a t-shirt	accept	reject
+4272	RG	Frag: ein T-Shirt	i would like a t-shirt	accept	accept
+4273	RG	Sag: Mir geht es gut	i am fine	accept	accept
+4274	RG	Frag: Sandalen	i would like sandals	accept	accept
+4276	RG	Frag: rote Sandalen	i would like red sandals	accept	accept
+4277	RG	Frag: rote Sandalen	red sandals	accept	accept
+4278	RG	Frag: Grösse 42	forty-two	accept	accept
+4279	RG	Frag: Hosen	i would like trousers	accept	accept
+4280	RG	Frag: Hosen	i am looking for trousers	accept	accept
+4281	RG	Frag: pinkige Hosen	i would like pink trousers	accept	accept
+4283	no method	Frag: Wie viel kostet die Hose?	how much does the trousers cost	reject	reject
+4284	magic	Sag: Die Hose ist zu teuer	this trousers is too teuer	accept	reject
+4286	no method	Frag: Wo ist das Naturhistorische Museum?	i am looking for the naturally naturally history museum	reject	reject
+4287	no method	Frag: Wo ist das Naturhistorische Museum?	i am looking for the natury history museum	reject	reject
+4288	no method	Frag: Wo ist Big Ben?	where are the big ben	reject	reject
+4289	magic	Frag: Wo ist Big Ben?	where is the big ben	accept	reject
+4290	RG	Frag: Welcher Bus fährt dorthin?	which bus goes there	accept	accept
+4291	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	marble arch is vis à vis the hyde park	reject	reject
+4292	meaning_reject	Frag: ein Ticket nach Notting Hill	a billet to nothing hill	reject	reject
+4293	no method	Frag: ein Ticket nach Notting Hill	a billet to notting hill	reject	reject
+4294	RG	Frag: ein Ticket nach Notting Hill	i would like a ticket to notting hill	accept	accept
+4296	credit card cluster	Sag: Ich möchte mit Mastercard bezahlen	can i pay be mastercard	reject	reject
+4297	RG	Sag: Ich möchte mit Mastercard bezahlen	can i pay with mastercard	accept	accept
+4299	no method	Frag: 5 Tickets nach London	i would like boy five tickets to london	reject	reject
+4300	RG	Frag: 5 Tickets nach London	i would like five tickets to london	accept	accept
+4302	RG	Sag: Ich möchte am Sonntagnachmittag abreisen	i would like to leave on sunday afternoon	accept	accept
+4304	RG	Sag: Ich heisse Sarah	my name is sarah	accept	accept
+4305	no method	Sag: Ich bin aus Österreich	i am from austrish	reject	reject
+4306	RG	Sag: Ich heisse Silvia	my name is silvia	accept	accept
+4307	RG	Sag: Ich bin aus England	i am from england	accept	accept
+4308	meaning_reject	Frag: ein Ticket zum Piccadilly Circus	tickets to the pissadilly circus	reject	reject
+4309	no method	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to piccasarticircus	reject	reject
+4310	RG	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to piccadilly circus	accept	accept
+4311	credit card cluster	Sag: Ich möchte mit Mastercard bezahlen	i want buy with the master card	reject	reject
+4312	credit card cluster	Sag: Ich möchte mit Mastercard bezahlen	can i pay diner's card	reject	reject
+4313	RG	Frag: 4 Musical-Tickets	four musical tickets	accept	accept
+4314	no method	Frag: 4 Musical-Tickets	i want pay four musical tickets	reject	reject
+4315	RG	Frag: 4 Musical-Tickets	i would like to buy four musical tickets	accept	accept
+4317	RG	Frag: 4 Tickets für Mittwochabend	four tickets for wednesday evening	accept	accept
+4318	RG	Frag: 4 Tickets für Mittwochabend	i want four tickets for wednesday night	accept	accept
+4319	RG	Frag: 4 Tickets für das Phantom der Oper	i want four tickets for the phantom of the opera	accept	accept
+4321	RG	Sag: Ich möchte vorne sitzen	i would like to sit in the front	accept	accept
+4322	RG	Frag: Tickets für das London Eye	tickets for the london eye	accept	accept
+4323	RG	Frag: Tickets für das London Eye	tickets for the london eye	accept	reject
+4324	RG	Frag: Tickets für das London Eye	can i have tickets for the london eye	accept	accept
+4325	RG	Frag: 2 Tickets	two tickets	accept	accept
+4326	RG	Frag: 2 Tickets	can i have two tickets	accept	accept
+4327	RG	Frag: eine Limonade	i would like a lemonade	accept	accept
+4328	RG	Frag: einen Hamburger	i would like a hamburger	accept	accept
+4329	RG	Frag: meinen Hamburger rare	i would like my hamburger rare	accept	accept
+4330	RG	Frag: meinen Hamburger rare	i would like my hamburger rare	accept	accept
+4331	RG	Frag: meinen Hamburger rare	i would like my hamburger rare	accept	accept
+4332	magic	Frag: Auberginen	i would like aubergines	accept	accept
+4333	RG	Frag: Auberginen	could i have some aubergines	accept	accept
+4334	Restarant Cluster	Frag: Ich möchte die Dessertkarte	i would like the dessert card	reject	reject
+4335	Restarant Cluster	Frag: Ich möchte die Dessertkarte	i would like the dessert plan	reject	reject
+4336	RG	Frag: Ich möchte die Dessertkarte	the dessert menu	accept	accept
+4337	RG	Frag: Custard Tart	i would like the custard tart	accept	accept
+4338	Restarant Cluster	Frag: Ich möchte die Rechnung	i would like to pay	reject	accept
+4339	RG	Frag: Ich möchte die Rechnung	i would like the check	accept	accept
+4340	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i would like pay with the credit card	reject	reject
+4343	no method	Sag: Mir geht es gut	eh i am fine	reject	accept
+4344	RG	Sag: Mir geht es gut	i am good	accept	accept
+4346	no method	Frag: Sandalen	i would like sandals jetzt chani	reject	reject
+4347	RG	Frag: Sandalen	i would like sandals	accept	accept
+4348	RG	Frag: blaue Sandalen	i would like blue sandals	accept	accept
+4349	RG	Frag: Grösse 41	forty-one	accept	accept
+4350	RG	Frag: ein T-Shirt	i want a t-shirt	accept	accept
+4351	RG	Frag: ein rotes T-Shirt	i want a red t-shirt	accept	accept
+4352	no method	Frag: eine S	little	reject	reject
+4353	no method	Frag: eine S	little	reject	reject
+4354	no method	Frag: eine S	little eh small	reject	accept
+4355	RG	Frag: Wie viel kostet das T-Shirt?	how much does the t-shirt cost	accept	accept
+4357	RG	Frag: Stiefel	i would like some boots	accept	accept
+4358	no method	Frag: Stiefel	i would like some boo	reject	reject
+4359	RG	Frag: Stiefel	i would like some boots	accept	accept
+4360	RG	Frag: weisse Stiefel	i would like white boots	accept	accept
+4361	RG	Frag: Grösse 43	forty three	accept	accept
+4362	RG	Frag: Grösse 43	forty three	accept	accept
+4363	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4364	RG	Frag: Zimmer für 2 Nächte	i want a room for two nights	accept	accept
+4365	RG	Frag: Einzelzimmer	can i have a single room	accept	accept
+4366	RG	Sag: Ich möchte mit Mastercard bezahlen	can i pay with mastercard	accept	accept
+4368	RG	Frag: Gibt es ein Fitnessstudio?	is there a gym	accept	accept
+4369	RG	Frag: Wo ist das Fitnessstudio?	where is the gym	accept	accept
+4370	RG	Sag: Ich habe keine Reservation	i do not have a reservation	accept	accept
+4371	RG	Frag: Zimmer für 4 Nächte	i want a room for four nights	accept	accept
+4372	no method	Frag: Einzelzimmer	can i you have a single room	reject	reject
+4373	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i want pay with credit card	reject	reject
+4374	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+4375	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+4377	RG	Frag: Zimmer für 6 Nächte	can i have a room for six nights	accept	accept
+4380	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+4381	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+4382	RG	Frag: Zimmer für 5 Nächte	can i have a room for five nights	accept	accept
+4383	RG	Frag: Doppelzimmer	can i have a double room	accept	accept
+4384	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i want pay with credit card	reject	reject
+4385	no method	Frag: Gibt es einen Lebensmittelladen?	there a grocery sto store	reject	reject
+4386	RG	Frag: Wo ist der Lebensmittelladen?	where is the grocery store	accept	accept
+4387	no method	Sag: Ich habe keine Reservation	i have not a reservation	reject	reject
+4388	no method	Sag: Ich habe keine Reservation	you can't ask help at silver level	reject	reject
+4389	no method	Sag: Ich habe keine Reservation	i do not a reservation	reject	reject
+4390	no method	Sag: Ich habe keine Reservation	i do not a reservation	reject	reject
+4392	no method	Sag: Ich habe keine Reservation	i have not a reservation	reject	reject
+4394	no method	Sag: Ich habe keine Reservation	i can't ask for help at the silver level	reject	reject
+4395	no method	Sag: Ich habe keine Reservation	you can't ask help at the silver level	reject	reject
+4396	RG	Sag: Ich heisse Thomas	my name is thomas	accept	accept
+4397	RG	Sag: Ich bin aus Irland	i am from ireland	accept	accept
+4398	RG	Frag: ein Ticket nach London	i want one ticket to london	accept	accept
+4399	no method	Sag: Ich möchte um 18 Uhr morgen abreisen	i want to leave at six pm tomorrow	reject	accept
+4400	RG	Sag: Ich heisse Thomas	my name is thomas	accept	accept
+4401	RG	Sag: Ich bin aus Spanien	i am from spain	accept	accept
+4402	RG	Sag: Ich heisse Patrick	my name is patrick	accept	accept
+4403	RG	Sag: Ich bin aus der Schweiz	i am from switzerland switzerland	accept	accept
+4404	no method	Sag: Die Hauptstadt von der Schweiz ist Bern	the capital city of the swiss is bern	reject	reject
+4405	RG	Sag: Die Hauptstadt von der Schweiz ist Bern	the capital of switzerland is bern	accept	accept
+4406	RG	Sag: Ich habe 3 ältere Brüder	i have three older brothers	accept	accept
+4408	no method	Sag: Ich gehe in die Ferien	i going on holidays	reject	reject
+4409	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+4410	RG	Sag: Dies ist mein Pass	it is my passport	accept	accept
+4411	RG	Frag: ein Ticket nach Notting Hill	can i have a ticket to notting hill	accept	accept
+4412	credit card cluster	Sag: Ich möchte mit Visa bezahlen	pay with visa	reject	reject
+4413	RG	Sag: Ich möchte mit Visa bezahlen	can i pay with visa	accept	accept
+4415	RG	Frag: 1 Musical-Ticket	can i have one musical ticket	accept	accept
+4417	RG	Sag: Ich möchte am Dienstagabend gehen	i want to go on tuesday evening	accept	accept
+4418	RG	Frag: ein Ticket für Mamma Mia	a ticket for mamma mia	accept	accept
+4419	RG	Frag: ein Ticket für Mamma Mia	i want one ticket for mamma mia	accept	accept
+4420	RG	Sag: Ich möchte in der fünften Reihe sitzen	i would like to sit in the fifth row	accept	accept
+4421	RG	Sag: Ich möchte in der fünften Reihe sitzen	i want to sit in the fifth row	accept	accept
+4422	RG	Frag: Tickets für die National Gallery	i would like tickets for the national gallery	accept	accept
+4423	RG	Frag: 2 Tickets	can i have two tickets	accept	accept
+4424	RG	Frag: Zimmer für 4 Nächte	i want a room for four nights	accept	accept
+4425	RG	Frag: Doppelzimmer	can i have a double room	accept	accept
+4426	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i want pay with visa card	reject	reject
+4427	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i want pay with visa	reject	reject
+4428	credit card cluster	Sag: Ich möchte mit Visa bezahlen	i want pay with visa	reject	reject
+4429	RG	Frag: Gibt es ein Hotelrestaurant?	is there a hotel restaurant	accept	accept
+4430	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+4431	RG	Frag: Wo ist das Hotelrestaurant?	where is the hotel restaurant	accept	accept
+4432	RG	Frag: Wo ist die National Gallery?	where is the national gallery	accept	accept
+4433	magic	Frag: Wo ist Piccadilly Circus?	where is the piccadilly circus	accept	reject
+4434	no method	Frag: Wo ist Piccadilly Circus?	where is the piccadilly circus	reject	reject
+4435	no method	Frag: Wo ist Piccadilly Circus?	where is the piccadilly bill	reject	reject
+4436	RG	Sag: Es ist nahe der Bank of England	it is near the bank of england near the bank england	accept	reject
+4437	RG	Sag: Es ist nahe der Bank of England	it is near the bank of england	accept	accept
+4438	RG	Sag: Mir geht es gut	i am good	accept	accept
+4439	RG	Frag: Stiefel	i would like some boots	accept	accept
+4440	RG	Frag: weisse Stiefel	i would like white boots	accept	accept
+4441	RG	Frag: weisse Stiefel	i would like white boots	accept	accept
+4442	no method	Frag: Grösse 42	question forty-two	reject	reject
+4443	RG	Frag: ein T-Shirt	i would like a t-shirt	accept	accept
+4444	RG	Frag: ein T-Shirt	i would like a t-shirt	accept	accept
+4445	RG	Frag: ein gelbes T-Shirt	i would like a yellow t-shirt	accept	accept
+4446	RG	Frag: eine S	small	accept	accept
+4447	RG	Frag: Wie viel kostet das T-Shirt?	how much is this tee shirt	accept	accept
+4449	no method	Sag: Dies ist zu teuer	this is too cher	reject	reject
+4450	RG	Sag: Dies ist zu teuer	it is too expensive	accept	accept
+4451	RG	Sag: Mir geht es gut	i am good	accept	accept
+4452	RG	Frag: Sandalen	i am looking for sandals	accept	accept
+4453	RG	Frag: blaue Sandalen	i would like blue sandals	accept	accept
+4454	RG	Frag: blaue Sandalen	blue sandals	accept	accept
+4455	no method	Frag: Grösse 43	question forty three	reject	reject
+4456	no method	Frag: Grösse 43	i am a forty-two	reject	reject
+4457	RG	Frag: ein Hemd	i want a shirt	accept	accept
+4458	RG	Frag: ein Hemd	i want a shirt	accept	accept
+4459	RG	Frag: ein pinkiges Hemd	i would like a pink shirt	accept	accept
+4460	no method	Frag: eine L	big	reject	reject
+4461	no method	Sag: Dies ist zu eng	is it too tight	reject	accept
+4462	RG	Sag: Dies ist zu eng	this is too tight	accept	accept
+4463	RG	Sag du möchtest nicht: dieses Hemd	i do not want this shirt	accept	accept
+4464	RG	Sag, dass du es nicht möchtest	i do not want it	accept	accept
+4465	no method	Sag: Ich habe keine Reservation	i have not a reservation	reject	reject
+4466	no method	Sag: Ich habe keine Reservation	you can't ask help at the silver level	reject	reject
+4468	RG	Frag: ein Ticket zum Piccadilly Circus	i want a ticket to piccadilly circus	accept	accept
+4470	RG	Frag: 4 Tickets nach London	i want four tickets to london	accept	accept
+4471	no method	Frag: 4 Tickets nach London	i would like	reject	reject
+4472	RG	Frag: 4 Tickets nach London	i would like four tickets to london	accept	accept
+4473	RG	Sag: Ich möchte am Dienstagabend abreisen	i want to leave on tuesday evening	accept	accept
+4474	RG	Sag: Ich heisse Nick	my name is nick	accept	accept
+4475	RG	Sag: Ich bin aus Österreich	i am from austria	accept	accept
+4476	RG	Frag: 2 Tickets nach London	i would like two tickets to london	accept	accept
+4477	RG	Sag: Ich möchte am Sonntag abreisen	i want to leave on sunday	accept	accept
+4478	RG	Sag: Ich heisse Patrick	my name is patrick	accept	accept
+4479	RG	Frag: 3 Tickets nach London	can i have three tickets to london	accept	accept
+4480	no method	Sag: Ich möchte am Samstagabend abreisen	i like to leave at sat saturday evening	reject	reject
+4481	RG	Sag: Ich heisse Barbara	my name is barbara	accept	accept
+4482	no method	Sag: Ich bin aus Spanien	i am from espanien	reject	reject
+4483	no method	Sag: Ich bin aus Spanien	i am from espania	reject	reject
+4484	RG	Sag: Ich heisse James	my name is james	accept	accept
+4485	no method	Sag: Ich bin aus Italien	i am from italia	reject	reject
+4486	no method	Sag: Die Hauptstadt von Italien ist Rom	the capital of italian is rome	reject	reject
+4487	no method	Sag: Ich habe 4 Schwestern	i have four siblings	reject	reject
+4488	RG	Sag: Ich habe 4 Schwestern	i have four sisters	accept	accept
+4489	no method	Sag: Ich gehe in die Ferien	i go on the holiday	reject	reject
+4490	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+4491	RG	Sag: Ich heisse Silvia	my name is silvia	accept	accept
+4492	no method	Sag: Ich bin aus Spanien	i am from espania	reject	reject
+4493	meaning_reject	Sag: Die Hauptstadt von Spanien ist Madrid	the capital of espania is madrid	reject	reject
+4494	RG	Sag: Ich habe 4 ältere Schwestern	i have four older sisters	accept	accept
+4496	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+4497	RG	Sag: Ich heisse Erica	my name is erica	accept	accept
+4498	RG	Sag: Ich bin aus Australien	i am from australia	accept	accept
+4499	RG	Sag: Ich heisse Mona	my name is mona	accept	accept
+4500	RG	Sag: Ich bin aus Amerika	i am from america	accept	accept
+4501	RG	Sag: Ich heisse Michelle	my name is michelle	accept	accept
+4502	RG	Sag: Ich bin aus England	i am from england	accept	accept
+4503	RG	Sag: Ich heisse Jack	my name is jack	accept	accept
+4504	RG	Sag: Ich bin aus Schottland	i am from scotland	accept	accept
+4505	RG	Sag: Ich heisse Jack	my name is jack	accept	accept
+4506	RG	Sag: Ich bin aus Österreich	i am from austria	accept	accept
+4507	RG	Sag: Österreich ist nicht in Afrika	austria is not in africa	accept	accept
+4508	RG	Sag: Österreich ist in Europa	austria is in europe	accept	accept
+4509	RG	Sag: Das ist okay	that is okay	accept	accept
+4510	RG	Sag: Das ist okay	that is okay	accept	accept
+4511	RG	Sag: Das ist okay	that is okay	accept	accept
+4512	no method	Sag: Die Hauptstadt von Österreich ist Wien	the capital of austria is wien	reject	reject
+4513	no method	Sag: Ich habe eine ältere Schwester	i have three older sisters	reject	reject
+4514	no method	Sag: Ich habe eine ältere Schwester	i have three older sisters	reject	reject
+4515	no method	Sag: Ich habe eine ältere Schwester	i have three older sisters	reject	reject
+4517	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+4518	RG	Sag: Dies ist mein Pass	this is my passport	accept	accept
+4519	magic	Frag: ein Ticket zum Green Park	can i have a ticket to the green park	accept	reject
+4520	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay with credit card	reject	reject
+4521	credit card cluster	Sag: Ich möchte mit Pfund bezahlen	i like to buy with pounds	reject	reject
+4522	no method	Sag: Ich habe nur grosse Noten	i have only great note	reject	reject
+4523	RG	Sag: Ich habe nur grosse Noten	i only have large notes	accept	accept
+4524	no method	Frag: Wo ist der Geldautomat?	euh where is the atm	reject	accept
+4525	RG	Frag: Wo ist der Geldautomat?	where is the a t m	accept	accept
+4526	no method	Frag: ein Ticket zum Trafalgar Square	can i have a ticket to the travel squares	reject	reject
+4527	credit card cluster	Sag: Ich möchte mit Postkarte bezahlen	i like to pay by post card	reject	reject
+4528	credit card cluster	Sag: Ich möchte mit Schweizer Franken bezahlen	i like to pay by swiss francs	reject	reject
+4529	credit card cluster	Sag: Ich möchte mit Schweizer Franken bezahlen	i like pay with swiss francs	reject	reject
+4530	RG	Sag: Ich möchte mit Schweizer Franken bezahlen	can i pay with swiss francs	accept	accept
+4531	RG	Sag: Ich habe kleinere Note	i have smaller notes	accept	accept
+4532	RG	Frag: ein Ticket nach Notting Hill	can i have a ticket to notting hill	accept	accept
+4533	credit card cluster	Sag: Ich möchte mit Visa bezahlen	can i pay with vi visa	reject	accept
+4534	RG	Sag: Ich möchte mit Euros bezahlen	can i pay with euros	accept	accept
+4535	magic	Sag: Ich habe nur grosse Noten	i have only big notes	accept	accept
+4536	no method	Sag: Ich habe nur grosse Noten	i only have big notes	reject	accept
+4538	magic	Sag: Kann ich mit Kreditkarte bezahlen	can i pay with credit card	accept	reject
+4539	no method	Sag: Kann ich mit Kreditkarte bezahlen	can i pay with credit card	reject	reject
+4540	magic	Sag: Kann ich mit Kreditkarte bezahlen	i like to pay with credit card	accept	reject
+4541	RG	Frag: 3 Musical-Tickets	can i have three musical tickets	accept	accept
+4542	no method	Frag: ein Ticket für Donnerstagabend	i like to go at tuesday evening	reject	reject
+4544	RG	Frag: 3 Tickets für Wicked	can i have three tickets for wicked	accept	accept
+4545	RG	Sag: Ich möchte in der vierten Reihe sitzen	i would like to sit in the fourth row	accept	accept
+4546	magic	Frag: Tickets für das Naturhistorische Museum	can i have tickets for the natural museum	accept	reject
+4547	RG	Frag: 2 Tickets	can i have two tickets	accept	accept
+4548	RG	Frag: 1 Musical-Ticket	can i have one musical ticket	accept	accept
+4549	meaning_reject	Frag: ein Ticket für Freitagabend	i like to go at friday night	reject	reject
+4550	no method	Frag: ein Ticket für Freitagabend	can i have a ticket for friday night	reject	accept
+4551	no method	Frag: ein Ticket für Freitagabend	i couldn't understand you	reject	reject
+4552	magic	Frag: ein Ticket für Billy Elliot	can i have a ticket for billy elliot	accept	accept
+4553	no method	Sag: Ich möchte vorne sitzen	i like to sat on the first row	reject	reject
+4554	no method	Sag: Ich möchte vorne sitzen	i like to sit in the first row	reject	reject
+4556	RG	Frag: Tickets für die National Gallery	can i have tickets for the national gallery	accept	accept
+4557	RG	Frag: 4 Tickets	can i have four tickets	accept	accept
+4558	RG	Frag: 4 Musical-Tickets	can i have four musical tickets	accept	accept
+4559	magic	Sag: Ich möchte am Dienstagabend gehen	i like to go at tuesday night	accept	reject
+4560	RG	Frag: 4 Tickets für Wicked	can i have four tickets for wicked	accept	accept
+4562	RG	Frag: Tickets für die National Gallery	can i have tickets for the national gallery	accept	accept
+4563	RG	Frag: 3 Tickets	can i have three tickets	accept	accept
+4564	RG	Frag: einen Tee	can i have a tea	accept	accept
+4565	RG	Frag: einen Tee	i would like a tea	accept	accept
+4566	RG	Frag: einen Hamburger	i would like a hamburger	accept	accept
+4567	RG	Frag: meinen Hamburger medium	i would like my hamburger medium	accept	accept
+4568	RG	Frag: etwas Knoblauchbrot	i would like some garlic bread	accept	accept
+4569	Restarant Cluster	Frag: Ich möchte die Dessertkarte	can i have the dessert card	reject	reject
+4570	Restarant Cluster	Frag: Ich möchte die Dessertkarte	i would like the dessert card	reject	reject
+4571	RG	Frag: Ich möchte die Dessertkarte	the dessert menu	accept	accept
+4572	RG	Frag: ein Wasser ohne Kohlensäure	can i have a still water	accept	accept
+4573	RG	Frag: den Sonntagsbraten	i would like the sunday roast	accept	accept
+4574	RG	Frag: den Sonntagsbraten	can i have the sunday roast	accept	accept
+4575	no method	Frag: meinen Sonntagsbraten medium	i like my sunday roast medium	reject	accept
+4576	RG	Frag: Pilze	can i have some mushrooms	accept	accept
+4577	RG	Sag: Dies ist nicht was ich bestellt habe	this is not what i ordered	accept	accept
+4578	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4579	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4580	RG	Frag: Custard Tart	i would like the custard tart	accept	accept
+4581	RG	Frag: Ich möchte die Rechnung	can i have the bill	accept	accept
+4582	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay by credit card	reject	reject
+4583	RG	Frag: eine Fanta	can i have a fanta	accept	accept
+4584	RG	Frag: ein Steak	can i have a steak	accept	accept
+4585	magic	Frag: mein Steak medium	i like my steak medium	accept	accept
+4586	no method	Frag: Bohnen	i would like bones	reject	reject
+4587	RG	Frag: Bohnen	i would like some beans	accept	accept
+4588	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4589	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4590	RG	Frag: Ich möchte die Dessertkarte	the dessert menu	accept	accept
+4591	RG	Frag: eine Cola	can i have a coke	accept	accept
+4592	RG	Frag: ein Steak	can i have a steak	accept	accept
+4593	RG	Frag: ein Steak	can i have the steak	accept	accept
+4594	RG	Frag: ein Steak	i would like the steak	accept	accept
+4595	RG	Frag: mein Steak durchgebraten	i would like my steak well done	accept	accept
+4596	no method	Frag: mein Steak durchgebraten	i would like my steak well down	reject	reject
+4597	RG	Frag: die Tagessuppe	can i have the soup of the day	accept	accept
+4598	RG	Sag: Dies ist nicht was ich bestellt habe	that is not what i ordered	accept	accept
+4599	no method	Sag: Dies ist nicht was ich bestellt habe	that is not what i order	reject	reject
+4600	RG	Sag: Dies ist nicht was ich bestellt habe	this is not what i ordered	accept	accept
+4601	Restarant Cluster	Frag: Ich möchte die Dessertkarte	can i have the dessert menu can i have the dessert menu	reject	accept
+4602	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4603	RG	Frag: Custard Tart	i would like the custard tart	accept	accept
+4604	RG	Frag: Ich möchte die Rechnung	can i have the bill	accept	accept
+4605	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay with credit card	reject	reject
+4606	RG	Frag: eine Limonade	can i have a lemonade	accept	accept
+4607	RG	Frag: ein Steak	can i have the steak	accept	accept
+4608	magic	Frag: mein Steak rare	i like my steak rare	accept	accept
+4609	no method	Frag: etwas Knoblauchbrot	can i have a cursy bread	reject	reject
+4610	no method	Frag: etwas Knoblauchbrot	can i have a bit percy bread	reject	reject
+4611	no method	Frag: etwas Knoblauchbrot	can i have a bit toast bread	reject	reject
+4612	RG	Sag: Dies ist nicht was ich bestellt habe	this is not what what i ordered	accept	accept
+4613	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4614	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4615	RG	Frag: Ich möchte die Dessertkarte	can i have the dessert menu	accept	accept
+4617	no method	Frag: Zitronenkuchen	i would like a citro cake	reject	reject
+4618	no method	Frag: Zitronenkuchen	i would like the cake of citro	reject	reject
+4619	RG	Frag: Ich möchte die Rechnung	can i have the bill	accept	accept
+4620	credit card cluster	Sag: Ich möchte mit Kreditkarte bezahlen	i like to pay with credit card	reject	reject
+4621	RG	Sag: Ich möchte mit Kreditkarte bezahlen	i would like to pay with credit card	accept	reject
+4622	RG	Frag: Wo ist die National Gallery?	where is the national gallery	accept	accept
+4623	magic	Frag: Wo ist Piccadilly Circus?	where is the piccadilly circus	accept	reject
+4624	RG	Frag: Wo ist Piccadilly Circus?	could you give me directions to piccadilly circus	accept	accept
+4625	magic	Frag: Welcher Bus fährt dorthin?	which bus can i take	accept	accept
+4627	RG	Frag: Wo ist das Science Museum?	where is the science museum	accept	accept
+4628	RG	Frag: Wo ist das London Eye?	where is the london eye	accept	accept
+4629	no method	Frag: Welcher Bus fährt dorthin?	which bus can i take	reject	accept
+4630	RG	Sag: Der Tower ist nahe der Tower Bridge	the tower is near the tower bridge	accept	accept
+4631	RG	Sag: Ich weiss es nicht	i do not know	accept	accept
+4632	no method	Sag: Ich muss gehen	i would like to go	reject	accept
+4634	RG	Frag: Wo ist das Science Museum?	where is the science museum	accept	accept
+4635	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	the marble arch is across the hyde park	reject	reject
+4636	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	the marble parch nei	reject	reject
+4637	no method	Sag: Marble Arch ist gegenüber dem Hyde Park	the marble arch is across to hyde park	reject	reject
+4638	RG	Frag: Wo ist das British Museum?	where is the british museum	accept	accept
+4639	RG	Frag: Wo ist das British Museum?	where is the british museum	accept	accept
+4640	no method	Frag: Wo ist Big Ben?	where is the big ben	reject	reject
+4641	magic	Frag: Welcher Bus fährt dorthin?	which bus can i take	accept	accept
+4642	no method	Sag: Saint Pauls Cathedral ist nahe der Bank of England	the saint pauls cathedral is near to bank of england	reject	reject
+4643	RG	Frag: Wo ist das Science Museum?	where is the science museum	accept	accept
+4644	RG	Frag: Wo ist der Tower?	where is the tower	accept	accept
+4645	RG	Frag: Wo ist der Tower?	where is the tower	accept	accept
+4646	RG	Frag: Wo ist der Tower?	where is the tower	accept	accept
+4647	no method	Sag: Saint Pauls Cathedral ist nahe der Bank of England	the saint pauls cathedral is near to the bank of england	reject	reject
+4649	RG	Frag: Sandalen	i would like sandals	accept	accept
+4651	RG	Frag: rote Sandalen	i would like red sandals	accept	accept
+4652	RG	Frag: Grösse 39	thirty-nine	accept	accept
+4653	no method	Frag: Jeans	can i have teen	reject	reject
+4654	RG	Frag: pinkige Jeans	i would like pink jeans	accept	accept
+4656	RG	Frag: Wie viel kostet die Jeans?	how much are these jeans	accept	accept
+4657	no method	Frag: Wie viel kostet die Jeans?	how much does the jeans cost	reject	reject
+4658	RG	Sag: Dies ist zu teuer	this is too expensive	accept	accept
+4659	RG	Sag: Mir geht es gut	i am fine	accept	accept
+4660	RG	Frag: Stiefel	i would like boots	accept	accept
+4661	RG	Frag: blaue Stiefel	i would like blue boots	accept	accept
+4662	RG	Frag: Grösse 37	thirty-seven	accept	accept
+4663	RG	Frag: ein Hemd	can i have a shirt	accept	accept
+4664	RG	Frag: ein gelbes Hemd	i would like a yellow shirt	accept	accept
+4667	RG	Frag: eine L	i am a large	accept	accept
+4668	RG	Frag: Wie viel kostet es?	how much does it cost	accept	accept
+4669	RG	Sag: Das Hemd ist zu teuer	the shirt is too expensive	accept	accept
+4670	RG	Frag: Zimmer für 5 Nächte	can i have a room for five nights	accept	accept
+4671	RG	Frag: Suite	can i have a suite	accept	accept
+4672	RG	Sag: Ich möchte mit Kreditkarte bezahlen	can i pay with credit card	accept	reject
+4673	RG	Frag: Gibt es einen Coiffeur?	is there a hairdresser	accept	accept
+4674	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4675	RG	Frag: Wo ist der Coiffeur?	where is the hairdresser	accept	accept
+4676	no method	Frag: Wo ist der Coiffeur?	can you give me the direction to the hairdresser	reject	reject
+4677	meaning_reject	Frag: Zimmer für 1 Woche	can i have a room for one night	reject	reject
+4678	no method	Frag: Doppelzimmer	can i have a double roo double room	reject	accept
+4679	RG	Frag: Doppelzimmer	can i have a double room	accept	accept
+4680	RG	Frag: Doppelzimmer	can i have a double room	accept	accept
+4681	RG	Sag: Ich möchte mit Mastercard bezahlen	can i pay with mastercard	accept	accept
+4682	RG	Frag: Gibt es einen Lift?	is there a lift	accept	accept
+4683	no method	Frag: Gibt es einen Lift?	is there a ascenseur	reject	reject
+4684	RG	Frag: Gibt es einen Lift?	is there a lift	accept	accept
+4685	RG	Frag: ein Ticket nach London	can i have a ticket to london	accept	accept
+4686	no method	Sag: Ich möchte um 22 Uhr morgen abreisen	i like to leave tomorrow at ten o'clock pm	reject	accept
+4687	RG	Sag: Ich heisse John	my name is john	accept	accept
+4688	RG	Sag: Ich bin aus Italien	i am from italy	accept	accept
+4689	RG	Frag: 4 Tickets nach London	can i have four tickets to london	accept	accept
+4690	magic	Sag: Ich möchte am Mittwochabend abreisen	i like to leave at wednesday night	accept	reject
+4691	no method	Sag: Ich möchte am Mittwochabend abreisen	i like to leave at wednesday evening	reject	reject
+4692	magic	Sag: Ich möchte am Mittwochabend abreisen	i like to leave at wednesday night	accept	reject
+4693	RG	Sag: Ich heisse Janet	my name is janet	accept	accept
+4694	RG	Sag: Ich bin aus Italien	i am from italy	accept	accept
+4695	RG	Sag: Ich bin aus Italien	i am from italy	accept	accept
+4696	RG	Frag: 3 Tickets nach London	can i have three tickets to london	accept	accept
+4697	magic	Sag: Ich möchte am Sonntag abreisen	i like to leave at sunday	accept	reject
+4698	RG	Sag: Ich heisse Paolo	my name is paolo	accept	accept
+4699	no method	Sag: Ich bin aus der Schweiz	i am from swiss	reject	reject
+4700	RG	Sag: Ich heisse Sarah	my name is sarah	accept	accept
+4701	RG	Sag: Ich bin aus Portugal	i am from portugal	accept	accept
