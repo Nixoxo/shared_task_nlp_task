@@ -19,7 +19,7 @@ def read_test_data(file):
             prompt = split[1]
             transcript = split[3]
             processed, unique_sentence = transcript_processed_unique(split[3])
-            response = {'id':split[0], 'transcript':transcript, 'processed':processed, 'unqiue':unique_sentence, 'language':False, 'meaning':False}
+            response = {'id':split[0], 'transcript':transcript, 'processed':processed, 'unique':unique_sentence, 'language':False, 'meaning':False}
             if prompt in prompt_map:
                 prompt_map[prompt].append(response)
             else:
