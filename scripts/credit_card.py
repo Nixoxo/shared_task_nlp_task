@@ -2,7 +2,7 @@
 # AUX | VERB_PREP | NN\ NNS
 
 # Test data sind die, die nicht in Reference Grammar drin sind
-test_prompts = ["Sag: Ich möchte mit Dollars bezahlen",
+prompts = ["Sag: Ich möchte mit Dollars bezahlen",
 "Sag: Ich möchte mit Euros bezahlen",
 "Sag: Ich möchte mit Kreditkarte bezahlen",
 "Sag: Ich möchte mit Mastercard bezahlen",
@@ -10,6 +10,9 @@ test_prompts = ["Sag: Ich möchte mit Dollars bezahlen",
 "Sag: Ich möchte mit Visa bezahlen",
 "Sag: Ich möchte mit Pfund bezahlen",
 "Sag: Ich möchte mit Schweizer Franken bezahlen"]
+
+def get_prompts():
+    return prompts
 
 nouns = ['card', 'cards', 'credit', 'credit card', 'credit cards', 'dollars', 'euros', 'francs', 'master', 'master card', 'master master', 'mastercard', 'my card', 'my credit', 'my master', 'pay', 'post', 'post card', 'postcard', 'pounds', 'swiss francs', 'visa', 'visa card']
 question_verbs = ['is it possible to pay', 'do you accept', 'can i pay with', 'can i pay', 'can i pay by']
