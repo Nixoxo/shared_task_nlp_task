@@ -1,0 +1,997 @@
+Id	Prompt	Wavfile	Accept
+3570	Frag: Zimmer für 1 Woche	3570.wav	reject
+3571	Frag: Zimmer für 1 Woche	3571.wav	accept
+3572	Frag: Twinzimmer	3572.wav	accept
+3573	Sag: Ich möchte mit Kreditkarte bezahlen	3573.wav	accept
+3574	Frag: Gibt es ein Fitnessstudio?	3574.wav	reject
+3575	Frag: 3 Musical-Tickets	3575.wav	reject
+3576	Sag: Ich möchte am Montagabend gehen	3576.wav	accept
+3577	Sag: Ich möchte am Montagabend gehen	3577.wav	accept
+3579	Frag: 3 Tickets für König der Löwen	3579.wav	reject
+3580	Sag: Ich möchte vorne sitzen	3580.wav	reject
+3581	Sag: Ich möchte vorne sitzen	3581.wav	reject
+3582	Sag: Ich möchte vorne sitzen	3582.wav	reject
+3583	Frag: Tickets für die National Gallery	3583.wav	reject
+3584	Frag: Tickets für die National Gallery	3584.wav	reject
+3587	Frag: ein Ticket zum Piccadilly Circus	3587.wav	reject
+3588	Sag: Ich möchte mit Visa bezahlen	3588.wav	accept
+3589	Sag: Ich möchte mit Visa bezahlen	3589.wav	accept
+3590	Frag: ein Ticket zum Green Park	3590.wav	accept
+3592	Sag: Ich möchte mit Visa bezahlen	3592.wav	reject
+3593	Sag: Ich möchte mit Pfund bezahlen	3593.wav	reject
+3594	Sag: Ich möchte mit Pfund bezahlen	3594.wav	reject
+3595	Sag: Ich möchte mit Pfund bezahlen	3595.wav	reject
+3596	Frag: ein Ticket nach Notting Hill	3596.wav	reject
+3597	Sag: Ich möchte mit Mastercard bezahlen	3597.wav	reject
+3598	Sag: Ich möchte mit Mastercard bezahlen	3598.wav	accept
+3599	Sag: Ich möchte mit Dollars bezahlen	3599.wav	reject
+3602	Frag: eine Cola	3602.wav	reject
+3604	Frag: ein Steak	3604.wav	accept
+3605	Frag: mein Steak rare	3605.wav	accept
+3606	Frag: mein Steak rare	3606.wav	accept
+3608	Frag: Pilze	3608.wav	reject
+3610	Frag: Ich möchte die Dessertkarte	3610.wav	reject
+3611	Sag: Mir geht es gut	3611.wav	reject
+3618	Frag: 2 Tickets nach London	3618.wav	accept
+3619	Frag: 2 Tickets nach London	3619.wav	accept
+3620	Sag: Ich möchte um 21 Uhr morgen abreisen	3620.wav	accept
+3621	Sag: Ich heisse James	3621.wav	reject
+3622	Sag: Ich bin aus der Türkei	3622.wav	accept
+3623	Frag: 2 Musical-Tickets	3623.wav	accept
+3625	Frag: ein Ticket für Montagabend	3625.wav	reject
+3626	Frag: ein Ticket für Montagabend	3626.wav	accept
+3627	Frag: 2 Tickets für König der Löwen	3627.wav	reject
+3628	Frag: 2 Tickets für König der Löwen	3628.wav	reject
+3629	Frag: 2 Tickets für König der Löwen	3629.wav	reject
+3630	Sag: Ich möchte in der zweiten Reihe sitzen	3630.wav	reject
+3631	Sag: Ich möchte in der zweiten Reihe sitzen	3631.wav	reject
+3632	Sag: Ich möchte in der zweiten Reihe sitzen	3632.wav	accept
+3634	Frag: 5 Tickets	3634.wav	accept
+3636	Frag: Einzelzimmer	3636.wav	accept
+3637	Frag: Einzelzimmer	3637.wav	accept
+3638	Frag: Einzelzimmer	3638.wav	accept
+3639	Sag: Ich möchte mit Postkarte bezahlen	3639.wav	reject
+3640	Sag: Ich möchte mit Postkarte bezahlen	3640.wav	reject
+3641	Sag: Ich möchte mit Postkarte bezahlen	3641.wav	reject
+3642	Frag: Gibt es eine Hotelbar?	3642.wav	accept
+3643	Sag: Ich heisse Nick	3643.wav	accept
+3644	Sag: Ich bin aus Österreich	3644.wav	accept
+3645	Sag: Die Hauptstadt von Österreich ist Wien	3645.wav	reject
+3647	Sag: Ich habe 1 Bruder	3647.wav	accept
+3648	Sag: Ich habe 1 Bruder	3648.wav	accept
+3649	Sag: Ich habe 1 Bruder	3649.wav	accept
+3650	Sag: Ich gehe in die Ferien	3650.wav	reject
+3651	Sag: Dies ist mein Pass	3651.wav	accept
+3652	Sag: Dies ist mein Pass	3652.wav	reject
+3654	Frag: ein Ticket zum Piccadilly Circus	3654.wav	accept
+3655	Frag: ein Ticket zum Piccadilly Circus	3655.wav	reject
+3656	Frag: ein Ticket zum Piccadilly Circus	3656.wav	accept
+3657	Sag: Ich möchte mit Mastercard bezahlen	3657.wav	accept
+3658	Frag: 4 Musical-Tickets	3658.wav	accept
+3659	Frag: 4 Musical-Tickets	3659.wav	accept
+3660	Frag: 4 Musical-Tickets	3660.wav	accept
+3661	Sag: Ich möchte am Freitagabend gehen	3661.wav	reject
+3662	Sag: Ich möchte am Freitagabend gehen	3662.wav	accept
+3663	Sag: Ich möchte am Freitagabend gehen	3663.wav	accept
+3664	Frag: 4 Tickets für Wicked	3664.wav	accept
+3665	Frag: 4 Tickets für Wicked	3665.wav	accept
+3666	Sag: Ich möchte in der achten Reihe sitzen	3666.wav	reject
+3667	Sag: Ich möchte in der achten Reihe sitzen	3667.wav	accept
+3668	Sag: Ich möchte in der achten Reihe sitzen	3668.wav	reject
+3669	Frag: Tickets für das Naturhistorische Museum	3669.wav	accept
+3670	Frag: 2 Tickets	3670.wav	accept
+3671	Sag: Ich habe keine Reservation	3671.wav	reject
+3673	Sag: Ich habe keine Reservation	3673.wav	accept
+3674	Frag: Zimmer für 6 Nächte	3674.wav	reject
+3675	Frag: Zimmer für 6 Nächte	3675.wav	accept
+3676	Frag: Doppelzimmer	3676.wav	accept
+3679	Frag: Gibt es ein Schwimmbad?	3679.wav	reject
+3680	Frag: Wo ist das Schwimmbad?	3680.wav	accept
+3681	Frag: Zimmer für 4 Nächte	3681.wav	accept
+3682	Frag: Doppelzimmer	3682.wav	accept
+3683	Sag: Ich möchte mit Visa bezahlen	3683.wav	accept
+3684	Frag: Gibt es ein Hotelrestaurant?	3684.wav	accept
+3685	Frag: Wo ist das Hotelrestaurant?	3685.wav	accept
+3686	Sag: Ich möchte mit Visa bezahlen	3686.wav	accept
+3688	Sag: Ich möchte mit Schweizer Franken bezahlen	3688.wav	accept
+3689	Sag: Ich habe keine Reservation	3689.wav	accept
+3690	Frag: Zimmer für 7 Nächte	3690.wav	accept
+3691	Frag: Junior Suite	3691.wav	accept
+3692	Sag: Ich möchte mit Mastercard bezahlen	3692.wav	accept
+3693	Frag: Gibt es einen Coiffeur?	3693.wav	accept
+3694	Frag: Wo ist der Coiffeur?	3694.wav	accept
+3695	Frag: 3 Tickets nach London	3695.wav	accept
+3696	Sag: Ich möchte am Mittwochabend abreisen	3696.wav	accept
+3697	Sag: Ich heisse Sarah	3697.wav	accept
+3698	Sag: Ich heisse Sarah	3698.wav	accept
+3700	Frag: ein Ticket nach London	3700.wav	accept
+3701	Sag: Ich möchte am Sonntag abreisen	3701.wav	accept
+3702	Sag: Ich heisse John	3702.wav	accept
+3703	Sag: Ich bin aus Spanien	3703.wav	reject
+3704	Sag: Ich heisse Brian	3704.wav	accept
+3705	Sag: Ich bin aus Amerika	3705.wav	accept
+3706	Sag: Ich heisse Silvia	3706.wav	accept
+3707	Sag: Ich bin aus Portugal	3707.wav	accept
+3708	Sag: Die Hauptstadt von Portugal ist Lissabon	3708.wav	reject
+3709	Sag: Ich habe 2 jüngere Brüder	3709.wav	accept
+3710	Sag: Ich gehe in die Ferien	3710.wav	accept
+3712	Sag: Dies ist mein Pass	3712.wav	accept
+3713	Sag: Dies ist mein Pass	3713.wav	accept
+3714	Sag: Dies ist mein Pass	3714.wav	accept
+3716	Sag: Ich möchte mit Postkarte bezahlen	3716.wav	reject
+3717	Sag: Ich möchte mit Postkarte bezahlen	3717.wav	accept
+3718	Sag: Ich möchte mit Postkarte bezahlen	3718.wav	accept
+3719	Frag: 2 Musical-Tickets	3719.wav	accept
+3720	Frag: 2 Tickets für Montagabend	3720.wav	accept
+3723	Frag: Zimmer für 2 Nächte	3723.wav	accept
+3724	Frag: Zimmer für 2 Nächte	3724.wav	accept
+3725	Frag: Einzelzimmer	3725.wav	accept
+3726	Frag: Einzelzimmer	3726.wav	accept
+3727	Frag: Einzelzimmer	3727.wav	accept
+3728	Sag: Ich möchte mit Kreditkarte bezahlen	3728.wav	reject
+3729	Sag: Ich möchte mit Kreditkarte bezahlen	3729.wav	reject
+3730	Frag: Gibt es einen Lift?	3730.wav	reject
+3731	Frag: Wo ist der Lift?	3731.wav	accept
+3735	Sag: Ich möchte mit Dollars bezahlen	3735.wav	accept
+3736	Frag: Zimmer für 3 Nächte	3736.wav	accept
+3737	Frag: Einzelzimmer	3737.wav	accept
+3738	Sag: Ich möchte mit Postkarte bezahlen	3738.wav	reject
+3740	Frag: Gibt es ein Fitnessstudio?	3740.wav	accept
+3741	Frag: Gibt es ein Fitnessstudio?	3741.wav	accept
+3742	Frag: Wo ist das Fitnessstudio?	3742.wav	accept
+3743	Frag: ein Ticket nach London	3743.wav	accept
+3744	Sag: Ich möchte um 12 Uhr morgen abreisen	3744.wav	accept
+3745	Sag: Ich heisse Mona	3745.wav	accept
+3746	Sag: Ich bin aus Deutschland	3746.wav	accept
+3749	Frag: ein Steak	3749.wav	reject
+3750	Frag: ein Steak	3750.wav	reject
+3751	Frag: ein Steak	3751.wav	reject
+3757	Frag: Wo ist der Tower?	3757.wav	reject
+3759	Frag: Welcher Bus fährt dorthin?	3759.wav	reject
+3761	Frag: Zimmer für 6 Nächte	3761.wav	reject
+3762	Frag: Zimmer für 6 Nächte	3762.wav	reject
+3763	Frag: Zimmer für 6 Nächte	3763.wav	accept
+3764	Frag: Twinzimmer	3764.wav	accept
+3767	Sag: Ich möchte mit Kreditkarte bezahlen	3767.wav	accept
+3768	Frag: Gibt es einen Lift?	3768.wav	reject
+3769	Sag: Ich habe keine Reservation	3769.wav	reject
+3770	Sag: Ich habe keine Reservation	3770.wav	accept
+3771	Sag: Ich habe keine Reservation	3771.wav	accept
+3773	Sag: Ich habe keine Reservation	3773.wav	accept
+3774	Sag: Ich habe keine Reservation	3774.wav	reject
+3776	Sag: Ich habe keine Reservation	3776.wav	accept
+3777	Sag: Ich habe keine Reservation	3777.wav	accept
+3778	Sag: Ich habe keine Reservation	3778.wav	accept
+3779	Sag: Ich habe keine Reservation	3779.wav	reject
+3781	Sag: Ich habe keine Reservation	3781.wav	accept
+3782	Frag: Zimmer für 7 Nächte	3782.wav	accept
+3783	Frag: Doppelzimmer	3783.wav	accept
+3784	Frag: Doppelzimmer	3784.wav	reject
+3786	Sag: Ich möchte mit Postkarte bezahlen	3786.wav	accept
+3787	Frag: Gibt es ein Hotelrestaurant?	3787.wav	accept
+3788	Frag: Wo ist das Hotelrestaurant?	3788.wav	reject
+3789	Frag: Wo ist das Hotelrestaurant?	3789.wav	reject
+3790	Frag: Wo ist das Hotelrestaurant?	3790.wav	reject
+3791	Frag: Zimmer für 2 Nächte	3791.wav	accept
+3792	Frag: Doppelzimmer	3792.wav	accept
+3794	Frag: Doppelzimmer	3794.wav	accept
+3795	Sag: Ich möchte mit Postkarte bezahlen	3795.wav	accept
+3796	Sag: Ich möchte mit Schweizer Franken bezahlen	3796.wav	reject
+3797	Sag: Ich möchte mit Schweizer Franken bezahlen	3797.wav	accept
+3798	Sag: Ich möchte mit Schweizer Franken bezahlen	3798.wav	accept
+3799	Frag: Gibt es einen Coiffeur?	3799.wav	reject
+3800	Frag: ein Ticket zum Piccadilly Circus	3800.wav	accept
+3801	Sag: Ich möchte mit Postkarte bezahlen	3801.wav	reject
+3802	Sag: Ich möchte mit Pfund bezahlen	3802.wav	accept
+3803	Sag: Mir geht es gut	3803.wav	accept
+3804	Frag: Stiefel	3804.wav	reject
+3805	Frag: Stiefel	3805.wav	accept
+3806	Frag: blaue Stiefel	3806.wav	accept
+3807	Sag: Ich habe keine Reservation	3807.wav	accept
+3808	Frag: Zimmer für 3 Nächte	3808.wav	accept
+3809	Frag: Junior Suite	3809.wav	accept
+3810	Sag: Ich möchte mit Kreditkarte bezahlen	3810.wav	accept
+3811	Sag: Ich heisse Barbara	3811.wav	accept
+3812	Sag: Ich bin aus Frankreich	3812.wav	accept
+3813	Sag: Die Hauptstadt von Frankreich ist Paris	3813.wav	accept
+3814	Sag: Ich habe 2 jüngere Schwestern	3814.wav	accept
+3815	Sag: Ich gehe in die Ferien	3815.wav	reject
+3816	Sag: Dies ist mein Pass	3816.wav	accept
+3817	Sag: Dies ist mein Pass	3817.wav	reject
+3818	Sag: Dies ist mein Pass	3818.wav	accept
+3819	Frag: 3 Musical-Tickets	3819.wav	accept
+3820	Frag: 3 Musical-Tickets	3820.wav	accept
+3822	Frag: 3 Tickets für Starlight Express	3822.wav	accept
+3823	Sag: Ich möchte in der vierten Reihe sitzen	3823.wav	reject
+3824	Sag: Ich möchte in der vierten Reihe sitzen	3824.wav	accept
+3825	Frag: Tickets für das London Eye	3825.wav	accept
+3826	Frag: 4 Tickets	3826.wav	accept
+3827	Frag: 3 Musical-Tickets	3827.wav	accept
+3828	Frag: ein Ticket für Donnerstagabend	3828.wav	accept
+3829	Frag: 3 Tickets für Wicked	3829.wav	accept
+3830	Frag: Ticket für dieses Musical	3830.wav	accept
+3831	Frag: Ticket für dieses Musical	3831.wav	accept
+3832	Sag: Ich möchte in der zweiten Reihe sitzen	3832.wav	accept
+3833	Frag: Tickets für Madame Tussauds	3833.wav	reject
+3834	Frag: 1 Ticket	3834.wav	accept
+3835	Frag: 1 Musical-Ticket	3835.wav	accept
+3836	Frag: ein Ticket für heute Abend	3836.wav	accept
+3837	Frag: ein Ticket für heute Abend	3837.wav	accept
+3838	Frag: ein Ticket für Mamma Mia	3838.wav	accept
+3839	Frag: Ticket für dieses Musical	3839.wav	accept
+3840	Sag: Ich möchte vorne sitzen	3840.wav	reject
+3841	Sag: Ich möchte vorne sitzen	3841.wav	accept
+3842	Frag: Tickets für das British Museum	3842.wav	accept
+3843	Frag: Tickets für das British Museum	3843.wav	accept
+3844	Frag: 2 Tickets	3844.wav	accept
+3845	Frag: 2 Musical-Tickets	3845.wav	accept
+3846	Frag: ein Ticket für Samstagabend	3846.wav	accept
+3847	Frag: 2 Tickets für König der Löwen	3847.wav	accept
+3848	Sag: Ich möchte vorne sitzen	3848.wav	accept
+3849	Frag: Tickets für das Science Museum	3849.wav	accept
+3850	Frag: 1 Ticket	3850.wav	accept
+3851	Frag: Wo ist das Naturhistorische Museum?	3851.wav	accept
+3852	Frag: Wo ist die Oxford Street?	3852.wav	accept
+3853	Frag: Welcher Bus fährt dorthin?	3853.wav	accept
+3854	Sag: Der Tower ist nahe der Tower Bridge	3854.wav	accept
+3855	Frag: Wo ist das Naturhistorische Museum?	3855.wav	accept
+3856	Frag: Wo ist Piccadilly Circus?	3856.wav	accept
+3857	Frag: Welcher Bus fährt dorthin?	3857.wav	accept
+3858	Sag: Big Ben ist neben den Houses of Parliament	3858.wav	reject
+3859	Frag: Wo ist das Naturhistorische Museum?	3859.wav	accept
+3860	Frag: Wo ist der Tower?	3860.wav	reject
+3861	Frag: Wo ist der Tower?	3861.wav	accept
+3862	Sag: Marble Arch ist gegenüber dem Hyde Park	3862.wav	reject
+3863	Frag: Wo ist die National Gallery?	3863.wav	accept
+3864	Frag: Wo ist Big Ben?	3864.wav	accept
+3865	Frag: Welcher Bus fährt dorthin?	3865.wav	accept
+3866	Sag: Der Tower ist nahe der Tower Bridge	3866.wav	accept
+3867	Frag: Wo ist der Zoo?	3867.wav	accept
+3868	Frag: Wo ist Madame Tussauds?	3868.wav	reject
+3869	Frag: Welcher Bus fährt dorthin?	3869.wav	accept
+3870	Sag: Der Tower ist nahe der Tower Bridge	3870.wav	accept
+3871	Frag: einen Orangensaft	3871.wav	reject
+3872	Frag: einen Orangensaft	3872.wav	accept
+3873	Frag: einen Hamburger	3873.wav	accept
+3874	Frag: meinen Hamburger rare	3874.wav	accept
+3875	Frag: Erbsen	3875.wav	reject
+3876	Frag: Erbsen	3876.wav	reject
+3877	Frag: Erbsen	3877.wav	reject
+3878	Frag: Ich möchte die Dessertkarte	3878.wav	reject
+3879	Frag: Ich möchte die Dessertkarte	3879.wav	reject
+3880	Frag: Ich möchte die Dessertkarte	3880.wav	accept
+3882	Frag: Karrotenkuchen	3882.wav	accept
+3883	Frag: Ich möchte die Rechnung	3883.wav	accept
+3888	Sag: Ich habe keine Reservation	3888.wav	reject
+3889	Frag: Zimmer für 2 Nächte	3889.wav	accept
+3890	Frag: Suite	3890.wav	reject
+3891	Sag: Ich möchte mit Mastercard bezahlen	3891.wav	reject
+3892	Sag: Ich möchte mit Mastercard bezahlen	3892.wav	reject
+3893	Frag: Zimmer für 1 Woche	3893.wav	accept
+3894	Frag: Suite	3894.wav	accept
+3896	Frag: Gibt es einen Lebensmittelladen?	3896.wav	accept
+3897	Frag: Wo ist der Lebensmittelladen?	3897.wav	accept
+3898	Frag: 1 Musical-Ticket	3898.wav	accept
+3899	Frag: 1 Musical-Ticket	3899.wav	reject
+3900	Frag: ein Ticket für morgen Abend	3900.wav	reject
+3901	Frag: ein Ticket für morgen Abend	3901.wav	reject
+3902	Frag: ein Ticket für morgen Abend	3902.wav	reject
+3903	Frag: ein Ticket für Starlight Express	3903.wav	accept
+3904	Frag: ein Ticket für Starlight Express	3904.wav	reject
+3905	Frag: ein Ticket für Starlight Express	3905.wav	accept
+3906	Sag: Ich möchte in der Mitte sitzen	3906.wav	accept
+3907	Frag: Tickets für das London Eye	3907.wav	accept
+3908	Frag: 4 Tickets	3908.wav	accept
+3909	Sag: Mir geht es gut	3909.wav	accept
+3910	Frag: Stiefel	3910.wav	accept
+3911	Frag: weisse Stiefel	3911.wav	accept
+3912	Frag: Grösse 36	3912.wav	accept
+3913	Frag: ein T-Shirt	3913.wav	accept
+3914	Frag: ein gelbes T-Shirt	3914.wav	accept
+3915	Frag: eine L	3915.wav	reject
+3916	Frag: eine L	3916.wav	reject
+3917	Frag: eine L	3917.wav	accept
+3918	Frag: Wie viel kostet es?	3918.wav	accept
+3919	Sag: Dies ist zu teuer	3919.wav	reject
+3920	Sag: Mir geht es gut	3920.wav	accept
+3921	Frag: Sandalen	3921.wav	accept
+3922	Frag: rote Sandalen	3922.wav	accept
+3923	Frag: Grösse 38	3923.wav	accept
+3924	Frag: ein T-Shirt	3924.wav	accept
+3925	Frag: ein gelbes T-Shirt	3925.wav	accept
+3926	Frag: eine L	3926.wav	reject
+3927	Frag: eine L	3927.wav	reject
+3928	Frag: eine L	3928.wav	accept
+3929	Frag: Wie viel kostet es?	3929.wav	accept
+3930	Sag: Das T-Shirt ist zu teuer	3930.wav	accept
+3931	Sag: Mir geht es gut	3931.wav	accept
+3932	Frag: Stiefel	3932.wav	accept
+3933	Frag: braune Stiefel	3933.wav	accept
+3934	Frag: Grösse 39	3934.wav	accept
+3935	Frag: ein T-Shirt	3935.wav	accept
+3936	Frag: ein braunes T-Shirt	3936.wav	accept
+3938	Frag: Wie viel kostet das T-Shirt?	3938.wav	accept
+3940	Sag: Mir geht es gut	3940.wav	accept
+3941	Frag: Sandalen	3941.wav	accept
+3942	Frag: weisse Sandalen	3942.wav	accept
+3943	Frag: Grösse 44	3943.wav	accept
+3944	Frag: Hosen	3944.wav	reject
+3945	Frag: Hosen	3945.wav	accept
+3946	Frag: rote Hosen	3946.wav	accept
+3947	Frag: eine S	3947.wav	accept
+3948	Frag: Wie viel kostet die Hose?	3948.wav	reject
+3949	Frag: Wie viel kostet die Hose?	3949.wav	reject
+3950	Sag: Die Hose ist zu teuer	3950.wav	reject
+3952	Sag: Ich heisse Sarah	3952.wav	accept
+3953	Sag: Ich bin aus Italien	3953.wav	accept
+3954	Sag: Die Hauptstadt von Italien ist Rom	3954.wav	accept
+3955	Sag: Ich habe 1 Bruder	3955.wav	reject
+3956	Sag: Ich habe 1 Bruder	3956.wav	accept
+3958	Sag: Dies ist mein Pass	3958.wav	accept
+3959	Sag: Dies ist mein Pass	3959.wav	accept
+3960	Sag: Ich heisse Michelle	3960.wav	accept
+3961	Sag: Ich bin aus Deutschland	3961.wav	accept
+3962	Sag: Die Hauptstadt von Deutschland ist Berlin	3962.wav	accept
+3963	Sag: Ich habe 4 ältere Brüder	3963.wav	accept
+3966	Sag: Dies ist mein Pass	3966.wav	reject
+3967	Frag: ein Ticket zum Green Park	3967.wav	accept
+3968	Sag: Ich möchte mit Kreditkarte bezahlen	3968.wav	accept
+3969	Frag: 2 Tickets nach London	3969.wav	accept
+3970	Sag: Ich möchte am Freitagmorgen abreisen	3970.wav	accept
+3971	Sag: Ich heisse Silvia	3971.wav	accept
+3972	Sag: Ich bin aus England	3972.wav	accept
+3973	Frag: 6 Tickets nach London	3973.wav	accept
+3974	Sag: Ich möchte am Freitagabend abreisen	3974.wav	accept
+3975	Sag: Ich heisse Stephanie	3975.wav	accept
+3976	Sag: Ich bin aus Deutschland	3976.wav	accept
+3977	Frag: 2 Tickets nach London	3977.wav	accept
+3978	Sag: Ich möchte um 8 Uhr morgen abreisen	3978.wav	accept
+3979	Frag: Wie viel kostet es?	3979.wav	accept
+3980	Frag: billigeres Ticket	3980.wav	accept
+3981	Sag: Das ist okay	3981.wav	accept
+3982	Sag: Ich heisse Paul	3982.wav	accept
+3983	Sag: Ich bin aus Australien	3983.wav	accept
+3986	Sag: Ich habe keine Reservation	3986.wav	reject
+3987	Frag: Zimmer für 6 Nächte	3987.wav	accept
+3988	Frag: Doppelzimmer	3988.wav	accept
+3989	Frag: Doppelzimmer	3989.wav	accept
+3991	Frag: Gibt es einen Lift?	3991.wav	accept
+3992	Frag: 2 Musical-Tickets	3992.wav	accept
+3993	Frag: 2 Tickets für Sonntagabend	3993.wav	accept
+3995	Sag: Ich möchte in der fünften Reihe sitzen	3995.wav	accept
+3996	Frag: Tickets für das Science Museum	3996.wav	accept
+3997	Frag: 1 Ticket	3997.wav	accept
+3998	Frag: 2 Musical-Tickets	3998.wav	accept
+3999	Frag: 2 Tickets für heute Abend	3999.wav	reject
+4000	Frag: 2 Tickets für Mamma Mia	4000.wav	accept
+4001	Frag: Ticket für dieses Musical	4001.wav	reject
+4002	Frag: Ticket für dieses Musical	4002.wav	accept
+4003	Sag: Ich möchte hinten sitzen	4003.wav	accept
+4004	Frag: Tickets für das British Museum	4004.wav	accept
+4005	Frag: 3 Tickets	4005.wav	accept
+4006	Frag: Zimmer für 5 Nächte	4006.wav	accept
+4007	Frag: Twinzimmer	4007.wav	reject
+4008	Frag: Twinzimmer	4008.wav	accept
+4009	Sag: Ich möchte mit Visa bezahlen	4009.wav	accept
+4010	Sag: Ich möchte mit Euros bezahlen	4010.wav	reject
+4011	Frag: Gibt es ein Hotelrestaurant?	4011.wav	reject
+4012	Frag: Gibt es ein Hotelrestaurant?	4012.wav	accept
+4014	Sag: Ich habe keine Reservation	4014.wav	accept
+4015	Sag: Ich habe keine Reservation	4015.wav	reject
+4016	Sag: Ich habe keine Reservation	4016.wav	accept
+4017	Frag: Zimmer für 2 Nächte	4017.wav	accept
+4018	Frag: Suite	4018.wav	accept
+4019	Sag: Ich möchte mit Visa bezahlen	4019.wav	accept
+4020	Frag: Gibt es einen Lift?	4020.wav	accept
+4021	Frag: Zimmer für 3 Nächte	4021.wav	accept
+4022	Frag: Junior Suite	4022.wav	accept
+4023	Sag: Ich möchte mit Visa bezahlen	4023.wav	accept
+4024	Frag: Gibt es einen Lebensmittelladen?	4024.wav	accept
+4025	Frag: Wo ist der Lebensmittelladen?	4025.wav	accept
+4026	Frag: Einzelzimmer	4026.wav	accept
+4028	Frag: Gibt es einen Coiffeur?	4028.wav	accept
+4029	Frag: Wo ist der Coiffeur?	4029.wav	accept
+4030	Frag: Zimmer für 5 Nächte	4030.wav	accept
+4031	Frag: Wo ist der Coiffeur?	4031.wav	accept
+4032	Frag: Zimmer für 5 Nächte	4032.wav	accept
+4033	Frag: Twinzimmer	4033.wav	accept
+4034	Sag: Ich möchte mit Kreditkarte bezahlen	4034.wav	accept
+4035	Frag: Gibt es einen Coiffeur?	4035.wav	accept
+4036	Frag: Wo ist der Coiffeur?	4036.wav	accept
+4037	Sag: Mein Badezimmer ist dreckig	4037.wav	accept
+4038	Frag: Wo ist der Haarföhn?	4038.wav	reject
+4039	Frag: Wo ist der Haarföhn?	4039.wav	reject
+4040	Frag: Wo ist der Haarföhn?	4040.wav	reject
+4041	Frag: Zimmer für 3 Nächte	4041.wav	accept
+4042	Frag: Twinzimmer	4042.wav	accept
+4043	Sag: Ich möchte mit Mastercard bezahlen	4043.wav	accept
+4044	Frag: Gibt es eine Hotelbar?	4044.wav	accept
+4045	Frag: Wo ist die Hotelbar?	4045.wav	accept
+4046	Sag: Mein WC ist dreckig	4046.wav	reject
+4047	Sag: Im Zimmer hat es keinen Haarföhn	4047.wav	reject
+4048	Sag: Im Zimmer hat es keinen Haarföhn	4048.wav	reject
+4049	Sag: Im Zimmer hat es keinen Haarföhn	4049.wav	reject
+4050	Frag: Zimmer für 6 Nächte	4050.wav	accept
+4051	Frag: Twinzimmer	4051.wav	accept
+4052	Frag: ein Ticket zum Trafalgar Square	4052.wav	accept
+4053	Frag: ein Ticket zum Trafalgar Square	4053.wav	accept
+4058	Sag: Ich möchte mit Mastercard bezahlen	4058.wav	reject
+4061	Frag: ein Ticket zum Trafalgar Square	4061.wav	accept
+4062	Sag: Ich möchte mit Visa bezahlen	4062.wav	accept
+4063	Sag: Ich möchte mit Pfund bezahlen	4063.wav	reject
+4064	Sag: Ich möchte mit Pfund bezahlen	4064.wav	reject
+4065	Frag: 3 Musical-Tickets	4065.wav	accept
+4066	Sag: Ich möchte heute Abend gehen	4066.wav	reject
+4067	Sag: Ich möchte heute Abend gehen	4067.wav	reject
+4068	Sag: Ich möchte heute Abend gehen	4068.wav	reject
+4069	Frag: 3 Tickets für das Phantom der Oper	4069.wav	reject
+4070	Sag: Ich möchte hinten sitzen	4070.wav	reject
+4071	Sag: Ich möchte hinten sitzen	4071.wav	reject
+4072	Sag: Ich möchte hinten sitzen	4072.wav	reject
+4073	Frag: Tickets für das London Eye	4073.wav	accept
+4075	Frag: 4 Tickets für morgen Abend	4075.wav	accept
+4079	Frag: mein Steak rare	4079.wav	reject
+4080	Frag: mein Steak rare	4080.wav	reject
+4081	Frag: mein Steak rare	4081.wav	reject
+4083	Frag: etwas Kartoffelstock	4083.wav	reject
+4085	Frag: Ich möchte die Dessertkarte	4085.wav	reject
+4087	Frag: weisse Stiefel	4087.wav	accept
+4088	Frag: weisse Stiefel	4088.wav	accept
+4089	Frag: Grösse 41	4089.wav	accept
+4090	Frag: Grösse 41	4090.wav	accept
+4091	Frag: Jeans	4091.wav	accept
+4092	Frag: Jeans	4092.wav	accept
+4093	Frag: weisse Jeans	4093.wav	accept
+4094	Frag: eine L	4094.wav	reject
+4095	Frag: eine L	4095.wav	reject
+4097	Frag: Wie viel kostet die Jeans?	4097.wav	accept
+4098	Sag: Dies ist zu teuer	4098.wav	accept
+4099	Frag: Welcher Bus fährt dorthin?	4099.wav	reject
+4100	Sag: Marble Arch ist gegenüber dem Hyde Park	4100.wav	reject
+4102	Frag: Gibt es einen Lift?	4102.wav	accept
+4103	Frag: Wo ist der Lift?	4103.wav	accept
+4104	Frag: Wo ist der Lift?	4104.wav	accept
+4105	Frag: Wo ist der Lift?	4105.wav	accept
+4106	Sag: Ich bin aus Deutschland	4106.wav	accept
+4107	Sag: Ich bin aus Spanien	4107.wav	accept
+4108	Sag: Ich möchte um 16 Uhr morgen abreisen	4108.wav	accept
+4109	Sag: Ich bin aus Australien	4109.wav	reject
+4110	Sag: Ich heisse Janet	4110.wav	accept
+4111	Sag: Ich bin aus Österreich	4111.wav	accept
+4112	Sag: Ich heisse Erica	4112.wav	accept
+4113	Frag: Wo ist der Coiffeur?	4113.wav	accept
+4114	Sag: Ich möchte mit Mastercard bezahlen	4114.wav	accept
+4115	Frag: Gibt es einen Lebensmittelladen?	4115.wav	reject
+4116	Frag: Gibt es einen Lebensmittelladen?	4116.wav	accept
+4117	Frag: Gibt es einen Lebensmittelladen?	4117.wav	accept
+4118	Frag: Wo ist der Lebensmittelladen?	4118.wav	reject
+4119	Frag: Wo ist der Lebensmittelladen?	4119.wav	accept
+4120	Frag: Wo ist der Lebensmittelladen?	4120.wav	accept
+4121	Sag: Ich möchte um 12 Uhr morgen abreisen	4121.wav	reject
+4122	Sag: Ich möchte um 12 Uhr morgen abreisen	4122.wav	reject
+4123	Sag: Ich bin aus Schottland	4123.wav	accept
+4125	Frag: Einzelzimmer	4125.wav	accept
+4126	Frag: Einzelzimmer	4126.wav	accept
+4127	Sag: Ich möchte mit Kreditkarte bezahlen	4127.wav	accept
+4128	Sag: Ich möchte mit Kreditkarte bezahlen	4128.wav	reject
+4129	Sag: Ich möchte mit Kreditkarte bezahlen	4129.wav	accept
+4130	Frag: Gibt es eine Hotelbar?	4130.wav	accept
+4131	Sag: Ich habe keine Reservation	4131.wav	accept
+4132	Frag: Zimmer für 7 Nächte	4132.wav	accept
+4133	Frag: Einzelzimmer	4133.wav	accept
+4134	Sag: Ich möchte mit Kreditkarte bezahlen	4134.wav	reject
+4135	Sag: Ich möchte mit Kreditkarte bezahlen	4135.wav	accept
+4136	Sag: Ich möchte mit Kreditkarte bezahlen	4136.wav	reject
+4137	Frag: Gibt es ein Hotelrestaurant?	4137.wav	accept
+4138	Frag: Wo ist das Hotelrestaurant?	4138.wav	accept
+4139	Frag: Zimmer für 3 Nächte	4139.wav	accept
+4140	Frag: Zimmer für 3 Nächte	4140.wav	accept
+4141	Frag: Zimmer für 3 Nächte	4141.wav	accept
+4142	Frag: Einzelzimmer	4142.wav	accept
+4143	Frag: Einzelzimmer	4143.wav	accept
+4144	Frag: Einzelzimmer	4144.wav	accept
+4145	Sag: Ich möchte mit Visa bezahlen	4145.wav	accept
+4146	Sag: Ich möchte mit Visa bezahlen	4146.wav	accept
+4147	Sag: Ich möchte mit Dollars bezahlen	4147.wav	reject
+4148	Frag: Gibt es einen Coiffeur?	4148.wav	reject
+4149	Frag: Gibt es einen Coiffeur?	4149.wav	accept
+4150	Frag: Wo ist der Coiffeur?	4150.wav	accept
+4151	Sag: Mein WC ist dreckig	4151.wav	accept
+4152	Sag: Im Zimmer hat es kein Shampoo	4152.wav	accept
+4153	Sag: Im Zimmer hat es kein Shampoo	4153.wav	accept
+4154	Sag: Im Zimmer hat es kein Shampoo	4154.wav	accept
+4155	Frag: Wo kann ich ein Shampoo kaufen?	4155.wav	accept
+4156	Frag: Wo kann ich ein Shampoo kaufen?	4156.wav	reject
+4157	Frag: 4 Tickets nach London	4157.wav	accept
+4158	Frag: 4 Tickets nach London	4158.wav	accept
+4159	Frag: 4 Tickets nach London	4159.wav	accept
+4161	Sag: Ich habe keine Reservation	4161.wav	accept
+4162	Frag: Zimmer für 2 Nächte	4162.wav	reject
+4164	Frag: Doppelzimmer	4164.wav	accept
+4165	Sag: Ich möchte mit Postkarte bezahlen	4165.wav	reject
+4166	Frag: Gibt es ein Schwimmbad?	4166.wav	accept
+4167	Frag: Wo ist das Schwimmbad?	4167.wav	accept
+4168	Frag: Zimmer für 1 Woche	4168.wav	reject
+4171	Frag: Twinzimmer	4171.wav	accept
+4172	Frag: Twinzimmer	4172.wav	accept
+4174	Sag: Ich möchte mit Kreditkarte bezahlen	4174.wav	accept
+4175	Frag: Gibt es einen Lebensmittelladen?	4175.wav	accept
+4176	Frag: Gibt es einen Lebensmittelladen?	4176.wav	reject
+4177	Frag: Gibt es einen Lebensmittelladen?	4177.wav	accept
+4178	Frag: Wo ist der Lebensmittelladen?	4178.wav	accept
+4179	Sag: Das WC ist dreckig	4179.wav	accept
+4180	Sag: Im Zimmer hat es keinen Haarföhn	4180.wav	reject
+4181	Sag: Im Zimmer hat es keinen Haarföhn	4181.wav	reject
+4182	Sag: Im Zimmer hat es keinen Haarföhn	4182.wav	reject
+4183	Frag: Wo kann ich einen Haarföhn kaufen?	4183.wav	reject
+4184	Frag: Wo kann ich einen Haarföhn kaufen?	4184.wav	reject
+4185	Sag: Ich habe keine Reservation	4185.wav	reject
+4186	Sag: Ich habe keine Reservation	4186.wav	reject
+4187	Sag: Ich habe keine Reservation	4187.wav	accept
+4188	Sag: Ich habe keine Reservation	4188.wav	accept
+4189	Frag: Zimmer für 2 Nächte	4189.wav	accept
+4190	Frag: Doppelzimmer	4190.wav	accept
+4191	Frag: Doppelzimmer	4191.wav	reject
+4192	Frag: Doppelzimmer	4192.wav	accept
+4194	Frag: Gibt es ein Hotelrestaurant?	4194.wav	accept
+4195	Frag: Wo ist das Hotelrestaurant?	4195.wav	reject
+4196	Frag: ein Ticket nach London	4196.wav	accept
+4197	Frag: ein Ticket nach London	4197.wav	reject
+4199	Sag: Ich möchte um 16 Uhr morgen abreisen	4199.wav	accept
+4200	Sag: Ich heisse Michelle	4200.wav	accept
+4201	Sag: Ich bin aus Kanada	4201.wav	accept
+4202	Sag: Ich heisse Andy	4202.wav	reject
+4203	Sag: Ich bin aus Deutschland	4203.wav	reject
+4204	Sag: Die Hauptstadt von Deutschland ist Berlin	4204.wav	reject
+4205	Sag: Die Hauptstadt von Deutschland ist Berlin	4205.wav	reject
+4206	Sag: Ich habe 2 ältere Schwestern	4206.wav	accept
+4207	Sag: Ich gehe in die Ferien	4207.wav	accept
+4208	Sag: Dies ist mein Pass	4208.wav	accept
+4209	Sag: Mir geht es gut	4209.wav	reject
+4210	Sag: Mir geht es gut	4210.wav	reject
+4211	Sag: Ich möchte mit Kreditkarte bezahlen	4211.wav	reject
+4212	Sag: Ich möchte mit Kreditkarte bezahlen	4212.wav	reject
+4213	Frag: Gibt es ein Fitnessstudio?	4213.wav	reject
+4214	Frag: Wo ist das Fitnessstudio?	4214.wav	accept
+4215	Frag: Wo ist das Fitnessstudio?	4215.wav	reject
+4216	Sag: Das WC ist dreckig	4216.wav	reject
+4217	Sag: Das WC ist dreckig	4217.wav	reject
+4219	Frag: Zimmer für 3 Nächte	4219.wav	accept
+4220	Frag: Junior Suite	4220.wav	reject
+4222	Sag: Ich möchte mit Postkarte bezahlen	4222.wav	reject
+4223	Frag: Gibt es einen Coiffeur?	4223.wav	accept
+4224	Frag: Wo ist der Coiffeur?	4224.wav	accept
+4225	Frag: Wo ist der Coiffeur?	4225.wav	accept
+4226	Frag: Wo ist das Science Museum?	4226.wav	accept
+4227	Frag: Wo ist das Science Museum?	4227.wav	reject
+4228	Frag: Wo ist das Science Museum?	4228.wav	accept
+4229	Frag: Wo ist der Tower?	4229.wav	accept
+4230	Frag: Wo ist der Tower?	4230.wav	accept
+4231	Frag: Wo ist der Tower?	4231.wav	reject
+4232	Frag: Welcher Bus fährt dorthin?	4232.wav	accept
+4233	Sag: Marble Arch ist gegenüber dem Hyde Park	4233.wav	reject
+4234	Sag: Marble Arch ist gegenüber dem Hyde Park	4234.wav	reject
+4236	Sag: Ich habe keine Reservation	4236.wav	accept
+4237	Sag: Ich habe keine Reservation	4237.wav	accept
+4238	Sag: Ich habe keine Reservation	4238.wav	reject
+4239	Sag: Ich habe keine Reservation	4239.wav	reject
+4240	Sag: Ich habe keine Reservation	4240.wav	reject
+4241	Sag: Ich habe keine Reservation	4241.wav	reject
+4243	Sag: Ich habe keine Reservation	4243.wav	reject
+4244	Sag: Ich habe keine Reservation	4244.wav	accept
+4245	Sag: Ich habe keine Reservation	4245.wav	reject
+4246	Sag: Ich habe keine Reservation	4246.wav	reject
+4247	Sag: Ich habe keine Reservation	4247.wav	reject
+4248	Sag: Ich habe keine Reservation	4248.wav	reject
+4249	Sag: Ich habe keine Reservation	4249.wav	reject
+4250	Frag: Zimmer für 3 Nächte	4250.wav	reject
+4251	Frag: Suite	4251.wav	reject
+4252	Frag: Suite	4252.wav	accept
+4254	Sag: Ich möchte mit Visa bezahlen	4254.wav	reject
+4255	Frag: Gibt es ein Fitnessstudio?	4255.wav	accept
+4256	Frag: Wo ist das Fitnessstudio?	4256.wav	reject
+4257	Frag: Wo ist das Fitnessstudio?	4257.wav	reject
+4258	Frag: Wo ist das Fitnessstudio?	4258.wav	reject
+4259	Frag: 4 Musical-Tickets	4259.wav	accept
+4260	Frag: 4 Musical-Tickets	4260.wav	reject
+4261	Frag: 4 Musical-Tickets	4261.wav	reject
+4262	Frag: ein Ticket für Mittwochabend	4262.wav	reject
+4264	Sag: Ich habe keine Reservation	4264.wav	accept
+4265	Sag: Mir geht es gut	4265.wav	reject
+4266	Frag: Stiefel	4266.wav	reject
+4267	Frag: Stiefel	4267.wav	accept
+4268	Frag: weisse Stiefel	4268.wav	accept
+4269	Frag: Grösse 39	4269.wav	reject
+4270	Frag: ein T-Shirt	4270.wav	accept
+4271	Frag: ein T-Shirt	4271.wav	accept
+4272	Frag: ein T-Shirt	4272.wav	accept
+4273	Sag: Mir geht es gut	4273.wav	reject
+4274	Frag: Sandalen	4274.wav	accept
+4276	Frag: rote Sandalen	4276.wav	accept
+4277	Frag: rote Sandalen	4277.wav	accept
+4278	Frag: Grösse 42	4278.wav	accept
+4279	Frag: Hosen	4279.wav	accept
+4280	Frag: Hosen	4280.wav	accept
+4281	Frag: pinkige Hosen	4281.wav	accept
+4283	Frag: Wie viel kostet die Hose?	4283.wav	accept
+4284	Sag: Die Hose ist zu teuer	4284.wav	reject
+4286	Frag: Wo ist das Naturhistorische Museum?	4286.wav	reject
+4287	Frag: Wo ist das Naturhistorische Museum?	4287.wav	accept
+4288	Frag: Wo ist Big Ben?	4288.wav	reject
+4289	Frag: Wo ist Big Ben?	4289.wav	accept
+4290	Frag: Welcher Bus fährt dorthin?	4290.wav	accept
+4291	Sag: Marble Arch ist gegenüber dem Hyde Park	4291.wav	reject
+4292	Frag: ein Ticket nach Notting Hill	4292.wav	reject
+4293	Frag: ein Ticket nach Notting Hill	4293.wav	reject
+4294	Frag: ein Ticket nach Notting Hill	4294.wav	reject
+4296	Sag: Ich möchte mit Mastercard bezahlen	4296.wav	accept
+4297	Sag: Ich möchte mit Mastercard bezahlen	4297.wav	accept
+4299	Frag: 5 Tickets nach London	4299.wav	reject
+4300	Frag: 5 Tickets nach London	4300.wav	accept
+4302	Sag: Ich möchte am Sonntagnachmittag abreisen	4302.wav	accept
+4304	Sag: Ich heisse Sarah	4304.wav	reject
+4305	Sag: Ich bin aus Österreich	4305.wav	accept
+4306	Sag: Ich heisse Silvia	4306.wav	accept
+4307	Sag: Ich bin aus England	4307.wav	accept
+4308	Frag: ein Ticket zum Piccadilly Circus	4308.wav	reject
+4309	Frag: ein Ticket zum Piccadilly Circus	4309.wav	reject
+4310	Frag: ein Ticket zum Piccadilly Circus	4310.wav	reject
+4311	Sag: Ich möchte mit Mastercard bezahlen	4311.wav	reject
+4312	Sag: Ich möchte mit Mastercard bezahlen	4312.wav	reject
+4313	Frag: 4 Musical-Tickets	4313.wav	accept
+4314	Frag: 4 Musical-Tickets	4314.wav	reject
+4315	Frag: 4 Musical-Tickets	4315.wav	accept
+4317	Frag: 4 Tickets für Mittwochabend	4317.wav	accept
+4318	Frag: 4 Tickets für Mittwochabend	4318.wav	accept
+4319	Frag: 4 Tickets für das Phantom der Oper	4319.wav	accept
+4321	Sag: Ich möchte vorne sitzen	4321.wav	accept
+4322	Frag: Tickets für das London Eye	4322.wav	accept
+4323	Frag: Tickets für das London Eye	4323.wav	accept
+4324	Frag: Tickets für das London Eye	4324.wav	accept
+4325	Frag: 2 Tickets	4325.wav	accept
+4326	Frag: 2 Tickets	4326.wav	accept
+4327	Frag: eine Limonade	4327.wav	reject
+4328	Frag: einen Hamburger	4328.wav	accept
+4329	Frag: meinen Hamburger rare	4329.wav	accept
+4330	Frag: meinen Hamburger rare	4330.wav	accept
+4331	Frag: meinen Hamburger rare	4331.wav	accept
+4332	Frag: Auberginen	4332.wav	reject
+4333	Frag: Auberginen	4333.wav	reject
+4334	Frag: Ich möchte die Dessertkarte	4334.wav	reject
+4335	Frag: Ich möchte die Dessertkarte	4335.wav	reject
+4336	Frag: Ich möchte die Dessertkarte	4336.wav	reject
+4337	Frag: Custard Tart	4337.wav	reject
+4338	Frag: Ich möchte die Rechnung	4338.wav	reject
+4339	Frag: Ich möchte die Rechnung	4339.wav	accept
+4340	Sag: Ich möchte mit Kreditkarte bezahlen	4340.wav	reject
+4343	Sag: Mir geht es gut	4343.wav	reject
+4344	Sag: Mir geht es gut	4344.wav	accept
+4346	Frag: Sandalen	4346.wav	reject
+4347	Frag: Sandalen	4347.wav	accept
+4348	Frag: blaue Sandalen	4348.wav	accept
+4349	Frag: Grösse 41	4349.wav	accept
+4350	Frag: ein T-Shirt	4350.wav	accept
+4351	Frag: ein rotes T-Shirt	4351.wav	accept
+4352	Frag: eine S	4352.wav	reject
+4353	Frag: eine S	4353.wav	reject
+4354	Frag: eine S	4354.wav	reject
+4355	Frag: Wie viel kostet das T-Shirt?	4355.wav	accept
+4357	Frag: Stiefel	4357.wav	reject
+4358	Frag: Stiefel	4358.wav	reject
+4359	Frag: Stiefel	4359.wav	reject
+4360	Frag: weisse Stiefel	4360.wav	accept
+4361	Frag: Grösse 43	4361.wav	reject
+4362	Frag: Grösse 43	4362.wav	reject
+4363	Sag: Ich habe keine Reservation	4363.wav	accept
+4364	Frag: Zimmer für 2 Nächte	4364.wav	accept
+4365	Frag: Einzelzimmer	4365.wav	accept
+4366	Sag: Ich möchte mit Mastercard bezahlen	4366.wav	accept
+4368	Frag: Gibt es ein Fitnessstudio?	4368.wav	accept
+4369	Frag: Wo ist das Fitnessstudio?	4369.wav	accept
+4370	Sag: Ich habe keine Reservation	4370.wav	accept
+4371	Frag: Zimmer für 4 Nächte	4371.wav	accept
+4372	Frag: Einzelzimmer	4372.wav	accept
+4373	Sag: Ich möchte mit Kreditkarte bezahlen	4373.wav	reject
+4374	Frag: Gibt es ein Hotelrestaurant?	4374.wav	accept
+4375	Frag: Wo ist das Hotelrestaurant?	4375.wav	accept
+4377	Frag: Zimmer für 6 Nächte	4377.wav	accept
+4380	Frag: Gibt es ein Hotelrestaurant?	4380.wav	accept
+4381	Frag: Wo ist das Hotelrestaurant?	4381.wav	accept
+4382	Frag: Zimmer für 5 Nächte	4382.wav	accept
+4383	Frag: Doppelzimmer	4383.wav	accept
+4384	Sag: Ich möchte mit Kreditkarte bezahlen	4384.wav	reject
+4385	Frag: Gibt es einen Lebensmittelladen?	4385.wav	accept
+4386	Frag: Wo ist der Lebensmittelladen?	4386.wav	accept
+4387	Sag: Ich habe keine Reservation	4387.wav	reject
+4388	Sag: Ich habe keine Reservation	4388.wav	reject
+4389	Sag: Ich habe keine Reservation	4389.wav	reject
+4390	Sag: Ich habe keine Reservation	4390.wav	reject
+4392	Sag: Ich habe keine Reservation	4392.wav	accept
+4394	Sag: Ich habe keine Reservation	4394.wav	reject
+4395	Sag: Ich habe keine Reservation	4395.wav	reject
+4396	Sag: Ich heisse Thomas	4396.wav	accept
+4397	Sag: Ich bin aus Irland	4397.wav	accept
+4398	Frag: ein Ticket nach London	4398.wav	accept
+4399	Sag: Ich möchte um 18 Uhr morgen abreisen	4399.wav	reject
+4400	Sag: Ich heisse Thomas	4400.wav	reject
+4401	Sag: Ich bin aus Spanien	4401.wav	accept
+4402	Sag: Ich heisse Patrick	4402.wav	accept
+4403	Sag: Ich bin aus der Schweiz	4403.wav	accept
+4404	Sag: Die Hauptstadt von der Schweiz ist Bern	4404.wav	reject
+4405	Sag: Die Hauptstadt von der Schweiz ist Bern	4405.wav	accept
+4406	Sag: Ich habe 3 ältere Brüder	4406.wav	accept
+4408	Sag: Ich gehe in die Ferien	4408.wav	reject
+4409	Sag: Dies ist mein Pass	4409.wav	accept
+4410	Sag: Dies ist mein Pass	4410.wav	accept
+4411	Frag: ein Ticket nach Notting Hill	4411.wav	reject
+4412	Sag: Ich möchte mit Visa bezahlen	4412.wav	reject
+4413	Sag: Ich möchte mit Visa bezahlen	4413.wav	accept
+4415	Frag: 1 Musical-Ticket	4415.wav	accept
+4417	Sag: Ich möchte am Dienstagabend gehen	4417.wav	accept
+4418	Frag: ein Ticket für Mamma Mia	4418.wav	reject
+4419	Frag: ein Ticket für Mamma Mia	4419.wav	accept
+4420	Sag: Ich möchte in der fünften Reihe sitzen	4420.wav	accept
+4421	Sag: Ich möchte in der fünften Reihe sitzen	4421.wav	accept
+4422	Frag: Tickets für die National Gallery	4422.wav	accept
+4423	Frag: 2 Tickets	4423.wav	accept
+4424	Frag: Zimmer für 4 Nächte	4424.wav	reject
+4425	Frag: Doppelzimmer	4425.wav	accept
+4426	Sag: Ich möchte mit Visa bezahlen	4426.wav	reject
+4427	Sag: Ich möchte mit Visa bezahlen	4427.wav	reject
+4428	Sag: Ich möchte mit Visa bezahlen	4428.wav	reject
+4429	Frag: Gibt es ein Hotelrestaurant?	4429.wav	accept
+4430	Frag: Wo ist das Hotelrestaurant?	4430.wav	accept
+4431	Frag: Wo ist das Hotelrestaurant?	4431.wav	accept
+4432	Frag: Wo ist die National Gallery?	4432.wav	reject
+4433	Frag: Wo ist Piccadilly Circus?	4433.wav	accept
+4434	Frag: Wo ist Piccadilly Circus?	4434.wav	reject
+4435	Frag: Wo ist Piccadilly Circus?	4435.wav	reject
+4436	Sag: Es ist nahe der Bank of England	4436.wav	accept
+4437	Sag: Es ist nahe der Bank of England	4437.wav	reject
+4438	Sag: Mir geht es gut	4438.wav	accept
+4439	Frag: Stiefel	4439.wav	accept
+4440	Frag: weisse Stiefel	4440.wav	reject
+4441	Frag: weisse Stiefel	4441.wav	accept
+4442	Frag: Grösse 42	4442.wav	reject
+4443	Frag: ein T-Shirt	4443.wav	accept
+4444	Frag: ein T-Shirt	4444.wav	accept
+4445	Frag: ein gelbes T-Shirt	4445.wav	accept
+4446	Frag: eine S	4446.wav	accept
+4447	Frag: Wie viel kostet das T-Shirt?	4447.wav	reject
+4449	Sag: Dies ist zu teuer	4449.wav	reject
+4450	Sag: Dies ist zu teuer	4450.wav	accept
+4451	Sag: Mir geht es gut	4451.wav	reject
+4452	Frag: Sandalen	4452.wav	accept
+4453	Frag: blaue Sandalen	4453.wav	reject
+4454	Frag: blaue Sandalen	4454.wav	accept
+4455	Frag: Grösse 43	4455.wav	reject
+4456	Frag: Grösse 43	4456.wav	accept
+4457	Frag: ein Hemd	4457.wav	reject
+4458	Frag: ein Hemd	4458.wav	reject
+4459	Frag: ein pinkiges Hemd	4459.wav	accept
+4460	Frag: eine L	4460.wav	reject
+4461	Sag: Dies ist zu eng	4461.wav	reject
+4462	Sag: Dies ist zu eng	4462.wav	reject
+4463	Sag du möchtest nicht: dieses Hemd	4463.wav	accept
+4464	Sag, dass du es nicht möchtest	4464.wav	accept
+4465	Sag: Ich habe keine Reservation	4465.wav	reject
+4466	Sag: Ich habe keine Reservation	4466.wav	reject
+4468	Frag: ein Ticket zum Piccadilly Circus	4468.wav	accept
+4470	Frag: 4 Tickets nach London	4470.wav	reject
+4471	Frag: 4 Tickets nach London	4471.wav	reject
+4472	Frag: 4 Tickets nach London	4472.wav	reject
+4473	Sag: Ich möchte am Dienstagabend abreisen	4473.wav	accept
+4474	Sag: Ich heisse Nick	4474.wav	accept
+4475	Sag: Ich bin aus Österreich	4475.wav	accept
+4476	Frag: 2 Tickets nach London	4476.wav	reject
+4477	Sag: Ich möchte am Sonntag abreisen	4477.wav	accept
+4478	Sag: Ich heisse Patrick	4478.wav	accept
+4479	Frag: 3 Tickets nach London	4479.wav	accept
+4480	Sag: Ich möchte am Samstagabend abreisen	4480.wav	reject
+4481	Sag: Ich heisse Barbara	4481.wav	accept
+4482	Sag: Ich bin aus Spanien	4482.wav	reject
+4483	Sag: Ich bin aus Spanien	4483.wav	reject
+4484	Sag: Ich heisse James	4484.wav	accept
+4485	Sag: Ich bin aus Italien	4485.wav	reject
+4486	Sag: Die Hauptstadt von Italien ist Rom	4486.wav	reject
+4487	Sag: Ich habe 4 Schwestern	4487.wav	reject
+4488	Sag: Ich habe 4 Schwestern	4488.wav	accept
+4489	Sag: Ich gehe in die Ferien	4489.wav	reject
+4490	Sag: Dies ist mein Pass	4490.wav	accept
+4491	Sag: Ich heisse Silvia	4491.wav	accept
+4492	Sag: Ich bin aus Spanien	4492.wav	reject
+4493	Sag: Die Hauptstadt von Spanien ist Madrid	4493.wav	reject
+4494	Sag: Ich habe 4 ältere Schwestern	4494.wav	reject
+4496	Sag: Dies ist mein Pass	4496.wav	accept
+4497	Sag: Ich heisse Erica	4497.wav	accept
+4498	Sag: Ich bin aus Australien	4498.wav	reject
+4499	Sag: Ich heisse Mona	4499.wav	accept
+4500	Sag: Ich bin aus Amerika	4500.wav	accept
+4501	Sag: Ich heisse Michelle	4501.wav	accept
+4502	Sag: Ich bin aus England	4502.wav	accept
+4503	Sag: Ich heisse Jack	4503.wav	accept
+4504	Sag: Ich bin aus Schottland	4504.wav	accept
+4505	Sag: Ich heisse Jack	4505.wav	accept
+4506	Sag: Ich bin aus Österreich	4506.wav	accept
+4507	Sag: Österreich ist nicht in Afrika	4507.wav	accept
+4508	Sag: Österreich ist in Europa	4508.wav	accept
+4509	Sag: Das ist okay	4509.wav	accept
+4510	Sag: Das ist okay	4510.wav	accept
+4511	Sag: Das ist okay	4511.wav	accept
+4512	Sag: Die Hauptstadt von Österreich ist Wien	4512.wav	accept
+4513	Sag: Ich habe eine ältere Schwester	4513.wav	reject
+4514	Sag: Ich habe eine ältere Schwester	4514.wav	reject
+4515	Sag: Ich habe eine ältere Schwester	4515.wav	reject
+4517	Sag: Dies ist mein Pass	4517.wav	accept
+4518	Sag: Dies ist mein Pass	4518.wav	reject
+4519	Frag: ein Ticket zum Green Park	4519.wav	accept
+4520	Sag: Ich möchte mit Kreditkarte bezahlen	4520.wav	reject
+4521	Sag: Ich möchte mit Pfund bezahlen	4521.wav	reject
+4522	Sag: Ich habe nur grosse Noten	4522.wav	reject
+4523	Sag: Ich habe nur grosse Noten	4523.wav	accept
+4524	Frag: Wo ist der Geldautomat?	4524.wav	reject
+4525	Frag: Wo ist der Geldautomat?	4525.wav	reject
+4526	Frag: ein Ticket zum Trafalgar Square	4526.wav	accept
+4527	Sag: Ich möchte mit Postkarte bezahlen	4527.wav	reject
+4528	Sag: Ich möchte mit Schweizer Franken bezahlen	4528.wav	reject
+4529	Sag: Ich möchte mit Schweizer Franken bezahlen	4529.wav	reject
+4530	Sag: Ich möchte mit Schweizer Franken bezahlen	4530.wav	accept
+4531	Sag: Ich habe kleinere Note	4531.wav	reject
+4532	Frag: ein Ticket nach Notting Hill	4532.wav	reject
+4533	Sag: Ich möchte mit Visa bezahlen	4533.wav	accept
+4534	Sag: Ich möchte mit Euros bezahlen	4534.wav	reject
+4535	Sag: Ich habe nur grosse Noten	4535.wav	reject
+4536	Sag: Ich habe nur grosse Noten	4536.wav	reject
+4538	Sag: Kann ich mit Kreditkarte bezahlen	4538.wav	accept
+4539	Sag: Kann ich mit Kreditkarte bezahlen	4539.wav	reject
+4540	Sag: Kann ich mit Kreditkarte bezahlen	4540.wav	accept
+4541	Frag: 3 Musical-Tickets	4541.wav	accept
+4542	Frag: ein Ticket für Donnerstagabend	4542.wav	reject
+4544	Frag: 3 Tickets für Wicked	4544.wav	accept
+4545	Sag: Ich möchte in der vierten Reihe sitzen	4545.wav	accept
+4546	Frag: Tickets für das Naturhistorische Museum	4546.wav	accept
+4547	Frag: 2 Tickets	4547.wav	accept
+4548	Frag: 1 Musical-Ticket	4548.wav	accept
+4549	Frag: ein Ticket für Freitagabend	4549.wav	reject
+4550	Frag: ein Ticket für Freitagabend	4550.wav	reject
+4551	Frag: ein Ticket für Freitagabend	4551.wav	reject
+4552	Frag: ein Ticket für Billy Elliot	4552.wav	accept
+4553	Sag: Ich möchte vorne sitzen	4553.wav	reject
+4554	Sag: Ich möchte vorne sitzen	4554.wav	reject
+4556	Frag: Tickets für die National Gallery	4556.wav	accept
+4557	Frag: 4 Tickets	4557.wav	accept
+4558	Frag: 4 Musical-Tickets	4558.wav	accept
+4559	Sag: Ich möchte am Dienstagabend gehen	4559.wav	reject
+4560	Frag: 4 Tickets für Wicked	4560.wav	accept
+4562	Frag: Tickets für die National Gallery	4562.wav	accept
+4563	Frag: 3 Tickets	4563.wav	accept
+4564	Frag: einen Tee	4564.wav	reject
+4565	Frag: einen Tee	4565.wav	accept
+4566	Frag: einen Hamburger	4566.wav	accept
+4567	Frag: meinen Hamburger medium	4567.wav	accept
+4568	Frag: etwas Knoblauchbrot	4568.wav	accept
+4569	Frag: Ich möchte die Dessertkarte	4569.wav	reject
+4570	Frag: Ich möchte die Dessertkarte	4570.wav	reject
+4571	Frag: Ich möchte die Dessertkarte	4571.wav	accept
+4572	Frag: ein Wasser ohne Kohlensäure	4572.wav	accept
+4573	Frag: den Sonntagsbraten	4573.wav	accept
+4574	Frag: den Sonntagsbraten	4574.wav	accept
+4575	Frag: meinen Sonntagsbraten medium	4575.wav	reject
+4576	Frag: Pilze	4576.wav	reject
+4577	Sag: Dies ist nicht was ich bestellt habe	4577.wav	accept
+4578	Frag: Ich möchte die Dessertkarte	4578.wav	accept
+4579	Frag: Ich möchte die Dessertkarte	4579.wav	reject
+4580	Frag: Custard Tart	4580.wav	reject
+4581	Frag: Ich möchte die Rechnung	4581.wav	accept
+4582	Sag: Ich möchte mit Kreditkarte bezahlen	4582.wav	reject
+4583	Frag: eine Fanta	4583.wav	accept
+4584	Frag: ein Steak	4584.wav	accept
+4585	Frag: mein Steak medium	4585.wav	accept
+4586	Frag: Bohnen	4586.wav	reject
+4587	Frag: Bohnen	4587.wav	reject
+4588	Frag: Ich möchte die Dessertkarte	4588.wav	accept
+4589	Frag: Ich möchte die Dessertkarte	4589.wav	accept
+4590	Frag: Ich möchte die Dessertkarte	4590.wav	accept
+4591	Frag: eine Cola	4591.wav	reject
+4592	Frag: ein Steak	4592.wav	accept
+4593	Frag: ein Steak	4593.wav	reject
+4594	Frag: ein Steak	4594.wav	accept
+4595	Frag: mein Steak durchgebraten	4595.wav	accept
+4596	Frag: mein Steak durchgebraten	4596.wav	accept
+4597	Frag: die Tagessuppe	4597.wav	accept
+4598	Sag: Dies ist nicht was ich bestellt habe	4598.wav	accept
+4599	Sag: Dies ist nicht was ich bestellt habe	4599.wav	accept
+4600	Sag: Dies ist nicht was ich bestellt habe	4600.wav	accept
+4601	Frag: Ich möchte die Dessertkarte	4601.wav	reject
+4602	Frag: Ich möchte die Dessertkarte	4602.wav	accept
+4603	Frag: Custard Tart	4603.wav	accept
+4604	Frag: Ich möchte die Rechnung	4604.wav	accept
+4605	Sag: Ich möchte mit Kreditkarte bezahlen	4605.wav	reject
+4606	Frag: eine Limonade	4606.wav	accept
+4607	Frag: ein Steak	4607.wav	accept
+4608	Frag: mein Steak rare	4608.wav	accept
+4609	Frag: etwas Knoblauchbrot	4609.wav	reject
+4610	Frag: etwas Knoblauchbrot	4610.wav	reject
+4611	Frag: etwas Knoblauchbrot	4611.wav	reject
+4612	Sag: Dies ist nicht was ich bestellt habe	4612.wav	accept
+4613	Frag: Ich möchte die Dessertkarte	4613.wav	accept
+4614	Frag: Ich möchte die Dessertkarte	4614.wav	accept
+4615	Frag: Ich möchte die Dessertkarte	4615.wav	reject
+4617	Frag: Zitronenkuchen	4617.wav	reject
+4618	Frag: Zitronenkuchen	4618.wav	reject
+4619	Frag: Ich möchte die Rechnung	4619.wav	accept
+4620	Sag: Ich möchte mit Kreditkarte bezahlen	4620.wav	reject
+4621	Sag: Ich möchte mit Kreditkarte bezahlen	4621.wav	accept
+4622	Frag: Wo ist die National Gallery?	4622.wav	accept
+4623	Frag: Wo ist Piccadilly Circus?	4623.wav	accept
+4624	Frag: Wo ist Piccadilly Circus?	4624.wav	accept
+4625	Frag: Welcher Bus fährt dorthin?	4625.wav	accept
+4627	Frag: Wo ist das Science Museum?	4627.wav	accept
+4628	Frag: Wo ist das London Eye?	4628.wav	accept
+4629	Frag: Welcher Bus fährt dorthin?	4629.wav	reject
+4630	Sag: Der Tower ist nahe der Tower Bridge	4630.wav	accept
+4631	Sag: Ich weiss es nicht	4631.wav	accept
+4632	Sag: Ich muss gehen	4632.wav	reject
+4634	Frag: Wo ist das Science Museum?	4634.wav	accept
+4635	Sag: Marble Arch ist gegenüber dem Hyde Park	4635.wav	reject
+4636	Sag: Marble Arch ist gegenüber dem Hyde Park	4636.wav	reject
+4637	Sag: Marble Arch ist gegenüber dem Hyde Park	4637.wav	reject
+4638	Frag: Wo ist das British Museum?	4638.wav	accept
+4639	Frag: Wo ist das British Museum?	4639.wav	reject
+4640	Frag: Wo ist Big Ben?	4640.wav	reject
+4641	Frag: Welcher Bus fährt dorthin?	4641.wav	accept
+4642	Sag: Saint Pauls Cathedral ist nahe der Bank of England	4642.wav	reject
+4643	Frag: Wo ist das Science Museum?	4643.wav	accept
+4644	Frag: Wo ist der Tower?	4644.wav	reject
+4645	Frag: Wo ist der Tower?	4645.wav	accept
+4646	Frag: Wo ist der Tower?	4646.wav	reject
+4647	Sag: Saint Pauls Cathedral ist nahe der Bank of England	4647.wav	reject
+4649	Frag: Sandalen	4649.wav	reject
+4651	Frag: rote Sandalen	4651.wav	accept
+4652	Frag: Grösse 39	4652.wav	accept
+4653	Frag: Jeans	4653.wav	reject
+4654	Frag: pinkige Jeans	4654.wav	accept
+4656	Frag: Wie viel kostet die Jeans?	4656.wav	reject
+4657	Frag: Wie viel kostet die Jeans?	4657.wav	reject
+4658	Sag: Dies ist zu teuer	4658.wav	accept
+4659	Sag: Mir geht es gut	4659.wav	accept
+4660	Frag: Stiefel	4660.wav	accept
+4661	Frag: blaue Stiefel	4661.wav	accept
+4662	Frag: Grösse 37	4662.wav	reject
+4663	Frag: ein Hemd	4663.wav	accept
+4664	Frag: ein gelbes Hemd	4664.wav	accept
+4667	Frag: eine L	4667.wav	accept
+4668	Frag: Wie viel kostet es?	4668.wav	accept
+4669	Sag: Das Hemd ist zu teuer	4669.wav	accept
+4670	Frag: Zimmer für 5 Nächte	4670.wav	accept
+4671	Frag: Suite	4671.wav	accept
+4672	Sag: Ich möchte mit Kreditkarte bezahlen	4672.wav	reject
+4673	Frag: Gibt es einen Coiffeur?	4673.wav	accept
+4674	Frag: Wo ist der Coiffeur?	4674.wav	accept
+4675	Frag: Wo ist der Coiffeur?	4675.wav	accept
+4676	Frag: Wo ist der Coiffeur?	4676.wav	reject
+4677	Frag: Zimmer für 1 Woche	4677.wav	reject
+4678	Frag: Doppelzimmer	4678.wav	reject
+4679	Frag: Doppelzimmer	4679.wav	accept
+4680	Frag: Doppelzimmer	4680.wav	accept
+4681	Sag: Ich möchte mit Mastercard bezahlen	4681.wav	reject
+4682	Frag: Gibt es einen Lift?	4682.wav	accept
+4683	Frag: Gibt es einen Lift?	4683.wav	reject
+4684	Frag: Gibt es einen Lift?	4684.wav	accept
+4685	Frag: ein Ticket nach London	4685.wav	accept
+4686	Sag: Ich möchte um 22 Uhr morgen abreisen	4686.wav	reject
+4687	Sag: Ich heisse John	4687.wav	accept
+4688	Sag: Ich bin aus Italien	4688.wav	reject
+4689	Frag: 4 Tickets nach London	4689.wav	accept
+4690	Sag: Ich möchte am Mittwochabend abreisen	4690.wav	accept
+4691	Sag: Ich möchte am Mittwochabend abreisen	4691.wav	reject
+4692	Sag: Ich möchte am Mittwochabend abreisen	4692.wav	accept
+4693	Sag: Ich heisse Janet	4693.wav	reject
+4694	Sag: Ich bin aus Italien	4694.wav	accept
+4695	Sag: Ich bin aus Italien	4695.wav	reject
+4696	Frag: 3 Tickets nach London	4696.wav	accept
+4697	Sag: Ich möchte am Sonntag abreisen	4697.wav	accept
+4698	Sag: Ich heisse Paolo	4698.wav	accept
+4699	Sag: Ich bin aus der Schweiz	4699.wav	reject
+4700	Sag: Ich heisse Sarah	4700.wav	accept
+4701	Sag: Ich bin aus Portugal	4701.wav	accept
