@@ -62,3 +62,31 @@ def get_test_data_by_false_prompts(cluster_prompts, false_prompts, grammar):
     #    if arr[]
     #    transcripts_arr.append()
     return transcripts_arr
+
+def read_reference(file):
+    id_map = {}
+    with open(file, 'r') as reader:
+        lines = reader.readlines()[1:]
+        for line in lines:
+            split = line.replace("\n", "").split("\t")
+            id_ = split[0]
+            prompt = split[1]
+            transcript = split[3]
+            language_string = split[4]
+            meaning_string = split[5]
+            language = False
+            meaning=False
+            if language_string == 'correct':
+                language = True
+            if meaning_string == 'correct':
+                meaning = True
+
+            item = {
+                'id': id_,
+                'prompt': prompt,
+                'transcript': transcript,
+                'language': language,
+                'meaning': meaning
+            }
+            id_map[id_] = item
+    return id_map
