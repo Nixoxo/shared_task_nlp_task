@@ -1,3 +1,15 @@
+from scripts.utils.string_handling import *
+
+
+def transcript_processed_unique(transcript):
+    sentence = transcript
+    if "***" in sentence:
+        sentence = sentence.replace("***", "")
+    processed = sentence
+    processed = clear_sentence(sentence).lstrip()
+    unique_sentence = get_unique_sentence(processed).lstrip()
+    return processed, unique_sentence
+
 def read_test_data(file):
     with open(file, 'r') as reader:
         test_data = reader.readlines()
@@ -5,12 +17,14 @@ def read_test_data(file):
         for item in test_data[1:]:
             split = item.replace("\n", "").split("\t")
             prompt = split[1]
-
+            transcript = split[3]
+            processed, unique_sentence = transcript_processed_unique(split[3])
+            response = {'id':split[0], 'transcript':transcript, 'processed':processed, 'unqiue':unique_sentence, 'language':False, 'meaning':False}
             if prompt in prompt_map:
-                prompt_map[prompt].append({'id': split[0], "transcript": split[3]})
+                prompt_map[prompt].append(response)
             else:
                 arr = []
-                arr.append({'id': split[0], "transcript": split[3]})
+                arr.append(response)
                 prompt_map[prompt] = arr
 
         return prompt_map
