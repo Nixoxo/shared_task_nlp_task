@@ -10,30 +10,38 @@ def transcript_processed_unique(transcript):
     unique_sentence = get_unique_sentence(processed).lstrip()
     return processed, unique_sentence
 
-def read_test_data(file):
+def read_test_data(file, header=False):
     with open(file, 'r') as reader:
         test_data = reader.readlines()
+        if header:
+            test_data = test_data[1:]
         prompt_map = {}
-        for item in test_data[1:]:
+        for item in test_data:
             split = item.replace("\n", "").split("\t")
             prompt = split[1]
             transcript = split[3]
-            processed, unique_sentence = transcript_processed_unique(split[3])
             response = {
-                'id':split[0],
-                'transcript':transcript,
-                'processed':processed,
-                'unique':unique_sentence,
-                'language':False,
-                'meaning':False,
-                'judgement':'reject'
+                'id': split[0],
+                'transcript': transcript,
+                'processed': transcript,
+                'unique': transcript,
+                'language': False,
+                'meaning': False,
+                'judgement': 'reject'
             }
-            if prompt in prompt_map:
-                prompt_map[prompt].append(response)
-            else:
-                arr = []
-                arr.append(response)
-                prompt_map[prompt] = arr
+            try:
+                processed, unique_sentence = transcript_processed_unique(split[3])
+                response['processed'] = processed
+                response['unique'] = unique_sentence
+            except:
+                print("Error when reading line: %s" % item)
+            finally:
+                if prompt in prompt_map:
+                    prompt_map[prompt].append(response)
+                else:
+                    arr = []
+                    arr.append(response)
+                    prompt_map[prompt] = arr
 
         return prompt_map
 
